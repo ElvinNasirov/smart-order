@@ -5,19 +5,32 @@ from pathlib import Path
 MODEL = "qwen2.5:7b-instruct"
 FIELDS = ["date", "store", "product_name", "category", "quantity", "unit_price"]
 OUT = Path("output"); OUT.mkdir(exist_ok=True)
-RU = {"янв":"01","фев":"02","мар":"03","апр":"04","ма":"05","июн":"06","июл":"07",
-      "авг":"08","сен":"09","окт":"10","ноя":"11","дек":"12"}
 
-PROMPT = """Это первые 20 строк листа Excel с продажами магазина (номер строки: значения):
+# Russian month abbreviations for source-data date parsing.
+# Built from codepoints so the source file stays ASCII-clean.
+RU = {chr(0x044f)+chr(0x043d)+chr(0x0432): "01",   # yanv = Jan
+      chr(0x0444)+chr(0x0435)+chr(0x0432): "02",   # fev  = Feb
+      chr(0x043c)+chr(0x0430)+chr(0x0440): "03",   # mar  = Mar
+      chr(0x0430)+chr(0x043f)+chr(0x0440): "04",   # apr  = Apr
+      chr(0x043c)+chr(0x0430):             "05",   # ma   = May
+      chr(0x0438)+chr(0x044e)+chr(0x043d): "06",   # iyun = Jun
+      chr(0x0438)+chr(0x044e)+chr(0x043b): "07",   # iyul = Jul
+      chr(0x0430)+chr(0x0432)+chr(0x0433): "08",   # avg  = Aug
+      chr(0x0441)+chr(0x0435)+chr(0x043d): "09",   # sen  = Sep
+      chr(0x043e)+chr(0x043a)+chr(0x0442): "10",   # okt  = Oct
+      chr(0x043d)+chr(0x043e)+chr(0x044f): "11",   # noy  = Nov
+      chr(0x0434)+chr(0x0435)+chr(0x043a): "12"}   # dek  = Dec
+
+PROMPT = """These are the first 20 rows of a store sales Excel sheet (row number: values):
 {preview}
-Верни JSON:
-{{"header_row": номер строки с заголовками,
- "layout": "long" если строка = товар за день, "wide" если колонки это дни месяца,
- "columns": {{"date": имя колонки или null, "store": колонка магазина/филиала или null, "product_name": ..., "category": ... или null,
-   "quantity": ... или null, "unit_price": ... или null}},
- "day_columns": [имена колонок-дней, только для wide],
- "problems": [замеченные проблемы в данных, по-русски]}}
-Имена колонок пиши точно как в строке заголовков."""
+Return JSON:
+{{"header_row": row number containing column headers,
+ "layout": "long" if each row is one product for one day, "wide" if columns are days of the month,
+ "columns": {{"date": column name or null, "store": store/branch column name or null, "product_name": ..., "category": ... or null,
+   "quantity": ... or null, "unit_price": ... or null}},
+ "day_columns": [column names that are days, only for wide layout],
+ "problems": [data quality issues noticed, in English]}}
+Write column names exactly as they appear in the header row."""
 
 def ask_llm(prompt):
     r = requests.post("http://localhost:11434/api/generate", timeout=600, json={
@@ -80,10 +93,10 @@ def check(df):
     df["product_name"] = df["product_name"].astype(str).str.strip().str.capitalize()
     df = df[df["product_name"].notna() & (df["product_name"] != "Nan")]
     rules = [
-        (df["date"].isna(), "Неверная или пустая дата", "Уточнить у менеджера, строку не грузим"),
-        (df["quantity"].isna(), "Количество не число или пусто", "Уточнить, строку не грузим"),
-        (df["quantity"] < 0, "Отрицательное количество", "Скорее всего возврат, проверить"),
-        (df.duplicated(["date", "store", "product_name", "quantity"]), "Дубликат строки", "Удалить дубль"),
+        (df["date"].isna(),     "Invalid or missing date",          "Clarify with manager, row skipped"),
+        (df["quantity"].isna(), "Quantity is not a number or empty", "Clarify, row skipped"),
+        (df["quantity"] < 0,   "Negative quantity",                 "Likely a return, please verify"),
+        (df.duplicated(["date", "store", "product_name", "quantity"]), "Duplicate row", "Remove duplicate"),
     ]
     issues, bad = [], pd.Series(False, index=df.index)
     for mask, problem, action in rules:
@@ -102,12 +115,12 @@ for path in files:
     good, iss = check(df)
     frames.append(good); issues += iss
     issues += [{"file": path.name, "row": "", "product": "", "problem": p,
-                "action": "Замечание ИИ"} for p in llm_problems]
+                "action": "AI note"} for p in llm_problems]
 
 sales = pd.concat(frames, ignore_index=True).drop(columns="excel_row")
 sales["date"] = sales["date"].dt.strftime("%Y-%m-%d")
 with sqlite3.connect(OUT / "sales.db") as con:
     sales.to_sql("sales", con, if_exists="replace", index=False)
-sales.head(50000).to_excel(OUT / "normalized.xlsx", index=False)  # полная база в sales.db
+sales.head(50000).to_excel(OUT / "normalized.xlsx", index=False)  # full database in sales.db
 pd.DataFrame(issues).to_excel(OUT / "issues_report.xlsx", index=False)
-print(f"OK: {len(sales)} строк в БД, {len(issues)} проблем в отчёте")
+print(f"OK: {len(sales)} rows in DB, {len(issues)} issues in report")
