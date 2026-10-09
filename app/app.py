@@ -1,4 +1,4 @@
-import subprocess, sys
+import os, subprocess, sys
 from pathlib import Path
 import pandas as pd
 import streamlit as st
@@ -8,7 +8,9 @@ st.title("Smart Order: заказ на завтра")
 DATA, OUT = Path("data"), Path("output")
 
 def run(script):
-    r = subprocess.run([sys.executable, script], capture_output=True, text=True)
+    env = {**os.environ, "PYTHONIOENCODING": "utf-8", "PYTHONUTF8": "1"}
+    r = subprocess.run([sys.executable, script], capture_output=True, text=True,
+                       encoding="utf-8", errors="replace", env=env)
     st.code(r.stdout[-3000:] + r.stderr[-3000:])
     return r.returncode == 0
 
@@ -39,7 +41,7 @@ with tab2:
         st.dataframe(fc)
         st.download_button("Скачать заказ", fc.to_csv(index=False), "order.csv")
     else:
-        st.info("Прогноз появится, когда Роя добавит ml/forecast.py")
+        st.info("Нажмите «Построить прогноз»")
 
 with tab3:
     if Path("normalize/evaluate.py").exists() and st.button("Оценить нормализацию"):
