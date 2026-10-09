@@ -1,0 +1,27 @@
+file,sheet,row,column,error_type,original_value,injected_value
+sales_2021_08.xlsx,Satış,602,(bütün sətir),duplicate_row,601-ci sətrin surəti,
+sales_2021_08.xlsx,Satış,218,D (Miqdar),empty_cell,8,
+sales_2021_08.xlsx,Satış,893,E (Qiymət),empty_cell,12.0,
+sales_2021_08.xlsx,Satış,263,B (Məhsul),typo,Süd 1L,Sud 1L
+sales_2021_08.xlsx,Satış,761,B (Məhsul),typo,Ağ çörək,Ag corek
+sales_2021_08.xlsx,Satış,62,D (Miqdar),negative_quantity,34,-34
+sales_2021_08.xlsx,Satış,892,A (Tarix),invalid_date,31.08.2021,32.08.2021
+sales_2021_08.xlsx,Satış,161,D (Miqdar),text_instead_of_number,10,10 ədəd
+sales_2023_12.xlsx,Продажи,382,(bütün sətir),duplicate_row,381-ci sətrin surəti,
+sales_2023_12.xlsx,Продажи,376,C (Кол-во),empty_cell,39,
+sales_2023_12.xlsx,Продажи,758,D (Цена за ед.),empty_cell,"1,50 AZN",
+sales_2023_12.xlsx,Продажи,5,B (Наименование),typo,Молоко 1л,Moloko 1л
+sales_2023_12.xlsx,Продажи,735,B (Наименование),typo,Хлеб белый,Хлеб белыи
+sales_2023_12.xlsx,Продажи,21,C (Кол-во),negative_quantity,7,-7
+sales_2023_12.xlsx,Продажи,620,A (Дата),invalid_date,22 Dec 2023,31 Nov 2023
+sales_2023_12.xlsx,Продажи,455,C (Кол-во),text_instead_of_number,17,17 шт
+sales_2023_12.xlsx,Продажи,903,(bütün sətir),total_row,,Итого
+sales_2025_01.xlsx,Satış,26,(bütün sətir),duplicate_row,25-ci sətrin surəti,
+sales_2025_01.xlsx,Satış,1,AG (32),invalid_date,,32 yanvar sütunu
+sales_2025_01.xlsx,Satış,10,A (Məhsul),typo,Dondurma plombir,Dondurma plombr
+sales_2025_01.xlsx,Satış,30,E (4),empty_cell,16.9,
+sales_2025_01.xlsx,Satış,15,Y (24),empty_cell,14,
+sales_2025_01.xlsx,Satış,2,P (15),negative_quantity,34,-34
+sales_2025_01.xlsx,Satış,22,Z (25),text_instead_of_number,21,21 əd
+sales_2025_01.xlsx,Satış,14,AB (27),text_instead_of_number,8,8 əd
+sales_2025_01.xlsx,Qiymətlər,21,B (Qiymət (AZN)),text_instead_of_number,18.2,"18,20 AZN"

@@ -1,0 +1,2689 @@
+date,product_name,category,quantity,unit_price,source_file
+2021-08-01,Alma,Meyvə-tərəvəz,12.8,1.8,sales_2021_08.xlsx
+2021-08-01,Ağ pendir,Süd məhsulları,6.5,7.5,sales_2021_08.xlsx
+2021-08-01,Ağ çörək,Çörək,94.0,0.5,sales_2021_08.xlsx
+2021-08-01,Dondurma eskimo,Dondurma,79.0,0.7,sales_2021_08.xlsx
+2021-08-01,Dondurma plombir,Dondurma,100.0,0.8,sales_2021_08.xlsx
+2021-08-01,Düyü 1kq,Bakaleya,14.0,2.4,sales_2021_08.xlsx
+2021-08-01,Günəbaxan yağı 1L,Bakaleya,10.0,2.9,sales_2021_08.xlsx
+2021-08-01,Kefir 1L,Süd məhsulları,30.0,1.3,sales_2021_08.xlsx
+2021-08-01,Konfet,Şirniyyat,3.8,9.0,sales_2021_08.xlsx
+2021-08-01,Kərə yağı 200q,Süd məhsulları,13.0,2.8,sales_2021_08.xlsx
+2021-08-01,Lavaş,Çörək,61.0,0.4,sales_2021_08.xlsx
+2021-08-01,Limonad 1L,İçkilər,37.0,1.1,sales_2021_08.xlsx
+2021-08-01,Makaron 400q,Bakaleya,21.0,1.1,sales_2021_08.xlsx
+2021-08-01,Mal əti,Ət,13.4,12.0,sales_2021_08.xlsx
+2021-08-01,Mandarin,Meyvə-tərəvəz,0.3,2.5,sales_2021_08.xlsx
+2021-08-01,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-01,Pomidor,Meyvə-tərəvəz,30.4,2.0,sales_2021_08.xlsx
+2021-08-01,Qara çay 100q,Çay və qəhvə,18.0,2.2,sales_2021_08.xlsx
+2021-08-01,Qatıq 0.5kq,Süd məhsulları,42.0,1.0,sales_2021_08.xlsx
+2021-08-01,Qoyun əti,Ət,6.4,13.0,sales_2021_08.xlsx
+2021-08-01,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-01,Su 1.5L,İçkilər,93.0,0.5,sales_2021_08.xlsx
+2021-08-01,Süd 1L,Süd məhsulları,54.0,1.2,sales_2021_08.xlsx
+2021-08-01,Tort,Şirniyyat,4.0,12.0,sales_2021_08.xlsx
+2021-08-01,Toyuq,Ət,18.5,5.5,sales_2021_08.xlsx
+2021-08-01,Yaşıl çay 100q,Çay və qəhvə,6.0,2.5,sales_2021_08.xlsx
+2021-08-01,Yumurta 10 əd,Süd məhsulları,20.0,1.9,sales_2021_08.xlsx
+2021-08-01,Şokolad,Şirniyyat,24.0,1.5,sales_2021_08.xlsx
+2021-08-01,Şəkər 1kq,Bakaleya,17.0,1.6,sales_2021_08.xlsx
+2021-08-02,Alma,Meyvə-tərəvəz,9.8,1.8,sales_2021_08.xlsx
+2021-08-02,Ağ pendir,Süd məhsulları,4.7,7.5,sales_2021_08.xlsx
+2021-08-02,Ağ çörək,Çörək,79.0,0.5,sales_2021_08.xlsx
+2021-08-02,Dondurma eskimo,Dondurma,57.0,0.7,sales_2021_08.xlsx
+2021-08-02,Dondurma plombir,Dondurma,80.0,0.8,sales_2021_08.xlsx
+2021-08-02,Düyü 1kq,Bakaleya,9.0,2.4,sales_2021_08.xlsx
+2021-08-02,Günəbaxan yağı 1L,Bakaleya,5.0,2.9,sales_2021_08.xlsx
+2021-08-02,Kefir 1L,Süd məhsulları,22.0,1.3,sales_2021_08.xlsx
+2021-08-02,Konfet,Şirniyyat,4.3,9.0,sales_2021_08.xlsx
+2021-08-02,Kərə yağı 200q,Süd məhsulları,8.0,2.8,sales_2021_08.xlsx
+2021-08-02,Lavaş,Çörək,50.0,0.4,sales_2021_08.xlsx
+2021-08-02,Limonad 1L,İçkilər,31.0,1.1,sales_2021_08.xlsx
+2021-08-02,Makaron 400q,Bakaleya,15.0,1.1,sales_2021_08.xlsx
+2021-08-02,Mal əti,Ət,14.5,12.0,sales_2021_08.xlsx
+2021-08-02,Mandarin,Meyvə-tərəvəz,0.5,2.5,sales_2021_08.xlsx
+2021-08-02,Peçenye 300q,Şirniyyat,23.0,1.8,sales_2021_08.xlsx
+2021-08-02,Pomidor,Meyvə-tərəvəz,46.7,2.0,sales_2021_08.xlsx
+2021-08-02,Qara çay 100q,Çay və qəhvə,13.0,2.2,sales_2021_08.xlsx
+2021-08-02,Qatıq 0.5kq,Süd məhsulları,36.0,1.0,sales_2021_08.xlsx
+2021-08-02,Qoyun əti,Ət,3.7,13.0,sales_2021_08.xlsx
+2021-08-02,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-02,Su 1.5L,İçkilər,76.0,0.5,sales_2021_08.xlsx
+2021-08-02,Süd 1L,Süd məhsulları,36.0,1.2,sales_2021_08.xlsx
+2021-08-02,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-02,Toyuq,Ət,7.7,5.5,sales_2021_08.xlsx
+2021-08-02,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-02,Yumurta 10 əd,Süd məhsulları,9.0,1.9,sales_2021_08.xlsx
+2021-08-02,Şokolad,Şirniyyat,19.0,1.5,sales_2021_08.xlsx
+2021-08-02,Şəkər 1kq,Bakaleya,13.0,1.6,sales_2021_08.xlsx
+2021-08-03,Alma,Meyvə-tərəvəz,12.6,1.8,sales_2021_08.xlsx
+2021-08-03,Ağ pendir,Süd məhsulları,8.8,7.5,sales_2021_08.xlsx
+2021-08-03,Ağ çörək,Çörək,90.0,0.5,sales_2021_08.xlsx
+2021-08-03,Dondurma eskimo,Dondurma,71.0,0.7,sales_2021_08.xlsx
+2021-08-03,Dondurma plombir,Dondurma,65.0,0.8,sales_2021_08.xlsx
+2021-08-03,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-03,Günəbaxan yağı 1L,Bakaleya,9.0,2.9,sales_2021_08.xlsx
+2021-08-03,Kefir 1L,Süd məhsulları,17.0,1.3,sales_2021_08.xlsx
+2021-08-03,Konfet,Şirniyyat,10.9,9.0,sales_2021_08.xlsx
+2021-08-03,Kərə yağı 200q,Süd məhsulları,9.0,2.8,sales_2021_08.xlsx
+2021-08-03,Lavaş,Çörək,45.0,0.4,sales_2021_08.xlsx
+2021-08-03,Limonad 1L,İçkilər,40.0,1.1,sales_2021_08.xlsx
+2021-08-03,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-03,Mal əti,Ət,9.4,12.0,sales_2021_08.xlsx
+2021-08-03,Mandarin,Meyvə-tərəvəz,0.9,2.5,sales_2021_08.xlsx
+2021-08-03,Peçenye 300q,Şirniyyat,9.0,1.8,sales_2021_08.xlsx
+2021-08-03,Pomidor,Meyvə-tərəvəz,21.0,2.0,sales_2021_08.xlsx
+2021-08-03,Qara çay 100q,Çay və qəhvə,12.0,2.2,sales_2021_08.xlsx
+2021-08-03,Qatıq 0.5kq,Süd məhsulları,34.0,1.0,sales_2021_08.xlsx
+2021-08-03,Qoyun əti,Ət,6.0,13.0,sales_2021_08.xlsx
+2021-08-03,Qəhvə 100q,Çay və qəhvə,5.0,3.5,sales_2021_08.xlsx
+2021-08-03,Su 1.5L,İçkilər,64.0,0.5,sales_2021_08.xlsx
+2021-08-03,Süd 1L,Süd məhsulları,31.0,1.2,sales_2021_08.xlsx
+2021-08-03,Tort,Şirniyyat,4.0,12.0,sales_2021_08.xlsx
+2021-08-03,Toyuq,Ət,9.2,5.5,sales_2021_08.xlsx
+2021-08-03,Yaşıl çay 100q,Çay və qəhvə,7.0,2.5,sales_2021_08.xlsx
+2021-08-03,Yumurta 10 əd,Süd məhsulları,16.0,1.9,sales_2021_08.xlsx
+2021-08-03,Şokolad,Şirniyyat,20.0,1.5,sales_2021_08.xlsx
+2021-08-03,Şəkər 1kq,Bakaleya,11.0,1.6,sales_2021_08.xlsx
+2021-08-04,Alma,Meyvə-tərəvəz,22.2,1.8,sales_2021_08.xlsx
+2021-08-04,Ağ pendir,Süd məhsulları,4.5,7.5,sales_2021_08.xlsx
+2021-08-04,Ağ çörək,Çörək,69.0,0.5,sales_2021_08.xlsx
+2021-08-04,Dondurma eskimo,Dondurma,58.0,0.7,sales_2021_08.xlsx
+2021-08-04,Dondurma plombir,Dondurma,77.0,0.8,sales_2021_08.xlsx
+2021-08-04,Düyü 1kq,Bakaleya,14.0,2.4,sales_2021_08.xlsx
+2021-08-04,Günəbaxan yağı 1L,Bakaleya,15.0,2.9,sales_2021_08.xlsx
+2021-08-04,Kefir 1L,Süd məhsulları,16.0,1.3,sales_2021_08.xlsx
+2021-08-04,Konfet,Şirniyyat,4.9,9.0,sales_2021_08.xlsx
+2021-08-04,Kərə yağı 200q,Süd məhsulları,16.0,2.8,sales_2021_08.xlsx
+2021-08-04,Lavaş,Çörək,42.0,0.4,sales_2021_08.xlsx
+2021-08-04,Limonad 1L,İçkilər,36.0,1.1,sales_2021_08.xlsx
+2021-08-04,Makaron 400q,Bakaleya,21.0,1.1,sales_2021_08.xlsx
+2021-08-04,Mal əti,Ət,2.5,12.0,sales_2021_08.xlsx
+2021-08-04,Mandarin,Meyvə-tərəvəz,0.6,2.5,sales_2021_08.xlsx
+2021-08-04,Peçenye 300q,Şirniyyat,12.0,1.8,sales_2021_08.xlsx
+2021-08-04,Pomidor,Meyvə-tərəvəz,41.1,2.0,sales_2021_08.xlsx
+2021-08-04,Qara çay 100q,Çay və qəhvə,12.0,2.2,sales_2021_08.xlsx
+2021-08-04,Qatıq 0.5kq,Süd məhsulları,22.0,1.0,sales_2021_08.xlsx
+2021-08-04,Qoyun əti,Ət,7.0,13.0,sales_2021_08.xlsx
+2021-08-04,Qəhvə 100q,Çay və qəhvə,4.0,3.5,sales_2021_08.xlsx
+2021-08-04,Su 1.5L,İçkilər,85.0,0.5,sales_2021_08.xlsx
+2021-08-04,Süd 1L,Süd məhsulları,48.0,1.2,sales_2021_08.xlsx
+2021-08-04,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-04,Toyuq,Ət,24.2,5.5,sales_2021_08.xlsx
+2021-08-04,Yaşıl çay 100q,Çay və qəhvə,3.0,2.5,sales_2021_08.xlsx
+2021-08-04,Yumurta 10 əd,Süd məhsulları,11.0,1.9,sales_2021_08.xlsx
+2021-08-04,Şokolad,Şirniyyat,16.0,1.5,sales_2021_08.xlsx
+2021-08-04,Şəkər 1kq,Bakaleya,15.0,1.6,sales_2021_08.xlsx
+2021-08-05,Alma,Meyvə-tərəvəz,11.1,1.8,sales_2021_08.xlsx
+2021-08-05,Ağ pendir,Süd məhsulları,2.7,7.5,sales_2021_08.xlsx
+2021-08-05,Ağ çörək,Çörək,79.0,0.5,sales_2021_08.xlsx
+2021-08-05,Dondurma eskimo,Dondurma,74.0,0.7,sales_2021_08.xlsx
+2021-08-05,Dondurma plombir,Dondurma,75.0,0.8,sales_2021_08.xlsx
+2021-08-05,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-05,Günəbaxan yağı 1L,Bakaleya,7.0,2.9,sales_2021_08.xlsx
+2021-08-05,Kefir 1L,Süd məhsulları,24.0,1.3,sales_2021_08.xlsx
+2021-08-05,Konfet,Şirniyyat,3.9,9.0,sales_2021_08.xlsx
+2021-08-05,Kərə yağı 200q,Süd məhsulları,13.0,2.8,sales_2021_08.xlsx
+2021-08-05,Lavaş,Çörək,56.0,0.4,sales_2021_08.xlsx
+2021-08-05,Limonad 1L,İçkilər,39.0,1.1,sales_2021_08.xlsx
+2021-08-05,Makaron 400q,Bakaleya,22.0,1.1,sales_2021_08.xlsx
+2021-08-05,Mal əti,Ət,3.5,12.0,sales_2021_08.xlsx
+2021-08-05,Mandarin,Meyvə-tərəvəz,0.8,2.5,sales_2021_08.xlsx
+2021-08-05,Peçenye 300q,Şirniyyat,18.0,1.8,sales_2021_08.xlsx
+2021-08-05,Pomidor,Meyvə-tərəvəz,24.3,2.0,sales_2021_08.xlsx
+2021-08-05,Qara çay 100q,Çay və qəhvə,7.0,2.2,sales_2021_08.xlsx
+2021-08-05,Qatıq 0.5kq,Süd məhsulları,42.0,1.0,sales_2021_08.xlsx
+2021-08-05,Qoyun əti,Ət,6.0,13.0,sales_2021_08.xlsx
+2021-08-05,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-05,Su 1.5L,İçkilər,69.0,0.5,sales_2021_08.xlsx
+2021-08-05,Süd 1L,Süd məhsulları,30.0,1.2,sales_2021_08.xlsx
+2021-08-05,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-05,Toyuq,Ət,7.0,5.5,sales_2021_08.xlsx
+2021-08-05,Yaşıl çay 100q,Çay və qəhvə,9.0,2.5,sales_2021_08.xlsx
+2021-08-05,Yumurta 10 əd,Süd məhsulları,16.0,1.9,sales_2021_08.xlsx
+2021-08-05,Şokolad,Şirniyyat,24.0,1.5,sales_2021_08.xlsx
+2021-08-05,Şəkər 1kq,Bakaleya,22.0,1.6,sales_2021_08.xlsx
+2021-08-06,Alma,Meyvə-tərəvəz,12.6,1.8,sales_2021_08.xlsx
+2021-08-06,Ağ pendir,Süd məhsulları,10.3,7.5,sales_2021_08.xlsx
+2021-08-06,Ağ çörək,Çörək,83.0,0.5,sales_2021_08.xlsx
+2021-08-06,Dondurma eskimo,Dondurma,62.0,0.7,sales_2021_08.xlsx
+2021-08-06,Dondurma plombir,Dondurma,66.0,0.8,sales_2021_08.xlsx
+2021-08-06,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-06,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-06,Kefir 1L,Süd məhsulları,25.0,1.3,sales_2021_08.xlsx
+2021-08-06,Konfet,Şirniyyat,4.0,9.0,sales_2021_08.xlsx
+2021-08-06,Kərə yağı 200q,Süd məhsulları,9.0,2.8,sales_2021_08.xlsx
+2021-08-06,Lavaş,Çörək,42.0,0.4,sales_2021_08.xlsx
+2021-08-06,Limonad 1L,İçkilər,44.0,1.1,sales_2021_08.xlsx
+2021-08-06,Makaron 400q,Bakaleya,14.0,1.1,sales_2021_08.xlsx
+2021-08-06,Mal əti,Ət,1.9,12.0,sales_2021_08.xlsx
+2021-08-06,Mandarin,Meyvə-tərəvəz,0.8,2.5,sales_2021_08.xlsx
+2021-08-06,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-06,Pomidor,Meyvə-tərəvəz,34.8,2.0,sales_2021_08.xlsx
+2021-08-06,Qara çay 100q,Çay və qəhvə,13.0,2.2,sales_2021_08.xlsx
+2021-08-06,Qatıq 0.5kq,Süd məhsulları,35.0,1.0,sales_2021_08.xlsx
+2021-08-06,Qoyun əti,Ət,11.0,13.0,sales_2021_08.xlsx
+2021-08-06,Qəhvə 100q,Çay və qəhvə,10.0,3.5,sales_2021_08.xlsx
+2021-08-06,Su 1.5L,İçkilər,73.0,0.5,sales_2021_08.xlsx
+2021-08-06,Süd 1L,Süd məhsulları,46.0,1.2,sales_2021_08.xlsx
+2021-08-06,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-06,Toyuq,Ət,8.6,5.5,sales_2021_08.xlsx
+2021-08-06,Yaşıl çay 100q,Çay və qəhvə,4.0,2.5,sales_2021_08.xlsx
+2021-08-06,Yumurta 10 əd,Süd məhsulları,15.0,1.9,sales_2021_08.xlsx
+2021-08-06,Şokolad,Şirniyyat,19.0,1.5,sales_2021_08.xlsx
+2021-08-06,Şəkər 1kq,Bakaleya,23.0,1.6,sales_2021_08.xlsx
+2021-08-07,Alma,Meyvə-tərəvəz,19.6,1.8,sales_2021_08.xlsx
+2021-08-07,Ağ pendir,Süd məhsulları,5.5,7.5,sales_2021_08.xlsx
+2021-08-07,Ağ çörək,Çörək,82.0,0.5,sales_2021_08.xlsx
+2021-08-07,Dondurma eskimo,Dondurma,69.0,0.7,sales_2021_08.xlsx
+2021-08-07,Dondurma plombir,Dondurma,95.0,0.8,sales_2021_08.xlsx
+2021-08-07,Düyü 1kq,Bakaleya,12.0,2.4,sales_2021_08.xlsx
+2021-08-07,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-07,Kefir 1L,Süd məhsulları,21.0,1.3,sales_2021_08.xlsx
+2021-08-07,Konfet,Şirniyyat,5.1,9.0,sales_2021_08.xlsx
+2021-08-07,Kərə yağı 200q,Süd məhsulları,19.0,2.8,sales_2021_08.xlsx
+2021-08-07,Lavaş,Çörək,67.0,0.4,sales_2021_08.xlsx
+2021-08-07,Limonad 1L,İçkilər,31.0,1.1,sales_2021_08.xlsx
+2021-08-07,Makaron 400q,Bakaleya,17.0,1.1,sales_2021_08.xlsx
+2021-08-07,Mal əti,Ət,10.0,12.0,sales_2021_08.xlsx
+2021-08-07,Mandarin,Meyvə-tərəvəz,0.9,2.5,sales_2021_08.xlsx
+2021-08-07,Peçenye 300q,Şirniyyat,22.0,1.8,sales_2021_08.xlsx
+2021-08-07,Pomidor,Meyvə-tərəvəz,21.9,2.0,sales_2021_08.xlsx
+2021-08-07,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-07,Qatıq 0.5kq,Süd məhsulları,33.0,1.0,sales_2021_08.xlsx
+2021-08-07,Qoyun əti,Ət,6.1,13.0,sales_2021_08.xlsx
+2021-08-07,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-07,Su 1.5L,İçkilər,92.0,0.5,sales_2021_08.xlsx
+2021-08-07,Süd 1L,Süd məhsulları,33.0,1.2,sales_2021_08.xlsx
+2021-08-07,Tort,Şirniyyat,4.0,12.0,sales_2021_08.xlsx
+2021-08-07,Toyuq,Ət,11.5,5.5,sales_2021_08.xlsx
+2021-08-07,Yaşıl çay 100q,Çay və qəhvə,9.0,2.5,sales_2021_08.xlsx
+2021-08-07,Yumurta 10 əd,Süd məhsulları,13.0,1.9,sales_2021_08.xlsx
+2021-08-07,Şokolad,Şirniyyat,22.0,1.5,sales_2021_08.xlsx
+2021-08-07,Şəkər 1kq,Bakaleya,14.0,1.6,sales_2021_08.xlsx
+2021-08-08,Alma,Meyvə-tərəvəz,18.0,1.8,sales_2021_08.xlsx
+2021-08-08,Ağ pendir,Süd məhsulları,2.7,7.5,sales_2021_08.xlsx
+2021-08-08,Ağ çörək,Çörək,103.0,0.5,sales_2021_08.xlsx
+2021-08-08,Dondurma eskimo,Dondurma,79.0,0.7,sales_2021_08.xlsx
+2021-08-08,Dondurma plombir,Dondurma,84.0,0.8,sales_2021_08.xlsx
+2021-08-08,Düyü 1kq,Bakaleya,13.0,2.4,sales_2021_08.xlsx
+2021-08-08,Günəbaxan yağı 1L,Bakaleya,10.0,2.9,sales_2021_08.xlsx
+2021-08-08,Kefir 1L,Süd məhsulları,21.0,1.3,sales_2021_08.xlsx
+2021-08-08,Konfet,Şirniyyat,2.3,9.0,sales_2021_08.xlsx
+2021-08-08,Kərə yağı 200q,Süd məhsulları,14.0,2.8,sales_2021_08.xlsx
+2021-08-08,Lavaş,Çörək,61.0,0.4,sales_2021_08.xlsx
+2021-08-08,Limonad 1L,İçkilər,45.0,1.1,sales_2021_08.xlsx
+2021-08-08,Makaron 400q,Bakaleya,19.0,1.1,sales_2021_08.xlsx
+2021-08-08,Mal əti,Ət,16.7,12.0,sales_2021_08.xlsx
+2021-08-08,Mandarin,Meyvə-tərəvəz,1.4,2.5,sales_2021_08.xlsx
+2021-08-08,Peçenye 300q,Şirniyyat,14.0,1.8,sales_2021_08.xlsx
+2021-08-08,Pomidor,Meyvə-tərəvəz,77.7,2.0,sales_2021_08.xlsx
+2021-08-08,Qara çay 100q,Çay və qəhvə,9.0,2.2,sales_2021_08.xlsx
+2021-08-08,Qatıq 0.5kq,Süd məhsulları,40.0,1.0,sales_2021_08.xlsx
+2021-08-08,Qoyun əti,Ət,16.6,13.0,sales_2021_08.xlsx
+2021-08-08,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-08,Su 1.5L,İçkilər,89.0,0.5,sales_2021_08.xlsx
+2021-08-08,Süd 1L,Süd məhsulları,61.0,1.2,sales_2021_08.xlsx
+2021-08-08,Tort,Şirniyyat,4.0,12.0,sales_2021_08.xlsx
+2021-08-08,Toyuq,Ət,2.6,5.5,sales_2021_08.xlsx
+2021-08-08,Yaşıl çay 100q,Çay və qəhvə,12.0,2.5,sales_2021_08.xlsx
+2021-08-08,Yumurta 10 əd,Süd məhsulları,23.0,1.9,sales_2021_08.xlsx
+2021-08-08,Şokolad,Şirniyyat,23.0,1.5,sales_2021_08.xlsx
+2021-08-08,Şəkər 1kq,Bakaleya,8.0,1.6,sales_2021_08.xlsx
+2021-08-09,Alma,Meyvə-tərəvəz,15.9,1.8,sales_2021_08.xlsx
+2021-08-09,Ağ pendir,Süd məhsulları,1.9,7.5,sales_2021_08.xlsx
+2021-08-09,Ağ çörək,Çörək,75.0,0.5,sales_2021_08.xlsx
+2021-08-09,Dondurma eskimo,Dondurma,55.0,0.7,sales_2021_08.xlsx
+2021-08-09,Dondurma plombir,Dondurma,77.0,0.8,sales_2021_08.xlsx
+2021-08-09,Düyü 1kq,Bakaleya,4.0,2.4,sales_2021_08.xlsx
+2021-08-09,Günəbaxan yağı 1L,Bakaleya,4.0,2.9,sales_2021_08.xlsx
+2021-08-09,Kefir 1L,Süd məhsulları,19.0,1.3,sales_2021_08.xlsx
+2021-08-09,Konfet,Şirniyyat,1.4,9.0,sales_2021_08.xlsx
+2021-08-09,Kərə yağı 200q,Süd məhsulları,12.0,2.8,sales_2021_08.xlsx
+2021-08-09,Lavaş,Çörək,51.0,0.4,sales_2021_08.xlsx
+2021-08-09,Limonad 1L,İçkilər,37.0,1.1,sales_2021_08.xlsx
+2021-08-09,Makaron 400q,Bakaleya,14.0,1.1,sales_2021_08.xlsx
+2021-08-09,Mal əti,Ət,4.4,12.0,sales_2021_08.xlsx
+2021-08-09,Mandarin,Meyvə-tərəvəz,0.7,2.5,sales_2021_08.xlsx
+2021-08-09,Peçenye 300q,Şirniyyat,14.0,1.8,sales_2021_08.xlsx
+2021-08-09,Pomidor,Meyvə-tərəvəz,14.4,2.0,sales_2021_08.xlsx
+2021-08-09,Qara çay 100q,Çay və qəhvə,10.0,2.2,sales_2021_08.xlsx
+2021-08-09,Qatıq 0.5kq,Süd məhsulları,28.0,1.0,sales_2021_08.xlsx
+2021-08-09,Qoyun əti,Ət,4.6,13.0,sales_2021_08.xlsx
+2021-08-09,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-09,Su 1.5L,İçkilər,69.0,0.5,sales_2021_08.xlsx
+2021-08-09,Süd 1L,Süd məhsulları,34.0,1.2,sales_2021_08.xlsx
+2021-08-09,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-09,Toyuq,Ət,9.8,5.5,sales_2021_08.xlsx
+2021-08-09,Yaşıl çay 100q,Çay və qəhvə,12.0,2.5,sales_2021_08.xlsx
+2021-08-09,Yumurta 10 əd,Süd məhsulları,21.0,1.9,sales_2021_08.xlsx
+2021-08-09,Şokolad,Şirniyyat,23.0,1.5,sales_2021_08.xlsx
+2021-08-09,Şəkər 1kq,Bakaleya,25.0,1.6,sales_2021_08.xlsx
+2021-08-10,Alma,Meyvə-tərəvəz,8.5,1.8,sales_2021_08.xlsx
+2021-08-10,Ağ pendir,Süd məhsulları,2.0,7.5,sales_2021_08.xlsx
+2021-08-10,Ağ çörək,Çörək,83.0,0.5,sales_2021_08.xlsx
+2021-08-10,Dondurma eskimo,Dondurma,68.0,0.7,sales_2021_08.xlsx
+2021-08-10,Dondurma plombir,Dondurma,74.0,0.8,sales_2021_08.xlsx
+2021-08-10,Düyü 1kq,Bakaleya,12.0,2.4,sales_2021_08.xlsx
+2021-08-10,Günəbaxan yağı 1L,Bakaleya,7.0,2.9,sales_2021_08.xlsx
+2021-08-10,Kefir 1L,Süd məhsulları,28.0,1.3,sales_2021_08.xlsx
+2021-08-10,Konfet,Şirniyyat,1.8,9.0,sales_2021_08.xlsx
+2021-08-10,Kərə yağı 200q,Süd məhsulları,9.0,2.8,sales_2021_08.xlsx
+2021-08-10,Lavaş,Çörək,45.0,0.4,sales_2021_08.xlsx
+2021-08-10,Limonad 1L,İçkilər,42.0,1.1,sales_2021_08.xlsx
+2021-08-10,Makaron 400q,Bakaleya,12.0,1.1,sales_2021_08.xlsx
+2021-08-10,Mal əti,Ət,7.0,12.0,sales_2021_08.xlsx
+2021-08-10,Mandarin,Meyvə-tərəvəz,1.0,2.5,sales_2021_08.xlsx
+2021-08-10,Peçenye 300q,Şirniyyat,11.0,1.8,sales_2021_08.xlsx
+2021-08-10,Pomidor,Meyvə-tərəvəz,33.4,2.0,sales_2021_08.xlsx
+2021-08-10,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-10,Qatıq 0.5kq,Süd məhsulları,25.0,1.0,sales_2021_08.xlsx
+2021-08-10,Qoyun əti,Ət,5.2,13.0,sales_2021_08.xlsx
+2021-08-10,Qəhvə 100q,Çay və qəhvə,2.0,3.5,sales_2021_08.xlsx
+2021-08-10,Su 1.5L,İçkilər,79.0,0.5,sales_2021_08.xlsx
+2021-08-10,Süd 1L,Süd məhsulları,25.0,1.2,sales_2021_08.xlsx
+2021-08-10,Tort,Şirniyyat,2.0,12.0,sales_2021_08.xlsx
+2021-08-10,Toyuq,Ət,17.0,5.5,sales_2021_08.xlsx
+2021-08-10,Yaşıl çay 100q,Çay və qəhvə,3.0,2.5,sales_2021_08.xlsx
+2021-08-10,Yumurta 10 əd,Süd məhsulları,16.0,1.9,sales_2021_08.xlsx
+2021-08-10,Şokolad,Şirniyyat,18.0,1.5,sales_2021_08.xlsx
+2021-08-10,Şəkər 1kq,Bakaleya,11.0,1.6,sales_2021_08.xlsx
+2021-08-11,Alma,Meyvə-tərəvəz,4.8,1.8,sales_2021_08.xlsx
+2021-08-11,Ağ pendir,Süd məhsulları,4.4,7.5,sales_2021_08.xlsx
+2021-08-11,Ağ çörək,Çörək,86.0,0.5,sales_2021_08.xlsx
+2021-08-11,Dondurma eskimo,Dondurma,67.0,0.7,sales_2021_08.xlsx
+2021-08-11,Dondurma plombir,Dondurma,81.0,0.8,sales_2021_08.xlsx
+2021-08-11,Düyü 1kq,Bakaleya,9.0,2.4,sales_2021_08.xlsx
+2021-08-11,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-11,Kefir 1L,Süd məhsulları,20.0,1.3,sales_2021_08.xlsx
+2021-08-11,Konfet,Şirniyyat,3.3,9.0,sales_2021_08.xlsx
+2021-08-11,Kərə yağı 200q,Süd məhsulları,8.0,2.8,sales_2021_08.xlsx
+2021-08-11,Lavaş,Çörək,47.0,0.4,sales_2021_08.xlsx
+2021-08-11,Limonad 1L,İçkilər,35.0,1.1,sales_2021_08.xlsx
+2021-08-11,Makaron 400q,Bakaleya,10.0,1.1,sales_2021_08.xlsx
+2021-08-11,Mal əti,Ət,5.9,12.0,sales_2021_08.xlsx
+2021-08-11,Mandarin,Meyvə-tərəvəz,0.6,2.5,sales_2021_08.xlsx
+2021-08-11,Peçenye 300q,Şirniyyat,8.0,1.8,sales_2021_08.xlsx
+2021-08-11,Pomidor,Meyvə-tərəvəz,20.6,2.0,sales_2021_08.xlsx
+2021-08-11,Qara çay 100q,Çay və qəhvə,16.0,2.2,sales_2021_08.xlsx
+2021-08-11,Qatıq 0.5kq,Süd məhsulları,22.0,1.0,sales_2021_08.xlsx
+2021-08-11,Qoyun əti,Ət,2.6,13.0,sales_2021_08.xlsx
+2021-08-11,Qəhvə 100q,Çay və qəhvə,11.0,3.5,sales_2021_08.xlsx
+2021-08-11,Su 1.5L,İçkilər,65.0,0.5,sales_2021_08.xlsx
+2021-08-11,Süd 1L,Süd məhsulları,38.0,1.2,sales_2021_08.xlsx
+2021-08-11,Tort,Şirniyyat,5.0,12.0,sales_2021_08.xlsx
+2021-08-11,Toyuq,Ət,10.7,5.5,sales_2021_08.xlsx
+2021-08-11,Yaşıl çay 100q,Çay və qəhvə,3.0,2.5,sales_2021_08.xlsx
+2021-08-11,Yumurta 10 əd,Süd məhsulları,11.0,1.9,sales_2021_08.xlsx
+2021-08-11,Şokolad,Şirniyyat,20.0,1.5,sales_2021_08.xlsx
+2021-08-11,Şəkər 1kq,Bakaleya,11.0,1.6,sales_2021_08.xlsx
+2021-08-12,Alma,Meyvə-tərəvəz,15.4,1.8,sales_2021_08.xlsx
+2021-08-12,Ağ pendir,Süd məhsulları,5.8,7.5,sales_2021_08.xlsx
+2021-08-12,Ağ çörək,Çörək,78.0,0.5,sales_2021_08.xlsx
+2021-08-12,Dondurma eskimo,Dondurma,56.0,0.7,sales_2021_08.xlsx
+2021-08-12,Dondurma plombir,Dondurma,85.0,0.8,sales_2021_08.xlsx
+2021-08-12,Düyü 1kq,Bakaleya,8.0,2.4,sales_2021_08.xlsx
+2021-08-12,Günəbaxan yağı 1L,Bakaleya,9.0,2.9,sales_2021_08.xlsx
+2021-08-12,Kefir 1L,Süd məhsulları,23.0,1.3,sales_2021_08.xlsx
+2021-08-12,Konfet,Şirniyyat,1.6,9.0,sales_2021_08.xlsx
+2021-08-12,Kərə yağı 200q,Süd məhsulları,7.0,2.8,sales_2021_08.xlsx
+2021-08-12,Lavaş,Çörək,44.0,0.4,sales_2021_08.xlsx
+2021-08-12,Limonad 1L,İçkilər,27.0,1.1,sales_2021_08.xlsx
+2021-08-12,Makaron 400q,Bakaleya,14.0,1.1,sales_2021_08.xlsx
+2021-08-12,Mal əti,Ət,13.9,12.0,sales_2021_08.xlsx
+2021-08-12,Mandarin,Meyvə-tərəvəz,0.9,2.5,sales_2021_08.xlsx
+2021-08-12,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-12,Pomidor,Meyvə-tərəvəz,15.8,2.0,sales_2021_08.xlsx
+2021-08-12,Qara çay 100q,Çay və qəhvə,9.0,2.2,sales_2021_08.xlsx
+2021-08-12,Qatıq 0.5kq,Süd məhsulları,28.0,1.0,sales_2021_08.xlsx
+2021-08-12,Qoyun əti,Ət,5.6,13.0,sales_2021_08.xlsx
+2021-08-12,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-12,Su 1.5L,İçkilər,75.0,0.5,sales_2021_08.xlsx
+2021-08-12,Süd 1L,Süd məhsulları,48.0,1.2,sales_2021_08.xlsx
+2021-08-12,Toyuq,Ət,29.6,5.5,sales_2021_08.xlsx
+2021-08-12,Yaşıl çay 100q,Çay və qəhvə,9.0,2.5,sales_2021_08.xlsx
+2021-08-12,Yumurta 10 əd,Süd məhsulları,20.0,1.9,sales_2021_08.xlsx
+2021-08-12,Şokolad,Şirniyyat,25.0,1.5,sales_2021_08.xlsx
+2021-08-12,Şəkər 1kq,Bakaleya,12.0,1.6,sales_2021_08.xlsx
+2021-08-13,Alma,Meyvə-tərəvəz,17.2,1.8,sales_2021_08.xlsx
+2021-08-13,Ağ pendir,Süd məhsulları,6.6,7.5,sales_2021_08.xlsx
+2021-08-13,Ağ çörək,Çörək,75.0,0.5,sales_2021_08.xlsx
+2021-08-13,Dondurma eskimo,Dondurma,65.0,0.7,sales_2021_08.xlsx
+2021-08-13,Dondurma plombir,Dondurma,72.0,0.8,sales_2021_08.xlsx
+2021-08-13,Düyü 1kq,Bakaleya,6.0,2.4,sales_2021_08.xlsx
+2021-08-13,Günəbaxan yağı 1L,Bakaleya,13.0,2.9,sales_2021_08.xlsx
+2021-08-13,Kefir 1L,Süd məhsulları,30.0,1.3,sales_2021_08.xlsx
+2021-08-13,Konfet,Şirniyyat,2.4,9.0,sales_2021_08.xlsx
+2021-08-13,Kərə yağı 200q,Süd məhsulları,11.0,2.8,sales_2021_08.xlsx
+2021-08-13,Lavaş,Çörək,47.0,0.4,sales_2021_08.xlsx
+2021-08-13,Limonad 1L,İçkilər,30.0,1.1,sales_2021_08.xlsx
+2021-08-13,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-13,Mal əti,Ət,5.5,12.0,sales_2021_08.xlsx
+2021-08-13,Mandarin,Meyvə-tərəvəz,0.9,2.5,sales_2021_08.xlsx
+2021-08-13,Peçenye 300q,Şirniyyat,14.0,1.8,sales_2021_08.xlsx
+2021-08-13,Pomidor,Meyvə-tərəvəz,55.2,2.0,sales_2021_08.xlsx
+2021-08-13,Qara çay 100q,Çay və qəhvə,17.0,2.2,sales_2021_08.xlsx
+2021-08-13,Qatıq 0.5kq,Süd məhsulları,25.0,1.0,sales_2021_08.xlsx
+2021-08-13,Qoyun əti,Ət,6.8,13.0,sales_2021_08.xlsx
+2021-08-13,Qəhvə 100q,Çay və qəhvə,5.0,3.5,sales_2021_08.xlsx
+2021-08-13,Su 1.5L,İçkilər,69.0,0.5,sales_2021_08.xlsx
+2021-08-13,Süd 1L,Süd məhsulları,42.0,1.2,sales_2021_08.xlsx
+2021-08-13,Tort,Şirniyyat,8.0,12.0,sales_2021_08.xlsx
+2021-08-13,Toyuq,Ət,17.7,5.5,sales_2021_08.xlsx
+2021-08-13,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-13,Yumurta 10 əd,Süd məhsulları,15.0,1.9,sales_2021_08.xlsx
+2021-08-13,Şokolad,Şirniyyat,16.0,1.5,sales_2021_08.xlsx
+2021-08-13,Şəkər 1kq,Bakaleya,12.0,1.6,sales_2021_08.xlsx
+2021-08-14,Alma,Meyvə-tərəvəz,26.3,1.8,sales_2021_08.xlsx
+2021-08-14,Ağ pendir,Süd məhsulları,12.9,7.5,sales_2021_08.xlsx
+2021-08-14,Ağ çörək,Çörək,107.0,0.5,sales_2021_08.xlsx
+2021-08-14,Dondurma eskimo,Dondurma,59.0,0.7,sales_2021_08.xlsx
+2021-08-14,Dondurma plombir,Dondurma,90.0,0.8,sales_2021_08.xlsx
+2021-08-14,Düyü 1kq,Bakaleya,15.0,2.4,sales_2021_08.xlsx
+2021-08-14,Günəbaxan yağı 1L,Bakaleya,11.0,2.9,sales_2021_08.xlsx
+2021-08-14,Kefir 1L,Süd məhsulları,17.0,1.3,sales_2021_08.xlsx
+2021-08-14,Konfet,Şirniyyat,3.3,9.0,sales_2021_08.xlsx
+2021-08-14,Kərə yağı 200q,Süd məhsulları,12.0,2.8,sales_2021_08.xlsx
+2021-08-14,Lavaş,Çörək,58.0,0.4,sales_2021_08.xlsx
+2021-08-14,Limonad 1L,İçkilər,48.0,1.1,sales_2021_08.xlsx
+2021-08-14,Makaron 400q,Bakaleya,12.0,1.1,sales_2021_08.xlsx
+2021-08-14,Mal əti,Ət,16.8,12.0,sales_2021_08.xlsx
+2021-08-14,Mandarin,Meyvə-tərəvəz,0.7,2.5,sales_2021_08.xlsx
+2021-08-14,Peçenye 300q,Şirniyyat,15.0,1.8,sales_2021_08.xlsx
+2021-08-14,Pomidor,Meyvə-tərəvəz,24.7,2.0,sales_2021_08.xlsx
+2021-08-14,Qara çay 100q,Çay və qəhvə,14.0,2.2,sales_2021_08.xlsx
+2021-08-14,Qatıq 0.5kq,Süd məhsulları,29.0,1.0,sales_2021_08.xlsx
+2021-08-14,Qoyun əti,Ət,5.6,13.0,sales_2021_08.xlsx
+2021-08-14,Qəhvə 100q,Çay və qəhvə,7.0,3.5,sales_2021_08.xlsx
+2021-08-14,Su 1.5L,İçkilər,82.0,0.5,sales_2021_08.xlsx
+2021-08-14,Süd 1L,Süd məhsulları,39.0,1.2,sales_2021_08.xlsx
+2021-08-14,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-14,Toyuq,Ət,24.2,5.5,sales_2021_08.xlsx
+2021-08-14,Yaşıl çay 100q,Çay və qəhvə,8.0,2.5,sales_2021_08.xlsx
+2021-08-14,Yumurta 10 əd,Süd məhsulları,20.0,1.9,sales_2021_08.xlsx
+2021-08-14,Şokolad,Şirniyyat,25.0,1.5,sales_2021_08.xlsx
+2021-08-14,Şəkər 1kq,Bakaleya,10.0,1.6,sales_2021_08.xlsx
+2021-08-15,Alma,Meyvə-tərəvəz,16.1,1.8,sales_2021_08.xlsx
+2021-08-15,Ağ pendir,Süd məhsulları,4.1,7.5,sales_2021_08.xlsx
+2021-08-15,Ağ çörək,Çörək,94.0,0.5,sales_2021_08.xlsx
+2021-08-15,Dondurma eskimo,Dondurma,72.0,0.7,sales_2021_08.xlsx
+2021-08-15,Dondurma plombir,Dondurma,87.0,0.8,sales_2021_08.xlsx
+2021-08-15,Düyü 1kq,Bakaleya,8.0,2.4,sales_2021_08.xlsx
+2021-08-15,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-15,Kefir 1L,Süd məhsulları,26.0,1.3,sales_2021_08.xlsx
+2021-08-15,Konfet,Şirniyyat,4.0,9.0,sales_2021_08.xlsx
+2021-08-15,Kərə yağı 200q,Süd məhsulları,17.0,2.8,sales_2021_08.xlsx
+2021-08-15,Lavaş,Çörək,68.0,0.4,sales_2021_08.xlsx
+2021-08-15,Limonad 1L,İçkilər,32.0,1.1,sales_2021_08.xlsx
+2021-08-15,Makaron 400q,Bakaleya,13.0,1.1,sales_2021_08.xlsx
+2021-08-15,Mal əti,Ət,10.9,12.0,sales_2021_08.xlsx
+2021-08-15,Mandarin,Meyvə-tərəvəz,0.4,2.5,sales_2021_08.xlsx
+2021-08-15,Peçenye 300q,Şirniyyat,18.0,1.8,sales_2021_08.xlsx
+2021-08-15,Pomidor,Meyvə-tərəvəz,41.4,2.0,sales_2021_08.xlsx
+2021-08-15,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-15,Qatıq 0.5kq,Süd məhsulları,41.0,1.0,sales_2021_08.xlsx
+2021-08-15,Qoyun əti,Ət,3.7,13.0,sales_2021_08.xlsx
+2021-08-15,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-15,Su 1.5L,İçkilər,78.0,0.5,sales_2021_08.xlsx
+2021-08-15,Süd 1L,Süd məhsulları,41.0,1.2,sales_2021_08.xlsx
+2021-08-15,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-15,Toyuq,Ət,9.2,5.5,sales_2021_08.xlsx
+2021-08-15,Yaşıl çay 100q,Çay və qəhvə,1.0,2.5,sales_2021_08.xlsx
+2021-08-15,Yumurta 10 əd,Süd məhsulları,18.0,1.9,sales_2021_08.xlsx
+2021-08-15,Şokolad,Şirniyyat,20.0,1.5,sales_2021_08.xlsx
+2021-08-15,Şəkər 1kq,Bakaleya,14.0,1.6,sales_2021_08.xlsx
+2021-08-16,Alma,Meyvə-tərəvəz,14.1,1.8,sales_2021_08.xlsx
+2021-08-16,Ağ pendir,Süd məhsulları,1.2,7.5,sales_2021_08.xlsx
+2021-08-16,Ağ çörək,Çörək,71.0,0.5,sales_2021_08.xlsx
+2021-08-16,Dondurma eskimo,Dondurma,58.0,0.7,sales_2021_08.xlsx
+2021-08-16,Dondurma plombir,Dondurma,71.0,0.8,sales_2021_08.xlsx
+2021-08-16,Düyü 1kq,Bakaleya,16.0,2.4,sales_2021_08.xlsx
+2021-08-16,Günəbaxan yağı 1L,Bakaleya,5.0,2.9,sales_2021_08.xlsx
+2021-08-16,Kefir 1L,Süd məhsulları,21.0,1.3,sales_2021_08.xlsx
+2021-08-16,Konfet,Şirniyyat,3.6,9.0,sales_2021_08.xlsx
+2021-08-16,Kərə yağı 200q,Süd məhsulları,11.0,2.8,sales_2021_08.xlsx
+2021-08-16,Lavaş,Çörək,59.0,0.4,sales_2021_08.xlsx
+2021-08-16,Limonad 1L,İçkilər,28.0,1.1,sales_2021_08.xlsx
+2021-08-16,Makaron 400q,Bakaleya,16.0,1.1,sales_2021_08.xlsx
+2021-08-16,Mal əti,Ət,15.5,12.0,sales_2021_08.xlsx
+2021-08-16,Mandarin,Meyvə-tərəvəz,0.8,2.5,sales_2021_08.xlsx
+2021-08-16,Peçenye 300q,Şirniyyat,17.0,1.8,sales_2021_08.xlsx
+2021-08-16,Pomidor,Meyvə-tərəvəz,4.8,2.0,sales_2021_08.xlsx
+2021-08-16,Qara çay 100q,Çay və qəhvə,11.0,2.2,sales_2021_08.xlsx
+2021-08-16,Qatıq 0.5kq,Süd məhsulları,31.0,1.0,sales_2021_08.xlsx
+2021-08-16,Qoyun əti,Ət,1.1,13.0,sales_2021_08.xlsx
+2021-08-16,Qəhvə 100q,Çay və qəhvə,4.0,3.5,sales_2021_08.xlsx
+2021-08-16,Su 1.5L,İçkilər,84.0,0.5,sales_2021_08.xlsx
+2021-08-16,Süd 1L,Süd məhsulları,37.0,1.2,sales_2021_08.xlsx
+2021-08-16,Tort,Şirniyyat,2.0,12.0,sales_2021_08.xlsx
+2021-08-16,Toyuq,Ət,9.8,5.5,sales_2021_08.xlsx
+2021-08-16,Yaşıl çay 100q,Çay və qəhvə,7.0,2.5,sales_2021_08.xlsx
+2021-08-16,Yumurta 10 əd,Süd məhsulları,10.0,1.9,sales_2021_08.xlsx
+2021-08-16,Şokolad,Şirniyyat,17.0,1.5,sales_2021_08.xlsx
+2021-08-16,Şəkər 1kq,Bakaleya,16.0,1.6,sales_2021_08.xlsx
+2021-08-17,Alma,Meyvə-tərəvəz,27.3,1.8,sales_2021_08.xlsx
+2021-08-17,Ağ pendir,Süd məhsulları,12.6,7.5,sales_2021_08.xlsx
+2021-08-17,Ağ çörək,Çörək,84.0,0.5,sales_2021_08.xlsx
+2021-08-17,Dondurma eskimo,Dondurma,53.0,0.7,sales_2021_08.xlsx
+2021-08-17,Dondurma plombir,Dondurma,74.0,0.8,sales_2021_08.xlsx
+2021-08-17,Düyü 1kq,Bakaleya,14.0,2.4,sales_2021_08.xlsx
+2021-08-17,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-17,Kefir 1L,Süd məhsulları,19.0,1.3,sales_2021_08.xlsx
+2021-08-17,Konfet,Şirniyyat,3.1,9.0,sales_2021_08.xlsx
+2021-08-17,Kərə yağı 200q,Süd məhsulları,12.0,2.8,sales_2021_08.xlsx
+2021-08-17,Lavaş,Çörək,52.0,0.4,sales_2021_08.xlsx
+2021-08-17,Limonad 1L,İçkilər,33.0,1.1,sales_2021_08.xlsx
+2021-08-17,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-17,Mal əti,Ət,3.8,12.0,sales_2021_08.xlsx
+2021-08-17,Mandarin,Meyvə-tərəvəz,1.3,2.5,sales_2021_08.xlsx
+2021-08-17,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-17,Pomidor,Meyvə-tərəvəz,35.4,2.0,sales_2021_08.xlsx
+2021-08-17,Qara çay 100q,Çay və qəhvə,8.0,2.2,sales_2021_08.xlsx
+2021-08-17,Qatıq 0.5kq,Süd məhsulları,27.0,1.0,sales_2021_08.xlsx
+2021-08-17,Qoyun əti,Ət,1.8,13.0,sales_2021_08.xlsx
+2021-08-17,Qəhvə 100q,Çay və qəhvə,6.0,3.5,sales_2021_08.xlsx
+2021-08-17,Su 1.5L,İçkilər,61.0,0.5,sales_2021_08.xlsx
+2021-08-17,Süd 1L,Süd məhsulları,39.0,1.2,sales_2021_08.xlsx
+2021-08-17,Tort,Şirniyyat,2.0,12.0,sales_2021_08.xlsx
+2021-08-17,Toyuq,Ət,19.8,5.5,sales_2021_08.xlsx
+2021-08-17,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-17,Yumurta 10 əd,Süd məhsulları,17.0,1.9,sales_2021_08.xlsx
+2021-08-17,Şokolad,Şirniyyat,19.0,1.5,sales_2021_08.xlsx
+2021-08-17,Şəkər 1kq,Bakaleya,13.0,1.6,sales_2021_08.xlsx
+2021-08-18,Alma,Meyvə-tərəvəz,23.5,1.8,sales_2021_08.xlsx
+2021-08-18,Ağ pendir,Süd məhsulları,7.7,7.5,sales_2021_08.xlsx
+2021-08-18,Ağ çörək,Çörək,83.0,0.5,sales_2021_08.xlsx
+2021-08-18,Dondurma eskimo,Dondurma,59.0,0.7,sales_2021_08.xlsx
+2021-08-18,Dondurma plombir,Dondurma,61.0,0.8,sales_2021_08.xlsx
+2021-08-18,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-18,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-18,Kefir 1L,Süd məhsulları,10.0,1.3,sales_2021_08.xlsx
+2021-08-18,Konfet,Şirniyyat,2.4,9.0,sales_2021_08.xlsx
+2021-08-18,Kərə yağı 200q,Süd məhsulları,12.0,2.8,sales_2021_08.xlsx
+2021-08-18,Lavaş,Çörək,66.0,0.4,sales_2021_08.xlsx
+2021-08-18,Limonad 1L,İçkilər,38.0,1.1,sales_2021_08.xlsx
+2021-08-18,Makaron 400q,Bakaleya,13.0,1.1,sales_2021_08.xlsx
+2021-08-18,Mal əti,Ət,9.5,12.0,sales_2021_08.xlsx
+2021-08-18,Mandarin,Meyvə-tərəvəz,0.5,2.5,sales_2021_08.xlsx
+2021-08-18,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-18,Pomidor,Meyvə-tərəvəz,6.3,2.0,sales_2021_08.xlsx
+2021-08-18,Qara çay 100q,Çay və qəhvə,11.0,2.2,sales_2021_08.xlsx
+2021-08-18,Qatıq 0.5kq,Süd məhsulları,20.0,1.0,sales_2021_08.xlsx
+2021-08-18,Qoyun əti,Ət,4.3,13.0,sales_2021_08.xlsx
+2021-08-18,Qəhvə 100q,Çay və qəhvə,5.0,3.5,sales_2021_08.xlsx
+2021-08-18,Su 1.5L,İçkilər,75.0,0.5,sales_2021_08.xlsx
+2021-08-18,Süd 1L,Süd məhsulları,40.0,1.2,sales_2021_08.xlsx
+2021-08-18,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-18,Toyuq,Ət,8.9,5.5,sales_2021_08.xlsx
+2021-08-18,Yaşıl çay 100q,Çay və qəhvə,6.0,2.5,sales_2021_08.xlsx
+2021-08-18,Yumurta 10 əd,Süd məhsulları,11.0,1.9,sales_2021_08.xlsx
+2021-08-18,Şokolad,Şirniyyat,20.0,1.5,sales_2021_08.xlsx
+2021-08-18,Şəkər 1kq,Bakaleya,15.0,1.6,sales_2021_08.xlsx
+2021-08-19,Alma,Meyvə-tərəvəz,9.7,1.8,sales_2021_08.xlsx
+2021-08-19,Ağ pendir,Süd məhsulları,6.5,7.5,sales_2021_08.xlsx
+2021-08-19,Ağ çörək,Çörək,74.0,0.5,sales_2021_08.xlsx
+2021-08-19,Dondurma eskimo,Dondurma,60.0,0.7,sales_2021_08.xlsx
+2021-08-19,Dondurma plombir,Dondurma,80.0,0.8,sales_2021_08.xlsx
+2021-08-19,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-19,Günəbaxan yağı 1L,Bakaleya,6.0,2.9,sales_2021_08.xlsx
+2021-08-19,Kefir 1L,Süd məhsulları,15.0,1.3,sales_2021_08.xlsx
+2021-08-19,Konfet,Şirniyyat,6.9,9.0,sales_2021_08.xlsx
+2021-08-19,Kərə yağı 200q,Süd məhsulları,8.0,2.8,sales_2021_08.xlsx
+2021-08-19,Lavaş,Çörək,41.0,0.4,sales_2021_08.xlsx
+2021-08-19,Limonad 1L,İçkilər,32.0,1.1,sales_2021_08.xlsx
+2021-08-19,Makaron 400q,Bakaleya,15.0,1.1,sales_2021_08.xlsx
+2021-08-19,Mal əti,Ət,9.7,12.0,sales_2021_08.xlsx
+2021-08-19,Mandarin,Meyvə-tərəvəz,0.5,2.5,sales_2021_08.xlsx
+2021-08-19,Peçenye 300q,Şirniyyat,13.0,1.8,sales_2021_08.xlsx
+2021-08-19,Pomidor,Meyvə-tərəvəz,40.9,2.0,sales_2021_08.xlsx
+2021-08-19,Qara çay 100q,Çay və qəhvə,11.0,2.2,sales_2021_08.xlsx
+2021-08-19,Qatıq 0.5kq,Süd məhsulları,31.0,1.0,sales_2021_08.xlsx
+2021-08-19,Qoyun əti,Ət,11.3,13.0,sales_2021_08.xlsx
+2021-08-19,Qəhvə 100q,Çay və qəhvə,5.0,3.5,sales_2021_08.xlsx
+2021-08-19,Su 1.5L,İçkilər,67.0,0.5,sales_2021_08.xlsx
+2021-08-19,Süd 1L,Süd məhsulları,55.0,1.2,sales_2021_08.xlsx
+2021-08-19,Tort,Şirniyyat,2.0,12.0,sales_2021_08.xlsx
+2021-08-19,Toyuq,Ət,17.7,5.5,sales_2021_08.xlsx
+2021-08-19,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-19,Yumurta 10 əd,Süd məhsulları,15.0,1.9,sales_2021_08.xlsx
+2021-08-19,Şokolad,Şirniyyat,24.0,1.5,sales_2021_08.xlsx
+2021-08-19,Şəkər 1kq,Bakaleya,13.0,1.6,sales_2021_08.xlsx
+2021-08-20,Alma,Meyvə-tərəvəz,5.7,1.8,sales_2021_08.xlsx
+2021-08-20,Ağ pendir,Süd məhsulları,2.1,7.5,sales_2021_08.xlsx
+2021-08-20,Ağ çörək,Çörək,57.0,0.5,sales_2021_08.xlsx
+2021-08-20,Dondurma eskimo,Dondurma,66.0,0.7,sales_2021_08.xlsx
+2021-08-20,Dondurma plombir,Dondurma,61.0,0.8,sales_2021_08.xlsx
+2021-08-20,Düyü 1kq,Bakaleya,13.0,2.4,sales_2021_08.xlsx
+2021-08-20,Günəbaxan yağı 1L,Bakaleya,7.0,2.9,sales_2021_08.xlsx
+2021-08-20,Kefir 1L,Süd məhsulları,25.0,1.3,sales_2021_08.xlsx
+2021-08-20,Konfet,Şirniyyat,2.3,9.0,sales_2021_08.xlsx
+2021-08-20,Kərə yağı 200q,Süd məhsulları,11.0,2.8,sales_2021_08.xlsx
+2021-08-20,Lavaş,Çörək,50.0,0.4,sales_2021_08.xlsx
+2021-08-20,Limonad 1L,İçkilər,42.0,1.1,sales_2021_08.xlsx
+2021-08-20,Makaron 400q,Bakaleya,11.0,1.1,sales_2021_08.xlsx
+2021-08-20,Mal əti,Ət,7.5,12.0,sales_2021_08.xlsx
+2021-08-20,Mandarin,Meyvə-tərəvəz,0.2,2.5,sales_2021_08.xlsx
+2021-08-20,Peçenye 300q,Şirniyyat,19.0,1.8,sales_2021_08.xlsx
+2021-08-20,Pomidor,Meyvə-tərəvəz,5.5,2.0,sales_2021_08.xlsx
+2021-08-20,Qara çay 100q,Çay və qəhvə,8.0,2.2,sales_2021_08.xlsx
+2021-08-20,Qatıq 0.5kq,Süd məhsulları,26.0,1.0,sales_2021_08.xlsx
+2021-08-20,Qoyun əti,Ət,7.9,13.0,sales_2021_08.xlsx
+2021-08-20,Qəhvə 100q,Çay və qəhvə,4.0,3.5,sales_2021_08.xlsx
+2021-08-20,Su 1.5L,İçkilər,83.0,0.5,sales_2021_08.xlsx
+2021-08-20,Süd 1L,Süd məhsulları,32.0,1.2,sales_2021_08.xlsx
+2021-08-20,Toyuq,Ət,19.2,5.5,sales_2021_08.xlsx
+2021-08-20,Yaşıl çay 100q,Çay və qəhvə,10.0,2.5,sales_2021_08.xlsx
+2021-08-20,Yumurta 10 əd,Süd məhsulları,11.0,1.9,sales_2021_08.xlsx
+2021-08-20,Şokolad,Şirniyyat,14.0,1.5,sales_2021_08.xlsx
+2021-08-20,Şəkər 1kq,Bakaleya,15.0,1.6,sales_2021_08.xlsx
+2021-08-21,Alma,Meyvə-tərəvəz,27.3,1.8,sales_2021_08.xlsx
+2021-08-21,Ağ pendir,Süd məhsulları,8.6,7.5,sales_2021_08.xlsx
+2021-08-21,Ağ çörək,Çörək,93.0,0.5,sales_2021_08.xlsx
+2021-08-21,Dondurma eskimo,Dondurma,84.0,0.7,sales_2021_08.xlsx
+2021-08-21,Dondurma plombir,Dondurma,87.0,0.8,sales_2021_08.xlsx
+2021-08-21,Düyü 1kq,Bakaleya,9.0,2.4,sales_2021_08.xlsx
+2021-08-21,Günəbaxan yağı 1L,Bakaleya,8.0,2.9,sales_2021_08.xlsx
+2021-08-21,Kefir 1L,Süd məhsulları,22.0,1.3,sales_2021_08.xlsx
+2021-08-21,Konfet,Şirniyyat,3.2,9.0,sales_2021_08.xlsx
+2021-08-21,Kərə yağı 200q,Süd məhsulları,15.0,2.8,sales_2021_08.xlsx
+2021-08-21,Lavaş,Çörək,55.0,0.4,sales_2021_08.xlsx
+2021-08-21,Limonad 1L,İçkilər,34.0,1.1,sales_2021_08.xlsx
+2021-08-21,Makaron 400q,Bakaleya,20.0,1.1,sales_2021_08.xlsx
+2021-08-21,Mal əti,Ət,4.6,12.0,sales_2021_08.xlsx
+2021-08-21,Mandarin,Meyvə-tərəvəz,1.1,2.5,sales_2021_08.xlsx
+2021-08-21,Peçenye 300q,Şirniyyat,13.0,1.8,sales_2021_08.xlsx
+2021-08-21,Pomidor,Meyvə-tərəvəz,23.3,2.0,sales_2021_08.xlsx
+2021-08-21,Qara çay 100q,Çay və qəhvə,18.0,2.2,sales_2021_08.xlsx
+2021-08-21,Qatıq 0.5kq,Süd məhsulları,47.0,1.0,sales_2021_08.xlsx
+2021-08-21,Qoyun əti,Ət,6.2,13.0,sales_2021_08.xlsx
+2021-08-21,Qəhvə 100q,Çay və qəhvə,4.0,3.5,sales_2021_08.xlsx
+2021-08-21,Su 1.5L,İçkilər,108.0,0.5,sales_2021_08.xlsx
+2021-08-21,Süd 1L,Süd məhsulları,48.0,1.2,sales_2021_08.xlsx
+2021-08-21,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-21,Toyuq,Ət,14.2,5.5,sales_2021_08.xlsx
+2021-08-21,Yaşıl çay 100q,Çay və qəhvə,6.0,2.5,sales_2021_08.xlsx
+2021-08-21,Yumurta 10 əd,Süd məhsulları,20.0,1.9,sales_2021_08.xlsx
+2021-08-21,Şokolad,Şirniyyat,21.0,1.5,sales_2021_08.xlsx
+2021-08-21,Şəkər 1kq,Bakaleya,17.0,1.6,sales_2021_08.xlsx
+2021-08-22,Alma,Meyvə-tərəvəz,13.8,1.8,sales_2021_08.xlsx
+2021-08-22,Ağ pendir,Süd məhsulları,5.9,7.5,sales_2021_08.xlsx
+2021-08-22,Ağ çörək,Çörək,105.0,0.5,sales_2021_08.xlsx
+2021-08-22,Dondurma eskimo,Dondurma,77.0,0.7,sales_2021_08.xlsx
+2021-08-22,Dondurma plombir,Dondurma,101.0,0.8,sales_2021_08.xlsx
+2021-08-22,Düyü 1kq,Bakaleya,11.0,2.4,sales_2021_08.xlsx
+2021-08-22,Günəbaxan yağı 1L,Bakaleya,10.0,2.9,sales_2021_08.xlsx
+2021-08-22,Kefir 1L,Süd məhsulları,28.0,1.3,sales_2021_08.xlsx
+2021-08-22,Konfet,Şirniyyat,6.2,9.0,sales_2021_08.xlsx
+2021-08-22,Kərə yağı 200q,Süd məhsulları,14.0,2.8,sales_2021_08.xlsx
+2021-08-22,Lavaş,Çörək,51.0,0.4,sales_2021_08.xlsx
+2021-08-22,Limonad 1L,İçkilər,46.0,1.1,sales_2021_08.xlsx
+2021-08-22,Makaron 400q,Bakaleya,17.0,1.1,sales_2021_08.xlsx
+2021-08-22,Mal əti,Ət,15.0,12.0,sales_2021_08.xlsx
+2021-08-22,Mandarin,Meyvə-tərəvəz,0.5,2.5,sales_2021_08.xlsx
+2021-08-22,Peçenye 300q,Şirniyyat,17.0,1.8,sales_2021_08.xlsx
+2021-08-22,Pomidor,Meyvə-tərəvəz,31.1,2.0,sales_2021_08.xlsx
+2021-08-22,Qara çay 100q,Çay və qəhvə,8.0,2.2,sales_2021_08.xlsx
+2021-08-22,Qatıq 0.5kq,Süd məhsulları,45.0,1.0,sales_2021_08.xlsx
+2021-08-22,Qoyun əti,Ət,2.9,13.0,sales_2021_08.xlsx
+2021-08-22,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-22,Su 1.5L,İçkilər,83.0,0.5,sales_2021_08.xlsx
+2021-08-22,Süd 1L,Süd məhsulları,55.0,1.2,sales_2021_08.xlsx
+2021-08-22,Tort,Şirniyyat,2.0,12.0,sales_2021_08.xlsx
+2021-08-22,Toyuq,Ət,5.9,5.5,sales_2021_08.xlsx
+2021-08-22,Yaşıl çay 100q,Çay və qəhvə,8.0,2.5,sales_2021_08.xlsx
+2021-08-22,Yumurta 10 əd,Süd məhsulları,18.0,1.9,sales_2021_08.xlsx
+2021-08-22,Şokolad,Şirniyyat,13.0,1.5,sales_2021_08.xlsx
+2021-08-22,Şəkər 1kq,Bakaleya,11.0,1.6,sales_2021_08.xlsx
+2021-08-23,Alma,Meyvə-tərəvəz,26.7,1.8,sales_2021_08.xlsx
+2021-08-23,Ağ pendir,Süd məhsulları,5.5,7.5,sales_2021_08.xlsx
+2021-08-23,Ağ çörək,Çörək,84.0,0.5,sales_2021_08.xlsx
+2021-08-23,Dondurma eskimo,Dondurma,55.0,0.7,sales_2021_08.xlsx
+2021-08-23,Dondurma plombir,Dondurma,76.0,0.8,sales_2021_08.xlsx
+2021-08-23,Düyü 1kq,Bakaleya,6.0,2.4,sales_2021_08.xlsx
+2021-08-23,Günəbaxan yağı 1L,Bakaleya,4.0,2.9,sales_2021_08.xlsx
+2021-08-23,Kefir 1L,Süd məhsulları,19.0,1.3,sales_2021_08.xlsx
+2021-08-23,Konfet,Şirniyyat,2.7,9.0,sales_2021_08.xlsx
+2021-08-23,Kərə yağı 200q,Süd məhsulları,9.0,2.8,sales_2021_08.xlsx
+2021-08-23,Lavaş,Çörək,63.0,0.4,sales_2021_08.xlsx
+2021-08-23,Limonad 1L,İçkilər,29.0,1.1,sales_2021_08.xlsx
+2021-08-23,Makaron 400q,Bakaleya,11.0,1.1,sales_2021_08.xlsx
+2021-08-23,Mal əti,Ət,3.2,12.0,sales_2021_08.xlsx
+2021-08-23,Mandarin,Meyvə-tərəvəz,0.6,2.5,sales_2021_08.xlsx
+2021-08-23,Peçenye 300q,Şirniyyat,9.0,1.8,sales_2021_08.xlsx
+2021-08-23,Pomidor,Meyvə-tərəvəz,29.6,2.0,sales_2021_08.xlsx
+2021-08-23,Qara çay 100q,Çay və qəhvə,17.0,2.2,sales_2021_08.xlsx
+2021-08-23,Qatıq 0.5kq,Süd məhsulları,26.0,1.0,sales_2021_08.xlsx
+2021-08-23,Qoyun əti,Ət,7.5,13.0,sales_2021_08.xlsx
+2021-08-23,Qəhvə 100q,Çay və qəhvə,5.0,3.5,sales_2021_08.xlsx
+2021-08-23,Su 1.5L,İçkilər,76.0,0.5,sales_2021_08.xlsx
+2021-08-23,Süd 1L,Süd məhsulları,37.0,1.2,sales_2021_08.xlsx
+2021-08-23,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-23,Toyuq,Ət,5.9,5.5,sales_2021_08.xlsx
+2021-08-23,Yaşıl çay 100q,Çay və qəhvə,8.0,2.5,sales_2021_08.xlsx
+2021-08-23,Yumurta 10 əd,Süd məhsulları,12.0,1.9,sales_2021_08.xlsx
+2021-08-23,Şokolad,Şirniyyat,25.0,1.5,sales_2021_08.xlsx
+2021-08-23,Şəkər 1kq,Bakaleya,18.0,1.6,sales_2021_08.xlsx
+2021-08-24,Alma,Meyvə-tərəvəz,12.0,1.8,sales_2021_08.xlsx
+2021-08-24,Ağ pendir,Süd məhsulları,4.0,7.5,sales_2021_08.xlsx
+2021-08-24,Ağ çörək,Çörək,81.0,0.5,sales_2021_08.xlsx
+2021-08-24,Dondurma eskimo,Dondurma,62.0,0.7,sales_2021_08.xlsx
+2021-08-24,Dondurma plombir,Dondurma,78.0,0.8,sales_2021_08.xlsx
+2021-08-24,Düyü 1kq,Bakaleya,5.0,2.4,sales_2021_08.xlsx
+2021-08-24,Günəbaxan yağı 1L,Bakaleya,13.0,2.9,sales_2021_08.xlsx
+2021-08-24,Kefir 1L,Süd məhsulları,20.0,1.3,sales_2021_08.xlsx
+2021-08-24,Konfet,Şirniyyat,8.0,9.0,sales_2021_08.xlsx
+2021-08-24,Kərə yağı 200q,Süd məhsulları,11.0,2.8,sales_2021_08.xlsx
+2021-08-24,Lavaş,Çörək,58.0,0.4,sales_2021_08.xlsx
+2021-08-24,Limonad 1L,İçkilər,40.0,1.1,sales_2021_08.xlsx
+2021-08-24,Makaron 400q,Bakaleya,12.0,1.1,sales_2021_08.xlsx
+2021-08-24,Mal əti,Ət,6.5,12.0,sales_2021_08.xlsx
+2021-08-24,Mandarin,Meyvə-tərəvəz,0.4,2.5,sales_2021_08.xlsx
+2021-08-24,Peçenye 300q,Şirniyyat,11.0,1.8,sales_2021_08.xlsx
+2021-08-24,Pomidor,Meyvə-tərəvəz,24.0,2.0,sales_2021_08.xlsx
+2021-08-24,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-24,Qatıq 0.5kq,Süd məhsulları,26.0,1.0,sales_2021_08.xlsx
+2021-08-24,Qoyun əti,Ət,4.4,13.0,sales_2021_08.xlsx
+2021-08-24,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-24,Su 1.5L,İçkilər,75.0,0.5,sales_2021_08.xlsx
+2021-08-24,Süd 1L,Süd məhsulları,44.0,1.2,sales_2021_08.xlsx
+2021-08-24,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-24,Toyuq,Ət,14.0,5.5,sales_2021_08.xlsx
+2021-08-24,Yaşıl çay 100q,Çay və qəhvə,8.0,2.5,sales_2021_08.xlsx
+2021-08-24,Yumurta 10 əd,Süd məhsulları,24.0,1.9,sales_2021_08.xlsx
+2021-08-24,Şokolad,Şirniyyat,17.0,1.5,sales_2021_08.xlsx
+2021-08-24,Şəkər 1kq,Bakaleya,12.0,1.6,sales_2021_08.xlsx
+2021-08-25,Alma,Meyvə-tərəvəz,17.9,1.8,sales_2021_08.xlsx
+2021-08-25,Ağ pendir,Süd məhsulları,6.7,7.5,sales_2021_08.xlsx
+2021-08-25,Ağ çörək,Çörək,69.0,0.5,sales_2021_08.xlsx
+2021-08-25,Dondurma eskimo,Dondurma,50.0,0.7,sales_2021_08.xlsx
+2021-08-25,Dondurma plombir,Dondurma,70.0,0.8,sales_2021_08.xlsx
+2021-08-25,Düyü 1kq,Bakaleya,7.0,2.4,sales_2021_08.xlsx
+2021-08-25,Günəbaxan yağı 1L,Bakaleya,9.0,2.9,sales_2021_08.xlsx
+2021-08-25,Kefir 1L,Süd məhsulları,29.0,1.3,sales_2021_08.xlsx
+2021-08-25,Konfet,Şirniyyat,1.5,9.0,sales_2021_08.xlsx
+2021-08-25,Kərə yağı 200q,Süd məhsulları,26.0,2.8,sales_2021_08.xlsx
+2021-08-25,Lavaş,Çörək,49.0,0.4,sales_2021_08.xlsx
+2021-08-25,Limonad 1L,İçkilər,36.0,1.1,sales_2021_08.xlsx
+2021-08-25,Makaron 400q,Bakaleya,11.0,1.1,sales_2021_08.xlsx
+2021-08-25,Mal əti,Ət,3.6,12.0,sales_2021_08.xlsx
+2021-08-25,Mandarin,Meyvə-tərəvəz,0.2,2.5,sales_2021_08.xlsx
+2021-08-25,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-25,Pomidor,Meyvə-tərəvəz,23.3,2.0,sales_2021_08.xlsx
+2021-08-25,Qara çay 100q,Çay və qəhvə,19.0,2.2,sales_2021_08.xlsx
+2021-08-25,Qatıq 0.5kq,Süd məhsulları,32.0,1.0,sales_2021_08.xlsx
+2021-08-25,Qoyun əti,Ət,4.7,13.0,sales_2021_08.xlsx
+2021-08-25,Qəhvə 100q,Çay və qəhvə,9.0,3.5,sales_2021_08.xlsx
+2021-08-25,Su 1.5L,İçkilər,77.0,0.5,sales_2021_08.xlsx
+2021-08-25,Süd 1L,Süd məhsulları,30.0,1.2,sales_2021_08.xlsx
+2021-08-25,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-25,Toyuq,Ət,36.9,5.5,sales_2021_08.xlsx
+2021-08-25,Yaşıl çay 100q,Çay və qəhvə,6.0,2.5,sales_2021_08.xlsx
+2021-08-25,Yumurta 10 əd,Süd məhsulları,14.0,1.9,sales_2021_08.xlsx
+2021-08-25,Şokolad,Şirniyyat,26.0,1.5,sales_2021_08.xlsx
+2021-08-25,Şəkər 1kq,Bakaleya,11.0,1.6,sales_2021_08.xlsx
+2021-08-26,Alma,Meyvə-tərəvəz,18.3,1.8,sales_2021_08.xlsx
+2021-08-26,Ağ pendir,Süd məhsulları,6.7,7.5,sales_2021_08.xlsx
+2021-08-26,Ağ çörək,Çörək,88.0,0.5,sales_2021_08.xlsx
+2021-08-26,Dondurma eskimo,Dondurma,74.0,0.7,sales_2021_08.xlsx
+2021-08-26,Dondurma plombir,Dondurma,84.0,0.8,sales_2021_08.xlsx
+2021-08-26,Düyü 1kq,Bakaleya,7.0,2.4,sales_2021_08.xlsx
+2021-08-26,Günəbaxan yağı 1L,Bakaleya,13.0,2.9,sales_2021_08.xlsx
+2021-08-26,Kefir 1L,Süd məhsulları,18.0,1.3,sales_2021_08.xlsx
+2021-08-26,Konfet,Şirniyyat,5.3,9.0,sales_2021_08.xlsx
+2021-08-26,Kərə yağı 200q,Süd məhsulları,18.0,2.8,sales_2021_08.xlsx
+2021-08-26,Lavaş,Çörək,49.0,0.4,sales_2021_08.xlsx
+2021-08-26,Limonad 1L,İçkilər,33.0,1.1,sales_2021_08.xlsx
+2021-08-26,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-26,Mal əti,Ət,6.1,12.0,sales_2021_08.xlsx
+2021-08-26,Mandarin,Meyvə-tərəvəz,1.0,2.5,sales_2021_08.xlsx
+2021-08-26,Peçenye 300q,Şirniyyat,14.0,1.8,sales_2021_08.xlsx
+2021-08-26,Pomidor,Meyvə-tərəvəz,38.4,2.0,sales_2021_08.xlsx
+2021-08-26,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-26,Qatıq 0.5kq,Süd məhsulları,28.0,1.0,sales_2021_08.xlsx
+2021-08-26,Qoyun əti,Ət,3.1,13.0,sales_2021_08.xlsx
+2021-08-26,Qəhvə 100q,Çay və qəhvə,8.0,3.5,sales_2021_08.xlsx
+2021-08-26,Su 1.5L,İçkilər,79.0,0.5,sales_2021_08.xlsx
+2021-08-26,Süd 1L,Süd məhsulları,34.0,1.2,sales_2021_08.xlsx
+2021-08-26,Tort,Şirniyyat,3.0,12.0,sales_2021_08.xlsx
+2021-08-26,Toyuq,Ət,13.4,5.5,sales_2021_08.xlsx
+2021-08-26,Yaşıl çay 100q,Çay və qəhvə,4.0,2.5,sales_2021_08.xlsx
+2021-08-26,Yumurta 10 əd,Süd məhsulları,15.0,1.9,sales_2021_08.xlsx
+2021-08-26,Şokolad,Şirniyyat,22.0,1.5,sales_2021_08.xlsx
+2021-08-26,Şəkər 1kq,Bakaleya,15.0,1.6,sales_2021_08.xlsx
+2021-08-27,Alma,Meyvə-tərəvəz,22.6,1.8,sales_2021_08.xlsx
+2021-08-27,Ağ pendir,Süd məhsulları,7.1,7.5,sales_2021_08.xlsx
+2021-08-27,Ağ çörək,Çörək,100.0,0.5,sales_2021_08.xlsx
+2021-08-27,Dondurma eskimo,Dondurma,61.0,0.7,sales_2021_08.xlsx
+2021-08-27,Dondurma plombir,Dondurma,70.0,0.8,sales_2021_08.xlsx
+2021-08-27,Düyü 1kq,Bakaleya,5.0,2.4,sales_2021_08.xlsx
+2021-08-27,Günəbaxan yağı 1L,Bakaleya,13.0,2.9,sales_2021_08.xlsx
+2021-08-27,Kefir 1L,Süd məhsulları,19.0,1.3,sales_2021_08.xlsx
+2021-08-27,Konfet,Şirniyyat,5.8,9.0,sales_2021_08.xlsx
+2021-08-27,Kərə yağı 200q,Süd məhsulları,14.0,2.8,sales_2021_08.xlsx
+2021-08-27,Lavaş,Çörək,59.0,0.4,sales_2021_08.xlsx
+2021-08-27,Limonad 1L,İçkilər,33.0,1.1,sales_2021_08.xlsx
+2021-08-27,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-27,Mal əti,Ət,3.9,12.0,sales_2021_08.xlsx
+2021-08-27,Mandarin,Meyvə-tərəvəz,0.9,2.5,sales_2021_08.xlsx
+2021-08-27,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-27,Pomidor,Meyvə-tərəvəz,33.2,2.0,sales_2021_08.xlsx
+2021-08-27,Qara çay 100q,Çay və qəhvə,5.0,2.2,sales_2021_08.xlsx
+2021-08-27,Qatıq 0.5kq,Süd məhsulları,26.0,1.0,sales_2021_08.xlsx
+2021-08-27,Qoyun əti,Ət,2.5,13.0,sales_2021_08.xlsx
+2021-08-27,Qəhvə 100q,Çay və qəhvə,9.0,3.5,sales_2021_08.xlsx
+2021-08-27,Su 1.5L,İçkilər,83.0,0.5,sales_2021_08.xlsx
+2021-08-27,Süd 1L,Süd məhsulları,36.0,1.2,sales_2021_08.xlsx
+2021-08-27,Toyuq,Ət,22.8,5.5,sales_2021_08.xlsx
+2021-08-27,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-27,Yumurta 10 əd,Süd məhsulları,17.0,1.9,sales_2021_08.xlsx
+2021-08-27,Şokolad,Şirniyyat,22.0,1.5,sales_2021_08.xlsx
+2021-08-27,Şəkər 1kq,Bakaleya,14.0,1.6,sales_2021_08.xlsx
+2021-08-28,Alma,Meyvə-tərəvəz,9.9,1.8,sales_2021_08.xlsx
+2021-08-28,Ağ pendir,Süd məhsulları,2.1,7.5,sales_2021_08.xlsx
+2021-08-28,Ağ çörək,Çörək,87.0,0.5,sales_2021_08.xlsx
+2021-08-28,Dondurma eskimo,Dondurma,81.0,0.7,sales_2021_08.xlsx
+2021-08-28,Dondurma plombir,Dondurma,92.0,0.8,sales_2021_08.xlsx
+2021-08-28,Düyü 1kq,Bakaleya,11.0,2.4,sales_2021_08.xlsx
+2021-08-28,Günəbaxan yağı 1L,Bakaleya,14.0,2.9,sales_2021_08.xlsx
+2021-08-28,Kefir 1L,Süd məhsulları,22.0,1.3,sales_2021_08.xlsx
+2021-08-28,Konfet,Şirniyyat,7.6,9.0,sales_2021_08.xlsx
+2021-08-28,Kərə yağı 200q,Süd məhsulları,4.0,2.8,sales_2021_08.xlsx
+2021-08-28,Lavaş,Çörək,62.0,0.4,sales_2021_08.xlsx
+2021-08-28,Limonad 1L,İçkilər,32.0,1.1,sales_2021_08.xlsx
+2021-08-28,Makaron 400q,Bakaleya,17.0,1.1,sales_2021_08.xlsx
+2021-08-28,Mal əti,Ət,16.7,12.0,sales_2021_08.xlsx
+2021-08-28,Mandarin,Meyvə-tərəvəz,0.5,2.5,sales_2021_08.xlsx
+2021-08-28,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-28,Pomidor,Meyvə-tərəvəz,38.5,2.0,sales_2021_08.xlsx
+2021-08-28,Qara çay 100q,Çay və qəhvə,14.0,2.2,sales_2021_08.xlsx
+2021-08-28,Qatıq 0.5kq,Süd məhsulları,30.0,1.0,sales_2021_08.xlsx
+2021-08-28,Qoyun əti,Ət,4.7,13.0,sales_2021_08.xlsx
+2021-08-28,Qəhvə 100q,Çay və qəhvə,7.0,3.5,sales_2021_08.xlsx
+2021-08-28,Su 1.5L,İçkilər,104.0,0.5,sales_2021_08.xlsx
+2021-08-28,Süd 1L,Süd məhsulları,46.0,1.2,sales_2021_08.xlsx
+2021-08-28,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-28,Toyuq,Ət,16.9,5.5,sales_2021_08.xlsx
+2021-08-28,Yaşıl çay 100q,Çay və qəhvə,5.0,2.5,sales_2021_08.xlsx
+2021-08-28,Yumurta 10 əd,Süd məhsulları,17.0,1.9,sales_2021_08.xlsx
+2021-08-28,Şokolad,Şirniyyat,20.0,1.5,sales_2021_08.xlsx
+2021-08-28,Şəkər 1kq,Bakaleya,14.0,1.6,sales_2021_08.xlsx
+2021-08-29,Alma,Meyvə-tərəvəz,12.3,1.8,sales_2021_08.xlsx
+2021-08-29,Ağ pendir,Süd məhsulları,9.8,7.5,sales_2021_08.xlsx
+2021-08-29,Ağ çörək,Çörək,99.0,0.5,sales_2021_08.xlsx
+2021-08-29,Dondurma eskimo,Dondurma,68.0,0.7,sales_2021_08.xlsx
+2021-08-29,Dondurma plombir,Dondurma,91.0,0.8,sales_2021_08.xlsx
+2021-08-29,Düyü 1kq,Bakaleya,14.0,2.4,sales_2021_08.xlsx
+2021-08-29,Günəbaxan yağı 1L,Bakaleya,12.0,2.9,sales_2021_08.xlsx
+2021-08-29,Kefir 1L,Süd məhsulları,25.0,1.3,sales_2021_08.xlsx
+2021-08-29,Konfet,Şirniyyat,5.9,9.0,sales_2021_08.xlsx
+2021-08-29,Kərə yağı 200q,Süd məhsulları,11.0,2.8,sales_2021_08.xlsx
+2021-08-29,Lavaş,Çörək,68.0,0.4,sales_2021_08.xlsx
+2021-08-29,Limonad 1L,İçkilər,41.0,1.1,sales_2021_08.xlsx
+2021-08-29,Makaron 400q,Bakaleya,14.0,1.1,sales_2021_08.xlsx
+2021-08-29,Mal əti,Ət,8.6,12.0,sales_2021_08.xlsx
+2021-08-29,Mandarin,Meyvə-tərəvəz,0.3,2.5,sales_2021_08.xlsx
+2021-08-29,Peçenye 300q,Şirniyyat,16.0,1.8,sales_2021_08.xlsx
+2021-08-29,Pomidor,Meyvə-tərəvəz,69.6,2.0,sales_2021_08.xlsx
+2021-08-29,Qara çay 100q,Çay və qəhvə,13.0,2.2,sales_2021_08.xlsx
+2021-08-29,Qatıq 0.5kq,Süd məhsulları,34.0,1.0,sales_2021_08.xlsx
+2021-08-29,Qoyun əti,Ət,6.4,13.0,sales_2021_08.xlsx
+2021-08-29,Qəhvə 100q,Çay və qəhvə,7.0,3.5,sales_2021_08.xlsx
+2021-08-29,Su 1.5L,İçkilər,77.0,0.5,sales_2021_08.xlsx
+2021-08-29,Süd 1L,Süd məhsulları,53.0,1.2,sales_2021_08.xlsx
+2021-08-29,Tort,Şirniyyat,5.0,12.0,sales_2021_08.xlsx
+2021-08-29,Toyuq,Ət,18.7,5.5,sales_2021_08.xlsx
+2021-08-29,Yaşıl çay 100q,Çay və qəhvə,4.0,2.5,sales_2021_08.xlsx
+2021-08-29,Yumurta 10 əd,Süd məhsulları,12.0,1.9,sales_2021_08.xlsx
+2021-08-29,Şokolad,Şirniyyat,23.0,1.5,sales_2021_08.xlsx
+2021-08-29,Şəkər 1kq,Bakaleya,20.0,1.6,sales_2021_08.xlsx
+2021-08-30,Alma,Meyvə-tərəvəz,13.7,1.8,sales_2021_08.xlsx
+2021-08-30,Ağ pendir,Süd məhsulları,4.7,7.5,sales_2021_08.xlsx
+2021-08-30,Ağ çörək,Çörək,99.0,0.5,sales_2021_08.xlsx
+2021-08-30,Dondurma eskimo,Dondurma,57.0,0.7,sales_2021_08.xlsx
+2021-08-30,Dondurma plombir,Dondurma,71.0,0.8,sales_2021_08.xlsx
+2021-08-30,Düyü 1kq,Bakaleya,10.0,2.4,sales_2021_08.xlsx
+2021-08-30,Günəbaxan yağı 1L,Bakaleya,7.0,2.9,sales_2021_08.xlsx
+2021-08-30,Kefir 1L,Süd məhsulları,18.0,1.3,sales_2021_08.xlsx
+2021-08-30,Konfet,Şirniyyat,5.3,9.0,sales_2021_08.xlsx
+2021-08-30,Kərə yağı 200q,Süd məhsulları,4.0,2.8,sales_2021_08.xlsx
+2021-08-30,Lavaş,Çörək,44.0,0.4,sales_2021_08.xlsx
+2021-08-30,Limonad 1L,İçkilər,33.0,1.1,sales_2021_08.xlsx
+2021-08-30,Makaron 400q,Bakaleya,9.0,1.1,sales_2021_08.xlsx
+2021-08-30,Mal əti,Ət,10.2,12.0,sales_2021_08.xlsx
+2021-08-30,Mandarin,Meyvə-tərəvəz,0.4,2.5,sales_2021_08.xlsx
+2021-08-30,Peçenye 300q,Şirniyyat,15.0,1.8,sales_2021_08.xlsx
+2021-08-30,Pomidor,Meyvə-tərəvəz,19.0,2.0,sales_2021_08.xlsx
+2021-08-30,Qara çay 100q,Çay və qəhvə,15.0,2.2,sales_2021_08.xlsx
+2021-08-30,Qatıq 0.5kq,Süd məhsulları,38.0,1.0,sales_2021_08.xlsx
+2021-08-30,Qoyun əti,Ət,5.4,13.0,sales_2021_08.xlsx
+2021-08-30,Qəhvə 100q,Çay və qəhvə,7.0,3.5,sales_2021_08.xlsx
+2021-08-30,Su 1.5L,İçkilər,77.0,0.5,sales_2021_08.xlsx
+2021-08-30,Süd 1L,Süd məhsulları,42.0,1.2,sales_2021_08.xlsx
+2021-08-30,Tort,Şirniyyat,4.0,12.0,sales_2021_08.xlsx
+2021-08-30,Toyuq,Ət,8.6,5.5,sales_2021_08.xlsx
+2021-08-30,Yaşıl çay 100q,Çay və qəhvə,8.0,2.5,sales_2021_08.xlsx
+2021-08-30,Yumurta 10 əd,Süd məhsulları,11.0,1.9,sales_2021_08.xlsx
+2021-08-30,Şokolad,Şirniyyat,23.0,1.5,sales_2021_08.xlsx
+2021-08-30,Şəkər 1kq,Bakaleya,15.0,1.6,sales_2021_08.xlsx
+2021-08-31,Alma,Meyvə-tərəvəz,23.6,1.8,sales_2021_08.xlsx
+2021-08-31,Ağ pendir,Süd məhsulları,6.2,7.5,sales_2021_08.xlsx
+2021-08-31,Ağ çörək,Çörək,77.0,0.5,sales_2021_08.xlsx
+2021-08-31,Dondurma eskimo,Dondurma,68.0,0.7,sales_2021_08.xlsx
+2021-08-31,Dondurma plombir,Dondurma,76.0,0.8,sales_2021_08.xlsx
+2021-08-31,Düyü 1kq,Bakaleya,6.0,2.4,sales_2021_08.xlsx
+2021-08-31,Günəbaxan yağı 1L,Bakaleya,11.0,2.9,sales_2021_08.xlsx
+2021-08-31,Kefir 1L,Süd məhsulları,30.0,1.3,sales_2021_08.xlsx
+2021-08-31,Konfet,Şirniyyat,4.5,9.0,sales_2021_08.xlsx
+2021-08-31,Kərə yağı 200q,Süd məhsulları,14.0,2.8,sales_2021_08.xlsx
+2021-08-31,Lavaş,Çörək,39.0,0.4,sales_2021_08.xlsx
+2021-08-31,Limonad 1L,İçkilər,49.0,1.1,sales_2021_08.xlsx
+2021-08-31,Makaron 400q,Bakaleya,13.0,1.1,sales_2021_08.xlsx
+2021-08-31,Mal əti,Ət,7.2,12.0,sales_2021_08.xlsx
+2021-08-31,Mandarin,Meyvə-tərəvəz,0.2,2.5,sales_2021_08.xlsx
+2021-08-31,Peçenye 300q,Şirniyyat,18.0,1.8,sales_2021_08.xlsx
+2021-08-31,Pomidor,Meyvə-tərəvəz,31.1,2.0,sales_2021_08.xlsx
+2021-08-31,Qara çay 100q,Çay və qəhvə,13.0,2.2,sales_2021_08.xlsx
+2021-08-31,Qatıq 0.5kq,Süd məhsulları,34.0,1.0,sales_2021_08.xlsx
+2021-08-31,Qoyun əti,Ət,1.6,13.0,sales_2021_08.xlsx
+2021-08-31,Qəhvə 100q,Çay və qəhvə,2.0,3.5,sales_2021_08.xlsx
+2021-08-31,Su 1.5L,İçkilər,87.0,0.5,sales_2021_08.xlsx
+2021-08-31,Süd 1L,Süd məhsulları,40.0,1.2,sales_2021_08.xlsx
+2021-08-31,Tort,Şirniyyat,1.0,12.0,sales_2021_08.xlsx
+2021-08-31,Toyuq,Ət,9.3,5.5,sales_2021_08.xlsx
+2021-08-31,Yaşıl çay 100q,Çay və qəhvə,4.0,2.5,sales_2021_08.xlsx
+2021-08-31,Yumurta 10 əd,Süd məhsulları,15.0,1.9,sales_2021_08.xlsx
+2021-08-31,Şokolad,Şirniyyat,16.0,1.5,sales_2021_08.xlsx
+2021-08-31,Şəkər 1kq,Bakaleya,14.0,1.6,sales_2021_08.xlsx
+2023-12-01,Alma,Meyvə-tərəvəz,14.8,2.25,sales_2023_12.xlsx
+2023-12-01,Ağ pendir,Süd məhsulları,9.1,9.4,sales_2023_12.xlsx
+2023-12-01,Ağ çörək,Çörək,80.0,0.6,sales_2023_12.xlsx
+2023-12-01,Dondurma eskimo,Dondurma,7.0,0.9,sales_2023_12.xlsx
+2023-12-01,Dondurma plombir,Dondurma,11.0,1.0,sales_2023_12.xlsx
+2023-12-01,Düyü 1kq,Bakaleya,10.0,3.0,sales_2023_12.xlsx
+2023-12-01,Günəbaxan yağı 1L,Bakaleya,7.0,3.6,sales_2023_12.xlsx
+2023-12-01,Kefir 1L,Süd məhsulları,19.0,1.6,sales_2023_12.xlsx
+2023-12-01,Konfet,Şirniyyat,4.6,11.25,sales_2023_12.xlsx
+2023-12-01,Kərə yağı 200q,Süd məhsulları,16.0,3.5,sales_2023_12.xlsx
+2023-12-01,Lavaş,Çörək,60.0,0.5,sales_2023_12.xlsx
+2023-12-01,Limonad 1L,İçkilər,18.0,1.4,sales_2023_12.xlsx
+2023-12-01,Makaron 400q,Bakaleya,18.0,1.4,sales_2023_12.xlsx
+2023-12-01,Mal əti,Ət,5.1,15.0,sales_2023_12.xlsx
+2023-12-01,Mandarin,Meyvə-tərəvəz,8.7,3.1,sales_2023_12.xlsx
+2023-12-01,Peçenye 300q,Şirniyyat,15.0,2.25,sales_2023_12.xlsx
+2023-12-01,Pomidor,Meyvə-tərəvəz,8.1,2.5,sales_2023_12.xlsx
+2023-12-01,Qara çay 100q,Çay və qəhvə,15.0,2.75,sales_2023_12.xlsx
+2023-12-01,Qatıq 0.5kq,Süd məhsulları,13.0,1.25,sales_2023_12.xlsx
+2023-12-01,Qoyun əti,Ət,5.8,16.25,sales_2023_12.xlsx
+2023-12-01,Qəhvə 100q,Çay və qəhvə,14.0,4.4,sales_2023_12.xlsx
+2023-12-01,Su 1.5L,İçkilər,30.0,0.6,sales_2023_12.xlsx
+2023-12-01,Süd 1L,Süd məhsulları,46.0,1.5,sales_2023_12.xlsx
+2023-12-01,Tort,Şirniyyat,3.0,15.0,sales_2023_12.xlsx
+2023-12-01,Toyuq,Ət,21.5,6.9,sales_2023_12.xlsx
+2023-12-01,Yaşıl çay 100q,Çay və qəhvə,7.0,3.1,sales_2023_12.xlsx
+2023-12-01,Yumurta 10 əd,Süd məhsulları,14.0,2.4,sales_2023_12.xlsx
+2023-12-01,Şokolad,Şirniyyat,18.0,1.9,sales_2023_12.xlsx
+2023-12-01,Şəkər 1kq,Bakaleya,11.0,2.0,sales_2023_12.xlsx
+2023-12-02,Alma,Meyvə-tərəvəz,12.9,2.25,sales_2023_12.xlsx
+2023-12-02,Ağ pendir,Süd məhsulları,7.2,9.4,sales_2023_12.xlsx
+2023-12-02,Ağ çörək,Çörək,102.0,0.6,sales_2023_12.xlsx
+2023-12-02,Dondurma eskimo,Dondurma,6.0,0.9,sales_2023_12.xlsx
+2023-12-02,Dondurma plombir,Dondurma,13.0,1.0,sales_2023_12.xlsx
+2023-12-02,Düyü 1kq,Bakaleya,9.0,3.0,sales_2023_12.xlsx
+2023-12-02,Günəbaxan yağı 1L,Bakaleya,10.0,3.6,sales_2023_12.xlsx
+2023-12-02,Kefir 1L,Süd məhsulları,22.0,1.6,sales_2023_12.xlsx
+2023-12-02,Konfet,Şirniyyat,5.7,11.25,sales_2023_12.xlsx
+2023-12-02,Kərə yağı 200q,Süd məhsulları,9.0,3.5,sales_2023_12.xlsx
+2023-12-02,Lavaş,Çörək,61.0,0.5,sales_2023_12.xlsx
+2023-12-02,Limonad 1L,İçkilər,18.0,1.4,sales_2023_12.xlsx
+2023-12-02,Makaron 400q,Bakaleya,20.0,1.4,sales_2023_12.xlsx
+2023-12-02,Mal əti,Ət,14.0,15.0,sales_2023_12.xlsx
+2023-12-02,Mandarin,Meyvə-tərəvəz,14.9,3.1,sales_2023_12.xlsx
+2023-12-02,Peçenye 300q,Şirniyyat,13.0,2.25,sales_2023_12.xlsx
+2023-12-02,Pomidor,Meyvə-tərəvəz,15.0,2.5,sales_2023_12.xlsx
+2023-12-02,Qara çay 100q,Çay və qəhvə,24.0,2.75,sales_2023_12.xlsx
+2023-12-02,Qatıq 0.5kq,Süd məhsulları,17.0,1.25,sales_2023_12.xlsx
+2023-12-02,Qoyun əti,Ət,4.4,16.25,sales_2023_12.xlsx
+2023-12-02,Qəhvə 100q,Çay və qəhvə,13.0,4.4,sales_2023_12.xlsx
+2023-12-02,Su 1.5L,İçkilər,49.0,0.6,sales_2023_12.xlsx
+2023-12-02,Süd 1L,Süd məhsulları,63.0,1.5,sales_2023_12.xlsx
+2023-12-02,Toyuq,Ət,11.6,6.9,sales_2023_12.xlsx
+2023-12-02,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-02,Yumurta 10 əd,Süd məhsulları,16.0,2.4,sales_2023_12.xlsx
+2023-12-02,Şokolad,Şirniyyat,21.0,1.9,sales_2023_12.xlsx
+2023-12-02,Şəkər 1kq,Bakaleya,21.0,2.0,sales_2023_12.xlsx
+2023-12-03,Alma,Meyvə-tərəvəz,11.3,2.25,sales_2023_12.xlsx
+2023-12-03,Ağ pendir,Süd məhsulları,5.7,9.4,sales_2023_12.xlsx
+2023-12-03,Ağ çörək,Çörək,99.0,0.6,sales_2023_12.xlsx
+2023-12-03,Dondurma eskimo,Dondurma,5.0,0.9,sales_2023_12.xlsx
+2023-12-03,Dondurma plombir,Dondurma,3.0,1.0,sales_2023_12.xlsx
+2023-12-03,Düyü 1kq,Bakaleya,13.0,3.0,sales_2023_12.xlsx
+2023-12-03,Günəbaxan yağı 1L,Bakaleya,13.0,3.6,sales_2023_12.xlsx
+2023-12-03,Kefir 1L,Süd məhsulları,23.0,1.6,sales_2023_12.xlsx
+2023-12-03,Konfet,Şirniyyat,2.8,11.25,sales_2023_12.xlsx
+2023-12-03,Kərə yağı 200q,Süd məhsulları,13.0,3.5,sales_2023_12.xlsx
+2023-12-03,Lavaş,Çörək,49.0,0.5,sales_2023_12.xlsx
+2023-12-03,Limonad 1L,İçkilər,21.0,1.4,sales_2023_12.xlsx
+2023-12-03,Makaron 400q,Bakaleya,12.0,1.4,sales_2023_12.xlsx
+2023-12-03,Mal əti,Ət,8.1,15.0,sales_2023_12.xlsx
+2023-12-03,Mandarin,Meyvə-tərəvəz,4.5,3.1,sales_2023_12.xlsx
+2023-12-03,Peçenye 300q,Şirniyyat,18.0,2.25,sales_2023_12.xlsx
+2023-12-03,Pomidor,Meyvə-tərəvəz,4.8,2.5,sales_2023_12.xlsx
+2023-12-03,Qara çay 100q,Çay və qəhvə,15.0,2.75,sales_2023_12.xlsx
+2023-12-03,Qatıq 0.5kq,Süd məhsulları,15.0,1.25,sales_2023_12.xlsx
+2023-12-03,Qoyun əti,Ət,5.3,16.25,sales_2023_12.xlsx
+2023-12-03,Qəhvə 100q,Çay və qəhvə,11.0,4.4,sales_2023_12.xlsx
+2023-12-03,Su 1.5L,İçkilər,44.0,0.6,sales_2023_12.xlsx
+2023-12-03,Süd 1L,Süd məhsulları,53.0,1.5,sales_2023_12.xlsx
+2023-12-03,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-03,Toyuq,Ət,25.1,6.9,sales_2023_12.xlsx
+2023-12-03,Yaşıl çay 100q,Çay və qəhvə,8.0,3.1,sales_2023_12.xlsx
+2023-12-03,Yumurta 10 əd,Süd məhsulları,26.0,2.4,sales_2023_12.xlsx
+2023-12-03,Şokolad,Şirniyyat,24.0,1.9,sales_2023_12.xlsx
+2023-12-03,Şəkər 1kq,Bakaleya,26.0,2.0,sales_2023_12.xlsx
+2023-12-04,Alma,Meyvə-tərəvəz,22.5,2.25,sales_2023_12.xlsx
+2023-12-04,Ağ pendir,Süd məhsulları,9.5,9.4,sales_2023_12.xlsx
+2023-12-04,Ağ çörək,Çörək,70.0,0.6,sales_2023_12.xlsx
+2023-12-04,Dondurma eskimo,Dondurma,9.0,0.9,sales_2023_12.xlsx
+2023-12-04,Dondurma plombir,Dondurma,7.0,1.0,sales_2023_12.xlsx
+2023-12-04,Düyü 1kq,Bakaleya,7.0,3.0,sales_2023_12.xlsx
+2023-12-04,Günəbaxan yağı 1L,Bakaleya,9.0,3.6,sales_2023_12.xlsx
+2023-12-04,Kefir 1L,Süd məhsulları,17.0,1.6,sales_2023_12.xlsx
+2023-12-04,Konfet,Şirniyyat,4.0,11.25,sales_2023_12.xlsx
+2023-12-04,Kərə yağı 200q,Süd məhsulları,8.0,3.5,sales_2023_12.xlsx
+2023-12-04,Lavaş,Çörək,39.0,0.5,sales_2023_12.xlsx
+2023-12-04,Limonad 1L,İçkilər,17.0,1.4,sales_2023_12.xlsx
+2023-12-04,Makaron 400q,Bakaleya,8.0,1.4,sales_2023_12.xlsx
+2023-12-04,Mal əti,Ət,12.8,15.0,sales_2023_12.xlsx
+2023-12-04,Mandarin,Meyvə-tərəvəz,17.5,3.1,sales_2023_12.xlsx
+2023-12-04,Peçenye 300q,Şirniyyat,12.0,2.25,sales_2023_12.xlsx
+2023-12-04,Pomidor,Meyvə-tərəvəz,13.0,2.5,sales_2023_12.xlsx
+2023-12-04,Qara çay 100q,Çay və qəhvə,11.0,2.75,sales_2023_12.xlsx
+2023-12-04,Qatıq 0.5kq,Süd məhsulları,12.0,1.25,sales_2023_12.xlsx
+2023-12-04,Qoyun əti,Ət,3.8,16.25,sales_2023_12.xlsx
+2023-12-04,Qəhvə 100q,Çay və qəhvə,12.0,4.4,sales_2023_12.xlsx
+2023-12-04,Su 1.5L,İçkilər,31.0,0.6,sales_2023_12.xlsx
+2023-12-04,Süd 1L,Süd məhsulları,46.0,1.5,sales_2023_12.xlsx
+2023-12-04,Tort,Şirniyyat,3.0,15.0,sales_2023_12.xlsx
+2023-12-04,Toyuq,Ət,15.9,6.9,sales_2023_12.xlsx
+2023-12-04,Yaşıl çay 100q,Çay və qəhvə,2.0,3.1,sales_2023_12.xlsx
+2023-12-04,Yumurta 10 əd,Süd məhsulları,15.0,2.4,sales_2023_12.xlsx
+2023-12-04,Şokolad,Şirniyyat,18.0,1.9,sales_2023_12.xlsx
+2023-12-04,Şəkər 1kq,Bakaleya,19.0,2.0,sales_2023_12.xlsx
+2023-12-05,Alma,Meyvə-tərəvəz,34.7,2.25,sales_2023_12.xlsx
+2023-12-05,Ağ pendir,Süd məhsulları,5.0,9.4,sales_2023_12.xlsx
+2023-12-05,Ağ çörək,Çörək,72.0,0.6,sales_2023_12.xlsx
+2023-12-05,Dondurma eskimo,Dondurma,10.0,0.9,sales_2023_12.xlsx
+2023-12-05,Dondurma plombir,Dondurma,8.0,1.0,sales_2023_12.xlsx
+2023-12-05,Düyü 1kq,Bakaleya,16.0,3.0,sales_2023_12.xlsx
+2023-12-05,Günəbaxan yağı 1L,Bakaleya,8.0,3.6,sales_2023_12.xlsx
+2023-12-05,Kefir 1L,Süd məhsulları,28.0,1.6,sales_2023_12.xlsx
+2023-12-05,Konfet,Şirniyyat,6.4,11.25,sales_2023_12.xlsx
+2023-12-05,Kərə yağı 200q,Süd məhsulları,13.0,3.5,sales_2023_12.xlsx
+2023-12-05,Lavaş,Çörək,52.0,0.5,sales_2023_12.xlsx
+2023-12-05,Limonad 1L,İçkilər,13.0,1.4,sales_2023_12.xlsx
+2023-12-05,Makaron 400q,Bakaleya,11.0,1.4,sales_2023_12.xlsx
+2023-12-05,Mal əti,Ət,11.3,15.0,sales_2023_12.xlsx
+2023-12-05,Mandarin,Meyvə-tərəvəz,6.3,3.1,sales_2023_12.xlsx
+2023-12-05,Peçenye 300q,Şirniyyat,8.0,2.25,sales_2023_12.xlsx
+2023-12-05,Pomidor,Meyvə-tərəvəz,20.1,2.5,sales_2023_12.xlsx
+2023-12-05,Qara çay 100q,Çay və qəhvə,20.0,2.75,sales_2023_12.xlsx
+2023-12-05,Qatıq 0.5kq,Süd məhsulları,20.0,1.25,sales_2023_12.xlsx
+2023-12-05,Qoyun əti,Ət,2.7,16.25,sales_2023_12.xlsx
+2023-12-05,Qəhvə 100q,Çay və qəhvə,10.0,4.4,sales_2023_12.xlsx
+2023-12-05,Su 1.5L,İçkilər,41.0,0.6,sales_2023_12.xlsx
+2023-12-05,Süd 1L,Süd məhsulları,39.0,1.5,sales_2023_12.xlsx
+2023-12-05,Tort,Şirniyyat,1.0,15.0,sales_2023_12.xlsx
+2023-12-05,Toyuq,Ət,17.8,6.9,sales_2023_12.xlsx
+2023-12-05,Yaşıl çay 100q,Çay və qəhvə,11.0,3.1,sales_2023_12.xlsx
+2023-12-05,Yumurta 10 əd,Süd məhsulları,16.0,2.4,sales_2023_12.xlsx
+2023-12-05,Şokolad,Şirniyyat,17.0,1.9,sales_2023_12.xlsx
+2023-12-05,Şəkər 1kq,Bakaleya,17.0,2.0,sales_2023_12.xlsx
+2023-12-06,Alma,Meyvə-tərəvəz,8.9,2.25,sales_2023_12.xlsx
+2023-12-06,Ağ pendir,Süd məhsulları,6.2,9.4,sales_2023_12.xlsx
+2023-12-06,Ağ çörək,Çörək,83.0,0.6,sales_2023_12.xlsx
+2023-12-06,Dondurma eskimo,Dondurma,1.0,0.9,sales_2023_12.xlsx
+2023-12-06,Dondurma plombir,Dondurma,8.0,1.0,sales_2023_12.xlsx
+2023-12-06,Düyü 1kq,Bakaleya,10.0,3.0,sales_2023_12.xlsx
+2023-12-06,Günəbaxan yağı 1L,Bakaleya,3.0,3.6,sales_2023_12.xlsx
+2023-12-06,Kefir 1L,Süd məhsulları,18.0,1.6,sales_2023_12.xlsx
+2023-12-06,Konfet,Şirniyyat,4.2,11.25,sales_2023_12.xlsx
+2023-12-06,Kərə yağı 200q,Süd məhsulları,18.0,3.5,sales_2023_12.xlsx
+2023-12-06,Lavaş,Çörək,39.0,0.5,sales_2023_12.xlsx
+2023-12-06,Limonad 1L,İçkilər,18.0,1.4,sales_2023_12.xlsx
+2023-12-06,Makaron 400q,Bakaleya,20.0,1.4,sales_2023_12.xlsx
+2023-12-06,Mal əti,Ət,5.5,15.0,sales_2023_12.xlsx
+2023-12-06,Mandarin,Meyvə-tərəvəz,11.2,3.1,sales_2023_12.xlsx
+2023-12-06,Peçenye 300q,Şirniyyat,12.0,2.25,sales_2023_12.xlsx
+2023-12-06,Pomidor,Meyvə-tərəvəz,11.5,2.5,sales_2023_12.xlsx
+2023-12-06,Qara çay 100q,Çay və qəhvə,15.0,2.75,sales_2023_12.xlsx
+2023-12-06,Qatıq 0.5kq,Süd məhsulları,10.0,1.25,sales_2023_12.xlsx
+2023-12-06,Qoyun əti,Ət,6.0,16.25,sales_2023_12.xlsx
+2023-12-06,Qəhvə 100q,Çay və qəhvə,7.0,4.4,sales_2023_12.xlsx
+2023-12-06,Su 1.5L,İçkilər,39.0,0.6,sales_2023_12.xlsx
+2023-12-06,Süd 1L,Süd məhsulları,48.0,1.5,sales_2023_12.xlsx
+2023-12-06,Tort,Şirniyyat,3.0,15.0,sales_2023_12.xlsx
+2023-12-06,Toyuq,Ət,20.0,6.9,sales_2023_12.xlsx
+2023-12-06,Yaşıl çay 100q,Çay və qəhvə,2.0,3.1,sales_2023_12.xlsx
+2023-12-06,Yumurta 10 əd,Süd məhsulları,10.0,2.4,sales_2023_12.xlsx
+2023-12-06,Şokolad,Şirniyyat,13.0,1.9,sales_2023_12.xlsx
+2023-12-06,Şəkər 1kq,Bakaleya,17.0,2.0,sales_2023_12.xlsx
+2023-12-07,Alma,Meyvə-tərəvəz,17.5,2.25,sales_2023_12.xlsx
+2023-12-07,Ağ pendir,Süd məhsulları,3.9,9.4,sales_2023_12.xlsx
+2023-12-07,Ağ çörək,Çörək,92.0,0.6,sales_2023_12.xlsx
+2023-12-07,Dondurma eskimo,Dondurma,2.0,0.9,sales_2023_12.xlsx
+2023-12-07,Dondurma plombir,Dondurma,4.0,1.0,sales_2023_12.xlsx
+2023-12-07,Düyü 1kq,Bakaleya,7.0,3.0,sales_2023_12.xlsx
+2023-12-07,Günəbaxan yağı 1L,Bakaleya,11.0,3.6,sales_2023_12.xlsx
+2023-12-07,Kefir 1L,Süd məhsulları,18.0,1.6,sales_2023_12.xlsx
+2023-12-07,Konfet,Şirniyyat,5.6,11.25,sales_2023_12.xlsx
+2023-12-07,Kərə yağı 200q,Süd məhsulları,7.0,3.5,sales_2023_12.xlsx
+2023-12-07,Lavaş,Çörək,45.0,0.5,sales_2023_12.xlsx
+2023-12-07,Limonad 1L,İçkilər,14.0,1.4,sales_2023_12.xlsx
+2023-12-07,Makaron 400q,Bakaleya,15.0,1.4,sales_2023_12.xlsx
+2023-12-07,Mal əti,Ət,5.3,15.0,sales_2023_12.xlsx
+2023-12-07,Mandarin,Meyvə-tərəvəz,25.2,3.1,sales_2023_12.xlsx
+2023-12-07,Peçenye 300q,Şirniyyat,15.0,2.25,sales_2023_12.xlsx
+2023-12-07,Pomidor,Meyvə-tərəvəz,8.2,2.5,sales_2023_12.xlsx
+2023-12-07,Qara çay 100q,Çay və qəhvə,10.0,2.75,sales_2023_12.xlsx
+2023-12-07,Qatıq 0.5kq,Süd məhsulları,20.0,1.25,sales_2023_12.xlsx
+2023-12-07,Qoyun əti,Ət,2.1,16.25,sales_2023_12.xlsx
+2023-12-07,Qəhvə 100q,Çay və qəhvə,11.0,4.4,sales_2023_12.xlsx
+2023-12-07,Su 1.5L,İçkilər,27.0,0.6,sales_2023_12.xlsx
+2023-12-07,Süd 1L,Süd məhsulları,55.0,1.5,sales_2023_12.xlsx
+2023-12-07,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-07,Toyuq,Ət,10.6,6.9,sales_2023_12.xlsx
+2023-12-07,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-07,Yumurta 10 əd,Süd məhsulları,13.0,2.4,sales_2023_12.xlsx
+2023-12-07,Şokolad,Şirniyyat,10.0,1.9,sales_2023_12.xlsx
+2023-12-07,Şəkər 1kq,Bakaleya,12.0,2.0,sales_2023_12.xlsx
+2023-12-08,Alma,Meyvə-tərəvəz,5.1,2.25,sales_2023_12.xlsx
+2023-12-08,Ağ pendir,Süd məhsulları,3.3,9.4,sales_2023_12.xlsx
+2023-12-08,Ağ çörək,Çörək,89.0,0.6,sales_2023_12.xlsx
+2023-12-08,Dondurma eskimo,Dondurma,3.0,0.9,sales_2023_12.xlsx
+2023-12-08,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-08,Düyü 1kq,Bakaleya,15.0,3.0,sales_2023_12.xlsx
+2023-12-08,Günəbaxan yağı 1L,Bakaleya,12.0,3.6,sales_2023_12.xlsx
+2023-12-08,Kefir 1L,Süd məhsulları,17.0,1.6,sales_2023_12.xlsx
+2023-12-08,Konfet,Şirniyyat,3.6,11.25,sales_2023_12.xlsx
+2023-12-08,Kərə yağı 200q,Süd məhsulları,17.0,3.5,sales_2023_12.xlsx
+2023-12-08,Lavaş,Çörək,39.0,0.5,sales_2023_12.xlsx
+2023-12-08,Limonad 1L,İçkilər,13.0,1.4,sales_2023_12.xlsx
+2023-12-08,Makaron 400q,Bakaleya,23.0,1.4,sales_2023_12.xlsx
+2023-12-08,Mal əti,Ət,5.1,15.0,sales_2023_12.xlsx
+2023-12-08,Mandarin,Meyvə-tərəvəz,24.2,3.1,sales_2023_12.xlsx
+2023-12-08,Peçenye 300q,Şirniyyat,14.0,2.25,sales_2023_12.xlsx
+2023-12-08,Pomidor,Meyvə-tərəvəz,19.2,2.5,sales_2023_12.xlsx
+2023-12-08,Qara çay 100q,Çay və qəhvə,19.0,2.75,sales_2023_12.xlsx
+2023-12-08,Qatıq 0.5kq,Süd məhsulları,11.0,1.25,sales_2023_12.xlsx
+2023-12-08,Qoyun əti,Ət,3.9,16.25,sales_2023_12.xlsx
+2023-12-08,Qəhvə 100q,Çay və qəhvə,8.0,4.4,sales_2023_12.xlsx
+2023-12-08,Su 1.5L,İçkilər,36.0,0.6,sales_2023_12.xlsx
+2023-12-08,Süd 1L,Süd məhsulları,48.0,1.5,sales_2023_12.xlsx
+2023-12-08,Tort,Şirniyyat,1.0,15.0,sales_2023_12.xlsx
+2023-12-08,Toyuq,Ət,16.1,6.9,sales_2023_12.xlsx
+2023-12-08,Yaşıl çay 100q,Çay və qəhvə,7.0,3.1,sales_2023_12.xlsx
+2023-12-08,Yumurta 10 əd,Süd məhsulları,15.0,2.4,sales_2023_12.xlsx
+2023-12-08,Şokolad,Şirniyyat,18.0,1.9,sales_2023_12.xlsx
+2023-12-08,Şəkər 1kq,Bakaleya,14.0,2.0,sales_2023_12.xlsx
+2023-12-09,Alma,Meyvə-tərəvəz,17.5,2.25,sales_2023_12.xlsx
+2023-12-09,Ağ pendir,Süd məhsulları,1.0,9.4,sales_2023_12.xlsx
+2023-12-09,Ağ çörək,Çörək,89.0,0.6,sales_2023_12.xlsx
+2023-12-09,Dondurma eskimo,Dondurma,5.0,0.9,sales_2023_12.xlsx
+2023-12-09,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-09,Düyü 1kq,Bakaleya,11.0,3.0,sales_2023_12.xlsx
+2023-12-09,Günəbaxan yağı 1L,Bakaleya,10.0,3.6,sales_2023_12.xlsx
+2023-12-09,Kefir 1L,Süd məhsulları,18.0,1.6,sales_2023_12.xlsx
+2023-12-09,Konfet,Şirniyyat,9.5,11.25,sales_2023_12.xlsx
+2023-12-09,Kərə yağı 200q,Süd məhsulları,8.0,3.5,sales_2023_12.xlsx
+2023-12-09,Lavaş,Çörək,71.0,0.5,sales_2023_12.xlsx
+2023-12-09,Limonad 1L,İçkilər,22.0,1.4,sales_2023_12.xlsx
+2023-12-09,Makaron 400q,Bakaleya,16.0,1.4,sales_2023_12.xlsx
+2023-12-09,Mal əti,Ət,6.7,15.0,sales_2023_12.xlsx
+2023-12-09,Mandarin,Meyvə-tərəvəz,19.9,3.1,sales_2023_12.xlsx
+2023-12-09,Peçenye 300q,Şirniyyat,20.0,2.25,sales_2023_12.xlsx
+2023-12-09,Pomidor,Meyvə-tərəvəz,17.0,2.5,sales_2023_12.xlsx
+2023-12-09,Qara çay 100q,Çay və qəhvə,26.0,2.75,sales_2023_12.xlsx
+2023-12-09,Qatıq 0.5kq,Süd məhsulları,18.0,1.25,sales_2023_12.xlsx
+2023-12-09,Qoyun əti,Ət,9.1,16.25,sales_2023_12.xlsx
+2023-12-09,Qəhvə 100q,Çay və qəhvə,9.0,4.4,sales_2023_12.xlsx
+2023-12-09,Su 1.5L,İçkilər,51.0,0.6,sales_2023_12.xlsx
+2023-12-09,Süd 1L,Süd məhsulları,51.0,1.5,sales_2023_12.xlsx
+2023-12-09,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-09,Toyuq,Ət,19.7,6.9,sales_2023_12.xlsx
+2023-12-09,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-09,Yumurta 10 əd,Süd məhsulları,16.0,2.4,sales_2023_12.xlsx
+2023-12-09,Şokolad,Şirniyyat,22.0,1.9,sales_2023_12.xlsx
+2023-12-09,Şəkər 1kq,Bakaleya,30.0,2.0,sales_2023_12.xlsx
+2023-12-10,Alma,Meyvə-tərəvəz,27.7,2.25,sales_2023_12.xlsx
+2023-12-10,Ağ pendir,Süd məhsulları,15.4,9.4,sales_2023_12.xlsx
+2023-12-10,Ağ çörək,Çörək,97.0,0.6,sales_2023_12.xlsx
+2023-12-10,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-10,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-10,Düyü 1kq,Bakaleya,10.0,3.0,sales_2023_12.xlsx
+2023-12-10,Günəbaxan yağı 1L,Bakaleya,12.0,3.6,sales_2023_12.xlsx
+2023-12-10,Kefir 1L,Süd məhsulları,24.0,1.6,sales_2023_12.xlsx
+2023-12-10,Konfet,Şirniyyat,4.6,11.25,sales_2023_12.xlsx
+2023-12-10,Kərə yağı 200q,Süd məhsulları,16.0,3.5,sales_2023_12.xlsx
+2023-12-10,Lavaş,Çörək,49.0,0.5,sales_2023_12.xlsx
+2023-12-10,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-10,Makaron 400q,Bakaleya,14.0,1.4,sales_2023_12.xlsx
+2023-12-10,Mal əti,Ət,15.1,15.0,sales_2023_12.xlsx
+2023-12-10,Mandarin,Meyvə-tərəvəz,36.9,3.1,sales_2023_12.xlsx
+2023-12-10,Peçenye 300q,Şirniyyat,21.0,2.25,sales_2023_12.xlsx
+2023-12-10,Pomidor,Meyvə-tərəvəz,21.3,2.5,sales_2023_12.xlsx
+2023-12-10,Qara çay 100q,Çay və qəhvə,17.0,2.75,sales_2023_12.xlsx
+2023-12-10,Qatıq 0.5kq,Süd məhsulları,20.0,1.25,sales_2023_12.xlsx
+2023-12-10,Qoyun əti,Ət,8.8,16.25,sales_2023_12.xlsx
+2023-12-10,Qəhvə 100q,Çay və qəhvə,7.0,4.4,sales_2023_12.xlsx
+2023-12-10,Su 1.5L,İçkilər,41.0,0.6,sales_2023_12.xlsx
+2023-12-10,Süd 1L,Süd məhsulları,53.0,1.5,sales_2023_12.xlsx
+2023-12-10,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-10,Toyuq,Ət,10.1,6.9,sales_2023_12.xlsx
+2023-12-10,Yaşıl çay 100q,Çay və qəhvə,7.0,3.1,sales_2023_12.xlsx
+2023-12-10,Yumurta 10 əd,Süd məhsulları,18.0,2.4,sales_2023_12.xlsx
+2023-12-10,Şokolad,Şirniyyat,27.0,1.9,sales_2023_12.xlsx
+2023-12-10,Şəkər 1kq,Bakaleya,23.0,2.0,sales_2023_12.xlsx
+2023-12-11,Alma,Meyvə-tərəvəz,13.4,2.25,sales_2023_12.xlsx
+2023-12-11,Ağ pendir,Süd məhsulları,3.0,9.4,sales_2023_12.xlsx
+2023-12-11,Ağ çörək,Çörək,68.0,0.6,sales_2023_12.xlsx
+2023-12-11,Dondurma eskimo,Dondurma,7.0,0.9,sales_2023_12.xlsx
+2023-12-11,Dondurma plombir,Dondurma,2.0,1.0,sales_2023_12.xlsx
+2023-12-11,Düyü 1kq,Bakaleya,13.0,3.0,sales_2023_12.xlsx
+2023-12-11,Günəbaxan yağı 1L,Bakaleya,6.0,3.6,sales_2023_12.xlsx
+2023-12-11,Kefir 1L,Süd məhsulları,20.0,1.6,sales_2023_12.xlsx
+2023-12-11,Konfet,Şirniyyat,9.2,11.25,sales_2023_12.xlsx
+2023-12-11,Kərə yağı 200q,Süd məhsulları,6.0,3.5,sales_2023_12.xlsx
+2023-12-11,Lavaş,Çörək,44.0,0.5,sales_2023_12.xlsx
+2023-12-11,Limonad 1L,İçkilər,14.0,1.4,sales_2023_12.xlsx
+2023-12-11,Makaron 400q,Bakaleya,13.0,1.4,sales_2023_12.xlsx
+2023-12-11,Mal əti,Ət,8.8,15.0,sales_2023_12.xlsx
+2023-12-11,Mandarin,Meyvə-tərəvəz,13.5,3.1,sales_2023_12.xlsx
+2023-12-11,Peçenye 300q,Şirniyyat,11.0,2.25,sales_2023_12.xlsx
+2023-12-11,Pomidor,Meyvə-tərəvəz,29.9,2.5,sales_2023_12.xlsx
+2023-12-11,Qara çay 100q,Çay və qəhvə,16.0,2.75,sales_2023_12.xlsx
+2023-12-11,Qatıq 0.5kq,Süd məhsulları,12.0,1.25,sales_2023_12.xlsx
+2023-12-11,Qoyun əti,Ət,1.4,16.25,sales_2023_12.xlsx
+2023-12-11,Qəhvə 100q,Çay və qəhvə,10.0,4.4,sales_2023_12.xlsx
+2023-12-11,Su 1.5L,İçkilər,38.0,0.6,sales_2023_12.xlsx
+2023-12-11,Süd 1L,Süd məhsulları,46.0,1.5,sales_2023_12.xlsx
+2023-12-11,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-11,Toyuq,Ət,10.7,6.9,sales_2023_12.xlsx
+2023-12-11,Yaşıl çay 100q,Çay və qəhvə,11.0,3.1,sales_2023_12.xlsx
+2023-12-11,Yumurta 10 əd,Süd məhsulları,14.0,2.4,sales_2023_12.xlsx
+2023-12-11,Şokolad,Şirniyyat,24.0,1.9,sales_2023_12.xlsx
+2023-12-11,Şəkər 1kq,Bakaleya,11.0,2.0,sales_2023_12.xlsx
+2023-12-12,Alma,Meyvə-tərəvəz,12.6,2.25,sales_2023_12.xlsx
+2023-12-12,Ağ pendir,Süd məhsulları,2.4,9.4,sales_2023_12.xlsx
+2023-12-12,Ağ çörək,Çörək,81.0,0.6,sales_2023_12.xlsx
+2023-12-12,Dondurma eskimo,Dondurma,5.0,0.9,sales_2023_12.xlsx
+2023-12-12,Dondurma plombir,Dondurma,2.0,1.0,sales_2023_12.xlsx
+2023-12-12,Düyü 1kq,Bakaleya,5.0,3.0,sales_2023_12.xlsx
+2023-12-12,Günəbaxan yağı 1L,Bakaleya,8.0,3.6,sales_2023_12.xlsx
+2023-12-12,Kefir 1L,Süd məhsulları,20.0,1.6,sales_2023_12.xlsx
+2023-12-12,Konfet,Şirniyyat,2.6,11.25,sales_2023_12.xlsx
+2023-12-12,Kərə yağı 200q,Süd məhsulları,11.0,3.5,sales_2023_12.xlsx
+2023-12-12,Lavaş,Çörək,48.0,0.5,sales_2023_12.xlsx
+2023-12-12,Limonad 1L,İçkilər,23.0,1.4,sales_2023_12.xlsx
+2023-12-12,Makaron 400q,Bakaleya,11.0,1.4,sales_2023_12.xlsx
+2023-12-12,Mal əti,Ət,9.4,15.0,sales_2023_12.xlsx
+2023-12-12,Mandarin,Meyvə-tərəvəz,9.9,3.1,sales_2023_12.xlsx
+2023-12-12,Peçenye 300q,Şirniyyat,17.0,2.25,sales_2023_12.xlsx
+2023-12-12,Pomidor,Meyvə-tərəvəz,6.4,2.5,sales_2023_12.xlsx
+2023-12-12,Qara çay 100q,Çay və qəhvə,16.0,2.75,sales_2023_12.xlsx
+2023-12-12,Qatıq 0.5kq,Süd məhsulları,8.0,1.25,sales_2023_12.xlsx
+2023-12-12,Qoyun əti,Ət,2.0,16.25,sales_2023_12.xlsx
+2023-12-12,Qəhvə 100q,Çay və qəhvə,15.0,4.4,sales_2023_12.xlsx
+2023-12-12,Su 1.5L,İçkilər,40.0,0.6,sales_2023_12.xlsx
+2023-12-12,Süd 1L,Süd məhsulları,33.0,1.5,sales_2023_12.xlsx
+2023-12-12,Tort,Şirniyyat,6.0,15.0,sales_2023_12.xlsx
+2023-12-12,Toyuq,Ət,14.6,6.9,sales_2023_12.xlsx
+2023-12-12,Yaşıl çay 100q,Çay və qəhvə,17.0,3.1,sales_2023_12.xlsx
+2023-12-12,Yumurta 10 əd,Süd məhsulları,16.0,2.4,sales_2023_12.xlsx
+2023-12-12,Şokolad,Şirniyyat,15.0,1.9,sales_2023_12.xlsx
+2023-12-12,Şəkər 1kq,Bakaleya,20.0,2.0,sales_2023_12.xlsx
+2023-12-13,Alma,Meyvə-tərəvəz,2.2,2.25,sales_2023_12.xlsx
+2023-12-13,Ağ pendir,Süd məhsulları,7.7,9.4,sales_2023_12.xlsx
+2023-12-13,Ağ çörək,Çörək,97.0,0.6,sales_2023_12.xlsx
+2023-12-13,Dondurma eskimo,Dondurma,7.0,0.9,sales_2023_12.xlsx
+2023-12-13,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-13,Düyü 1kq,Bakaleya,7.0,3.0,sales_2023_12.xlsx
+2023-12-13,Günəbaxan yağı 1L,Bakaleya,6.0,3.6,sales_2023_12.xlsx
+2023-12-13,Kefir 1L,Süd məhsulları,21.0,1.6,sales_2023_12.xlsx
+2023-12-13,Konfet,Şirniyyat,3.3,11.25,sales_2023_12.xlsx
+2023-12-13,Kərə yağı 200q,Süd məhsulları,10.0,3.5,sales_2023_12.xlsx
+2023-12-13,Lavaş,Çörək,51.0,0.5,sales_2023_12.xlsx
+2023-12-13,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-13,Makaron 400q,Bakaleya,13.0,1.4,sales_2023_12.xlsx
+2023-12-13,Mal əti,Ət,9.2,15.0,sales_2023_12.xlsx
+2023-12-13,Mandarin,Meyvə-tərəvəz,20.2,3.1,sales_2023_12.xlsx
+2023-12-13,Peçenye 300q,Şirniyyat,16.0,2.25,sales_2023_12.xlsx
+2023-12-13,Pomidor,Meyvə-tərəvəz,14.3,2.5,sales_2023_12.xlsx
+2023-12-13,Qara çay 100q,Çay və qəhvə,16.0,2.75,sales_2023_12.xlsx
+2023-12-13,Qatıq 0.5kq,Süd məhsulları,16.0,1.25,sales_2023_12.xlsx
+2023-12-13,Qoyun əti,Ət,1.4,16.25,sales_2023_12.xlsx
+2023-12-13,Qəhvə 100q,Çay və qəhvə,14.0,4.4,sales_2023_12.xlsx
+2023-12-13,Su 1.5L,İçkilər,39.0,0.6,sales_2023_12.xlsx
+2023-12-13,Süd 1L,Süd məhsulları,34.0,1.5,sales_2023_12.xlsx
+2023-12-13,Tort,Şirniyyat,3.0,15.0,sales_2023_12.xlsx
+2023-12-13,Toyuq,Ət,3.3,6.9,sales_2023_12.xlsx
+2023-12-13,Yaşıl çay 100q,Çay və qəhvə,8.0,3.1,sales_2023_12.xlsx
+2023-12-13,Yumurta 10 əd,Süd məhsulları,17.0,2.4,sales_2023_12.xlsx
+2023-12-13,Şokolad,Şirniyyat,12.0,1.9,sales_2023_12.xlsx
+2023-12-13,Şəkər 1kq,Bakaleya,14.0,2.0,sales_2023_12.xlsx
+2023-12-14,Alma,Meyvə-tərəvəz,5.9,2.25,sales_2023_12.xlsx
+2023-12-14,Ağ pendir,Süd məhsulları,5.3,9.4,sales_2023_12.xlsx
+2023-12-14,Ağ çörək,Çörək,77.0,0.6,sales_2023_12.xlsx
+2023-12-14,Dondurma eskimo,Dondurma,5.0,0.9,sales_2023_12.xlsx
+2023-12-14,Dondurma plombir,Dondurma,10.0,1.0,sales_2023_12.xlsx
+2023-12-14,Düyü 1kq,Bakaleya,16.0,3.0,sales_2023_12.xlsx
+2023-12-14,Günəbaxan yağı 1L,Bakaleya,8.0,3.6,sales_2023_12.xlsx
+2023-12-14,Kefir 1L,Süd məhsulları,20.0,1.6,sales_2023_12.xlsx
+2023-12-14,Konfet,Şirniyyat,6.6,11.25,sales_2023_12.xlsx
+2023-12-14,Kərə yağı 200q,Süd məhsulları,16.0,3.5,sales_2023_12.xlsx
+2023-12-14,Lavaş,Çörək,46.0,0.5,sales_2023_12.xlsx
+2023-12-14,Limonad 1L,İçkilər,15.0,1.4,sales_2023_12.xlsx
+2023-12-14,Makaron 400q,Bakaleya,7.0,1.4,sales_2023_12.xlsx
+2023-12-14,Mal əti,Ət,3.4,15.0,sales_2023_12.xlsx
+2023-12-14,Mandarin,Meyvə-tərəvəz,19.4,3.1,sales_2023_12.xlsx
+2023-12-14,Peçenye 300q,Şirniyyat,10.0,2.25,sales_2023_12.xlsx
+2023-12-14,Pomidor,Meyvə-tərəvəz,7.2,2.5,sales_2023_12.xlsx
+2023-12-14,Qara çay 100q,Çay və qəhvə,18.0,2.75,sales_2023_12.xlsx
+2023-12-14,Qatıq 0.5kq,Süd məhsulları,16.0,1.25,sales_2023_12.xlsx
+2023-12-14,Qoyun əti,Ət,5.4,16.25,sales_2023_12.xlsx
+2023-12-14,Qəhvə 100q,Çay və qəhvə,6.0,4.4,sales_2023_12.xlsx
+2023-12-14,Su 1.5L,İçkilər,39.0,0.6,sales_2023_12.xlsx
+2023-12-14,Süd 1L,Süd məhsulları,46.0,1.5,sales_2023_12.xlsx
+2023-12-14,Tort,Şirniyyat,1.0,15.0,sales_2023_12.xlsx
+2023-12-14,Toyuq,Ət,8.8,6.9,sales_2023_12.xlsx
+2023-12-14,Yaşıl çay 100q,Çay və qəhvə,4.0,3.1,sales_2023_12.xlsx
+2023-12-14,Yumurta 10 əd,Süd məhsulları,15.0,2.4,sales_2023_12.xlsx
+2023-12-14,Şokolad,Şirniyyat,13.0,1.9,sales_2023_12.xlsx
+2023-12-14,Şəkər 1kq,Bakaleya,20.0,2.0,sales_2023_12.xlsx
+2023-12-15,Alma,Meyvə-tərəvəz,11.7,2.25,sales_2023_12.xlsx
+2023-12-15,Ağ pendir,Süd məhsulları,2.2,9.4,sales_2023_12.xlsx
+2023-12-15,Ağ çörək,Çörək,69.0,0.6,sales_2023_12.xlsx
+2023-12-15,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-15,Dondurma plombir,Dondurma,5.0,1.0,sales_2023_12.xlsx
+2023-12-15,Düyü 1kq,Bakaleya,17.0,3.0,sales_2023_12.xlsx
+2023-12-15,Günəbaxan yağı 1L,Bakaleya,12.0,3.6,sales_2023_12.xlsx
+2023-12-15,Kefir 1L,Süd məhsulları,19.0,1.6,sales_2023_12.xlsx
+2023-12-15,Konfet,Şirniyyat,1.6,11.25,sales_2023_12.xlsx
+2023-12-15,Kərə yağı 200q,Süd məhsulları,9.0,3.5,sales_2023_12.xlsx
+2023-12-15,Lavaş,Çörək,52.0,0.5,sales_2023_12.xlsx
+2023-12-15,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-15,Makaron 400q,Bakaleya,14.0,1.4,sales_2023_12.xlsx
+2023-12-15,Mal əti,Ət,16.0,15.0,sales_2023_12.xlsx
+2023-12-15,Mandarin,Meyvə-tərəvəz,26.8,3.1,sales_2023_12.xlsx
+2023-12-15,Peçenye 300q,Şirniyyat,13.0,2.25,sales_2023_12.xlsx
+2023-12-15,Pomidor,Meyvə-tərəvəz,17.8,2.5,sales_2023_12.xlsx
+2023-12-15,Qara çay 100q,Çay və qəhvə,20.0,2.75,sales_2023_12.xlsx
+2023-12-15,Qatıq 0.5kq,Süd məhsulları,10.0,1.25,sales_2023_12.xlsx
+2023-12-15,Qoyun əti,Ət,4.0,16.25,sales_2023_12.xlsx
+2023-12-15,Qəhvə 100q,Çay və qəhvə,11.0,4.4,sales_2023_12.xlsx
+2023-12-15,Su 1.5L,İçkilər,40.0,0.6,sales_2023_12.xlsx
+2023-12-15,Süd 1L,Süd məhsulları,37.0,1.5,sales_2023_12.xlsx
+2023-12-15,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-15,Toyuq,Ət,12.8,6.9,sales_2023_12.xlsx
+2023-12-15,Yaşıl çay 100q,Çay və qəhvə,7.0,3.1,sales_2023_12.xlsx
+2023-12-15,Yumurta 10 əd,Süd məhsulları,11.0,2.4,sales_2023_12.xlsx
+2023-12-15,Şokolad,Şirniyyat,13.0,1.9,sales_2023_12.xlsx
+2023-12-15,Şəkər 1kq,Bakaleya,13.0,2.0,sales_2023_12.xlsx
+2023-12-16,Alma,Meyvə-tərəvəz,10.4,2.25,sales_2023_12.xlsx
+2023-12-16,Ağ pendir,Süd məhsulları,12.9,9.4,sales_2023_12.xlsx
+2023-12-16,Ağ çörək,Çörək,112.0,0.6,sales_2023_12.xlsx
+2023-12-16,Dondurma eskimo,Dondurma,9.0,0.9,sales_2023_12.xlsx
+2023-12-16,Dondurma plombir,Dondurma,17.0,1.0,sales_2023_12.xlsx
+2023-12-16,Düyü 1kq,Bakaleya,11.0,3.0,sales_2023_12.xlsx
+2023-12-16,Günəbaxan yağı 1L,Bakaleya,10.0,3.6,sales_2023_12.xlsx
+2023-12-16,Kefir 1L,Süd məhsulları,19.0,1.6,sales_2023_12.xlsx
+2023-12-16,Konfet,Şirniyyat,1.0,11.25,sales_2023_12.xlsx
+2023-12-16,Kərə yağı 200q,Süd məhsulları,12.0,3.5,sales_2023_12.xlsx
+2023-12-16,Lavaş,Çörək,65.0,0.5,sales_2023_12.xlsx
+2023-12-16,Limonad 1L,İçkilər,22.0,1.4,sales_2023_12.xlsx
+2023-12-16,Makaron 400q,Bakaleya,17.0,1.4,sales_2023_12.xlsx
+2023-12-16,Mal əti,Ət,8.4,15.0,sales_2023_12.xlsx
+2023-12-16,Mandarin,Meyvə-tərəvəz,53.9,3.1,sales_2023_12.xlsx
+2023-12-16,Peçenye 300q,Şirniyyat,15.0,2.25,sales_2023_12.xlsx
+2023-12-16,Pomidor,Meyvə-tərəvəz,12.5,2.5,sales_2023_12.xlsx
+2023-12-16,Qara çay 100q,Çay və qəhvə,22.0,2.75,sales_2023_12.xlsx
+2023-12-16,Qatıq 0.5kq,Süd məhsulları,18.0,1.25,sales_2023_12.xlsx
+2023-12-16,Qoyun əti,Ət,3.9,16.25,sales_2023_12.xlsx
+2023-12-16,Qəhvə 100q,Çay və qəhvə,9.0,4.4,sales_2023_12.xlsx
+2023-12-16,Su 1.5L,İçkilər,49.0,0.6,sales_2023_12.xlsx
+2023-12-16,Süd 1L,Süd məhsulları,56.0,1.5,sales_2023_12.xlsx
+2023-12-16,Tort,Şirniyyat,4.0,15.0,sales_2023_12.xlsx
+2023-12-16,Toyuq,Ət,22.0,6.9,sales_2023_12.xlsx
+2023-12-16,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-16,Yumurta 10 əd,Süd məhsulları,19.0,2.4,sales_2023_12.xlsx
+2023-12-16,Şokolad,Şirniyyat,18.0,1.9,sales_2023_12.xlsx
+2023-12-16,Şəkər 1kq,Bakaleya,20.0,2.0,sales_2023_12.xlsx
+2023-12-17,Alma,Meyvə-tərəvəz,9.2,2.25,sales_2023_12.xlsx
+2023-12-17,Ağ pendir,Süd məhsulları,8.2,9.4,sales_2023_12.xlsx
+2023-12-17,Ağ çörək,Çörək,81.0,0.6,sales_2023_12.xlsx
+2023-12-17,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-17,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-17,Düyü 1kq,Bakaleya,17.0,3.0,sales_2023_12.xlsx
+2023-12-17,Günəbaxan yağı 1L,Bakaleya,14.0,3.6,sales_2023_12.xlsx
+2023-12-17,Kefir 1L,Süd məhsulları,16.0,1.6,sales_2023_12.xlsx
+2023-12-17,Konfet,Şirniyyat,5.3,11.25,sales_2023_12.xlsx
+2023-12-17,Kərə yağı 200q,Süd məhsulları,10.0,3.5,sales_2023_12.xlsx
+2023-12-17,Lavaş,Çörək,66.0,0.5,sales_2023_12.xlsx
+2023-12-17,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-17,Makaron 400q,Bakaleya,19.0,1.4,sales_2023_12.xlsx
+2023-12-17,Mal əti,Ət,9.2,15.0,sales_2023_12.xlsx
+2023-12-17,Mandarin,Meyvə-tərəvəz,26.8,3.1,sales_2023_12.xlsx
+2023-12-17,Peçenye 300q,Şirniyyat,12.0,2.25,sales_2023_12.xlsx
+2023-12-17,Pomidor,Meyvə-tərəvəz,20.4,2.5,sales_2023_12.xlsx
+2023-12-17,Qara çay 100q,Çay və qəhvə,17.0,2.75,sales_2023_12.xlsx
+2023-12-17,Qatıq 0.5kq,Süd məhsulları,18.0,1.25,sales_2023_12.xlsx
+2023-12-17,Qoyun əti,Ət,4.4,16.25,sales_2023_12.xlsx
+2023-12-17,Qəhvə 100q,Çay və qəhvə,14.0,4.4,sales_2023_12.xlsx
+2023-12-17,Su 1.5L,İçkilər,59.0,0.6,sales_2023_12.xlsx
+2023-12-17,Süd 1L,Süd məhsulları,35.0,1.5,sales_2023_12.xlsx
+2023-12-17,Toyuq,Ət,12.4,6.9,sales_2023_12.xlsx
+2023-12-17,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-17,Yumurta 10 əd,Süd məhsulları,14.0,2.4,sales_2023_12.xlsx
+2023-12-17,Şokolad,Şirniyyat,26.0,1.9,sales_2023_12.xlsx
+2023-12-17,Şəkər 1kq,Bakaleya,13.0,2.0,sales_2023_12.xlsx
+2023-12-18,Alma,Meyvə-tərəvəz,23.5,2.25,sales_2023_12.xlsx
+2023-12-18,Ağ pendir,Süd məhsulları,5.7,9.4,sales_2023_12.xlsx
+2023-12-18,Ağ çörək,Çörək,94.0,0.6,sales_2023_12.xlsx
+2023-12-18,Dondurma eskimo,Dondurma,3.0,0.9,sales_2023_12.xlsx
+2023-12-18,Dondurma plombir,Dondurma,9.0,1.0,sales_2023_12.xlsx
+2023-12-18,Düyü 1kq,Bakaleya,16.0,3.0,sales_2023_12.xlsx
+2023-12-18,Günəbaxan yağı 1L,Bakaleya,2.0,3.6,sales_2023_12.xlsx
+2023-12-18,Kefir 1L,Süd məhsulları,19.0,1.6,sales_2023_12.xlsx
+2023-12-18,Konfet,Şirniyyat,3.2,11.25,sales_2023_12.xlsx
+2023-12-18,Kərə yağı 200q,Süd məhsulları,13.0,3.5,sales_2023_12.xlsx
+2023-12-18,Lavaş,Çörək,38.0,0.5,sales_2023_12.xlsx
+2023-12-18,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-18,Makaron 400q,Bakaleya,14.0,1.4,sales_2023_12.xlsx
+2023-12-18,Mal əti,Ət,7.0,15.0,sales_2023_12.xlsx
+2023-12-18,Mandarin,Meyvə-tərəvəz,11.4,3.1,sales_2023_12.xlsx
+2023-12-18,Peçenye 300q,Şirniyyat,10.0,2.25,sales_2023_12.xlsx
+2023-12-18,Pomidor,Meyvə-tərəvəz,7.9,2.5,sales_2023_12.xlsx
+2023-12-18,Qara çay 100q,Çay və qəhvə,19.0,2.75,sales_2023_12.xlsx
+2023-12-18,Qatıq 0.5kq,Süd məhsulları,12.0,1.25,sales_2023_12.xlsx
+2023-12-18,Qoyun əti,Ət,2.4,16.25,sales_2023_12.xlsx
+2023-12-18,Qəhvə 100q,Çay və qəhvə,11.0,4.4,sales_2023_12.xlsx
+2023-12-18,Su 1.5L,İçkilər,40.0,0.6,sales_2023_12.xlsx
+2023-12-18,Süd 1L,Süd məhsulları,34.0,1.5,sales_2023_12.xlsx
+2023-12-18,Tort,Şirniyyat,4.0,15.0,sales_2023_12.xlsx
+2023-12-18,Toyuq,Ət,11.2,6.9,sales_2023_12.xlsx
+2023-12-18,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-18,Yumurta 10 əd,Süd məhsulları,21.0,2.4,sales_2023_12.xlsx
+2023-12-18,Şokolad,Şirniyyat,18.0,1.9,sales_2023_12.xlsx
+2023-12-18,Şəkər 1kq,Bakaleya,22.0,2.0,sales_2023_12.xlsx
+2023-12-19,Alma,Meyvə-tərəvəz,16.5,2.25,sales_2023_12.xlsx
+2023-12-19,Ağ pendir,Süd məhsulları,6.7,9.4,sales_2023_12.xlsx
+2023-12-19,Ağ çörək,Çörək,95.0,0.6,sales_2023_12.xlsx
+2023-12-19,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-19,Dondurma plombir,Dondurma,9.0,1.0,sales_2023_12.xlsx
+2023-12-19,Düyü 1kq,Bakaleya,6.0,3.0,sales_2023_12.xlsx
+2023-12-19,Günəbaxan yağı 1L,Bakaleya,4.0,3.6,sales_2023_12.xlsx
+2023-12-19,Kefir 1L,Süd məhsulları,14.0,1.6,sales_2023_12.xlsx
+2023-12-19,Konfet,Şirniyyat,4.0,11.25,sales_2023_12.xlsx
+2023-12-19,Kərə yağı 200q,Süd məhsulları,10.0,3.5,sales_2023_12.xlsx
+2023-12-19,Lavaş,Çörək,42.0,0.5,sales_2023_12.xlsx
+2023-12-19,Limonad 1L,İçkilər,16.0,1.4,sales_2023_12.xlsx
+2023-12-19,Makaron 400q,Bakaleya,11.0,1.4,sales_2023_12.xlsx
+2023-12-19,Mal əti,Ət,12.1,15.0,sales_2023_12.xlsx
+2023-12-19,Mandarin,Meyvə-tərəvəz,21.4,3.1,sales_2023_12.xlsx
+2023-12-19,Peçenye 300q,Şirniyyat,12.0,2.25,sales_2023_12.xlsx
+2023-12-19,Pomidor,Meyvə-tərəvəz,3.0,2.5,sales_2023_12.xlsx
+2023-12-19,Qara çay 100q,Çay və qəhvə,18.0,2.75,sales_2023_12.xlsx
+2023-12-19,Qatıq 0.5kq,Süd məhsulları,10.0,1.25,sales_2023_12.xlsx
+2023-12-19,Qoyun əti,Ət,10.5,16.25,sales_2023_12.xlsx
+2023-12-19,Qəhvə 100q,Çay və qəhvə,6.0,4.4,sales_2023_12.xlsx
+2023-12-19,Su 1.5L,İçkilər,35.0,0.6,sales_2023_12.xlsx
+2023-12-19,Süd 1L,Süd məhsulları,39.0,1.5,sales_2023_12.xlsx
+2023-12-19,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-19,Toyuq,Ət,14.6,6.9,sales_2023_12.xlsx
+2023-12-19,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-19,Yumurta 10 əd,Süd məhsulları,15.0,2.4,sales_2023_12.xlsx
+2023-12-19,Şokolad,Şirniyyat,23.0,1.9,sales_2023_12.xlsx
+2023-12-19,Şəkər 1kq,Bakaleya,15.0,2.0,sales_2023_12.xlsx
+2023-12-20,Alma,Meyvə-tərəvəz,20.8,2.25,sales_2023_12.xlsx
+2023-12-20,Ağ pendir,Süd məhsulları,4.9,9.4,sales_2023_12.xlsx
+2023-12-20,Ağ çörək,Çörək,73.0,0.6,sales_2023_12.xlsx
+2023-12-20,Dondurma eskimo,Dondurma,6.0,0.9,sales_2023_12.xlsx
+2023-12-20,Dondurma plombir,Dondurma,8.0,1.0,sales_2023_12.xlsx
+2023-12-20,Düyü 1kq,Bakaleya,9.0,3.0,sales_2023_12.xlsx
+2023-12-20,Günəbaxan yağı 1L,Bakaleya,7.0,3.6,sales_2023_12.xlsx
+2023-12-20,Kefir 1L,Süd məhsulları,21.0,1.6,sales_2023_12.xlsx
+2023-12-20,Konfet,Şirniyyat,1.9,11.25,sales_2023_12.xlsx
+2023-12-20,Kərə yağı 200q,Süd məhsulları,23.0,3.5,sales_2023_12.xlsx
+2023-12-20,Lavaş,Çörək,45.0,0.5,sales_2023_12.xlsx
+2023-12-20,Limonad 1L,İçkilər,11.0,1.4,sales_2023_12.xlsx
+2023-12-20,Makaron 400q,Bakaleya,14.0,1.4,sales_2023_12.xlsx
+2023-12-20,Mal əti,Ət,9.7,15.0,sales_2023_12.xlsx
+2023-12-20,Mandarin,Meyvə-tərəvəz,11.1,3.1,sales_2023_12.xlsx
+2023-12-20,Peçenye 300q,Şirniyyat,17.0,2.25,sales_2023_12.xlsx
+2023-12-20,Pomidor,Meyvə-tərəvəz,19.7,2.5,sales_2023_12.xlsx
+2023-12-20,Qara çay 100q,Çay və qəhvə,18.0,2.75,sales_2023_12.xlsx
+2023-12-20,Qatıq 0.5kq,Süd məhsulları,18.0,1.25,sales_2023_12.xlsx
+2023-12-20,Qoyun əti,Ət,7.6,16.25,sales_2023_12.xlsx
+2023-12-20,Qəhvə 100q,Çay və qəhvə,8.0,4.4,sales_2023_12.xlsx
+2023-12-20,Su 1.5L,İçkilər,39.0,0.6,sales_2023_12.xlsx
+2023-12-20,Süd 1L,Süd məhsulları,37.0,1.5,sales_2023_12.xlsx
+2023-12-20,Tort,Şirniyyat,2.0,15.0,sales_2023_12.xlsx
+2023-12-20,Toyuq,Ət,23.6,6.9,sales_2023_12.xlsx
+2023-12-20,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-20,Yumurta 10 əd,Süd məhsulları,11.0,2.4,sales_2023_12.xlsx
+2023-12-20,Şokolad,Şirniyyat,23.0,1.9,sales_2023_12.xlsx
+2023-12-20,Şəkər 1kq,Bakaleya,12.0,2.0,sales_2023_12.xlsx
+2023-12-21,Alma,Meyvə-tərəvəz,5.6,2.25,sales_2023_12.xlsx
+2023-12-21,Ağ pendir,Süd məhsulları,5.6,9.4,sales_2023_12.xlsx
+2023-12-21,Ağ çörək,Çörək,87.0,0.6,sales_2023_12.xlsx
+2023-12-21,Dondurma eskimo,Dondurma,11.0,0.9,sales_2023_12.xlsx
+2023-12-21,Dondurma plombir,Dondurma,7.0,1.0,sales_2023_12.xlsx
+2023-12-21,Düyü 1kq,Bakaleya,10.0,3.0,sales_2023_12.xlsx
+2023-12-21,Günəbaxan yağı 1L,Bakaleya,10.0,3.6,sales_2023_12.xlsx
+2023-12-21,Kefir 1L,Süd məhsulları,12.0,1.6,sales_2023_12.xlsx
+2023-12-21,Konfet,Şirniyyat,5.1,11.25,sales_2023_12.xlsx
+2023-12-21,Kərə yağı 200q,Süd məhsulları,11.0,3.5,sales_2023_12.xlsx
+2023-12-21,Lavaş,Çörək,51.0,0.5,sales_2023_12.xlsx
+2023-12-21,Limonad 1L,İçkilər,12.0,1.4,sales_2023_12.xlsx
+2023-12-21,Makaron 400q,Bakaleya,9.0,1.4,sales_2023_12.xlsx
+2023-12-21,Mal əti,Ət,14.7,15.0,sales_2023_12.xlsx
+2023-12-21,Mandarin,Meyvə-tərəvəz,25.6,3.1,sales_2023_12.xlsx
+2023-12-21,Peçenye 300q,Şirniyyat,14.0,2.25,sales_2023_12.xlsx
+2023-12-21,Pomidor,Meyvə-tərəvəz,15.9,2.5,sales_2023_12.xlsx
+2023-12-21,Qara çay 100q,Çay və qəhvə,14.0,2.75,sales_2023_12.xlsx
+2023-12-21,Qatıq 0.5kq,Süd məhsulları,11.0,1.25,sales_2023_12.xlsx
+2023-12-21,Qoyun əti,Ət,2.0,16.25,sales_2023_12.xlsx
+2023-12-21,Qəhvə 100q,Çay və qəhvə,13.0,4.4,sales_2023_12.xlsx
+2023-12-21,Su 1.5L,İçkilər,33.0,0.6,sales_2023_12.xlsx
+2023-12-21,Süd 1L,Süd məhsulları,44.0,1.5,sales_2023_12.xlsx
+2023-12-21,Tort,Şirniyyat,3.0,15.0,sales_2023_12.xlsx
+2023-12-21,Toyuq,Ət,12.8,6.9,sales_2023_12.xlsx
+2023-12-21,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-21,Yumurta 10 əd,Süd məhsulları,13.0,2.4,sales_2023_12.xlsx
+2023-12-21,Şokolad,Şirniyyat,30.0,1.9,sales_2023_12.xlsx
+2023-12-21,Şəkər 1kq,Bakaleya,20.0,2.0,sales_2023_12.xlsx
+2023-12-22,Alma,Meyvə-tərəvəz,14.2,2.25,sales_2023_12.xlsx
+2023-12-22,Ağ pendir,Süd məhsulları,5.8,9.4,sales_2023_12.xlsx
+2023-12-22,Ağ çörək,Çörək,79.0,0.6,sales_2023_12.xlsx
+2023-12-22,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-22,Dondurma plombir,Dondurma,6.0,1.0,sales_2023_12.xlsx
+2023-12-22,Düyü 1kq,Bakaleya,8.0,3.0,sales_2023_12.xlsx
+2023-12-22,Günəbaxan yağı 1L,Bakaleya,12.0,3.6,sales_2023_12.xlsx
+2023-12-22,Kefir 1L,Süd məhsulları,17.0,1.6,sales_2023_12.xlsx
+2023-12-22,Konfet,Şirniyyat,4.3,11.25,sales_2023_12.xlsx
+2023-12-22,Kərə yağı 200q,Süd məhsulları,20.0,3.5,sales_2023_12.xlsx
+2023-12-22,Lavaş,Çörək,52.0,0.5,sales_2023_12.xlsx
+2023-12-22,Limonad 1L,İçkilər,7.0,1.4,sales_2023_12.xlsx
+2023-12-22,Makaron 400q,Bakaleya,18.0,1.4,sales_2023_12.xlsx
+2023-12-22,Mal əti,Ət,24.1,15.0,sales_2023_12.xlsx
+2023-12-22,Mandarin,Meyvə-tərəvəz,18.4,3.1,sales_2023_12.xlsx
+2023-12-22,Peçenye 300q,Şirniyyat,12.0,2.25,sales_2023_12.xlsx
+2023-12-22,Pomidor,Meyvə-tərəvəz,30.4,2.5,sales_2023_12.xlsx
+2023-12-22,Qara çay 100q,Çay və qəhvə,27.0,2.75,sales_2023_12.xlsx
+2023-12-22,Qatıq 0.5kq,Süd məhsulları,9.0,1.25,sales_2023_12.xlsx
+2023-12-22,Qoyun əti,Ət,8.5,16.25,sales_2023_12.xlsx
+2023-12-22,Qəhvə 100q,Çay və qəhvə,13.0,4.4,sales_2023_12.xlsx
+2023-12-22,Su 1.5L,İçkilər,41.0,0.6,sales_2023_12.xlsx
+2023-12-22,Süd 1L,Süd məhsulları,51.0,1.5,sales_2023_12.xlsx
+2023-12-22,Tort,Şirniyyat,4.0,15.0,sales_2023_12.xlsx
+2023-12-22,Toyuq,Ət,15.8,6.9,sales_2023_12.xlsx
+2023-12-22,Yaşıl çay 100q,Çay və qəhvə,9.0,3.1,sales_2023_12.xlsx
+2023-12-22,Yumurta 10 əd,Süd məhsulları,20.0,2.4,sales_2023_12.xlsx
+2023-12-22,Şokolad,Şirniyyat,23.0,1.9,sales_2023_12.xlsx
+2023-12-22,Şəkər 1kq,Bakaleya,12.0,2.0,sales_2023_12.xlsx
+2023-12-23,Alma,Meyvə-tərəvəz,21.7,2.25,sales_2023_12.xlsx
+2023-12-23,Ağ pendir,Süd məhsulları,6.8,9.4,sales_2023_12.xlsx
+2023-12-23,Ağ çörək,Çörək,96.0,0.6,sales_2023_12.xlsx
+2023-12-23,Dondurma eskimo,Dondurma,2.0,0.9,sales_2023_12.xlsx
+2023-12-23,Dondurma plombir,Dondurma,5.0,1.0,sales_2023_12.xlsx
+2023-12-23,Düyü 1kq,Bakaleya,12.0,3.0,sales_2023_12.xlsx
+2023-12-23,Günəbaxan yağı 1L,Bakaleya,6.0,3.6,sales_2023_12.xlsx
+2023-12-23,Kefir 1L,Süd məhsulları,17.0,1.6,sales_2023_12.xlsx
+2023-12-23,Konfet,Şirniyyat,10.4,11.25,sales_2023_12.xlsx
+2023-12-23,Kərə yağı 200q,Süd məhsulları,27.0,3.5,sales_2023_12.xlsx
+2023-12-23,Lavaş,Çörək,55.0,0.5,sales_2023_12.xlsx
+2023-12-23,Limonad 1L,İçkilər,18.0,1.4,sales_2023_12.xlsx
+2023-12-23,Makaron 400q,Bakaleya,16.0,1.4,sales_2023_12.xlsx
+2023-12-23,Mal əti,Ət,6.3,15.0,sales_2023_12.xlsx
+2023-12-23,Mandarin,Meyvə-tərəvəz,20.0,3.1,sales_2023_12.xlsx
+2023-12-23,Peçenye 300q,Şirniyyat,28.0,2.25,sales_2023_12.xlsx
+2023-12-23,Pomidor,Meyvə-tərəvəz,11.6,2.5,sales_2023_12.xlsx
+2023-12-23,Qara çay 100q,Çay və qəhvə,21.0,2.75,sales_2023_12.xlsx
+2023-12-23,Qatıq 0.5kq,Süd məhsulları,18.0,1.25,sales_2023_12.xlsx
+2023-12-23,Qoyun əti,Ət,14.3,16.25,sales_2023_12.xlsx
+2023-12-23,Qəhvə 100q,Çay və qəhvə,11.0,4.4,sales_2023_12.xlsx
+2023-12-23,Su 1.5L,İçkilər,47.0,0.6,sales_2023_12.xlsx
+2023-12-23,Süd 1L,Süd məhsulları,50.0,1.5,sales_2023_12.xlsx
+2023-12-23,Tort,Şirniyyat,6.0,15.0,sales_2023_12.xlsx
+2023-12-23,Toyuq,Ət,18.2,6.9,sales_2023_12.xlsx
+2023-12-23,Yaşıl çay 100q,Çay və qəhvə,11.0,3.1,sales_2023_12.xlsx
+2023-12-23,Yumurta 10 əd,Süd məhsulları,24.0,2.4,sales_2023_12.xlsx
+2023-12-23,Şokolad,Şirniyyat,36.0,1.9,sales_2023_12.xlsx
+2023-12-23,Şəkər 1kq,Bakaleya,21.0,2.0,sales_2023_12.xlsx
+2023-12-24,Alma,Meyvə-tərəvəz,19.7,2.25,sales_2023_12.xlsx
+2023-12-24,Ağ pendir,Süd məhsulları,16.0,9.4,sales_2023_12.xlsx
+2023-12-24,Ağ çörək,Çörək,104.0,0.6,sales_2023_12.xlsx
+2023-12-24,Dondurma eskimo,Dondurma,7.0,0.9,sales_2023_12.xlsx
+2023-12-24,Dondurma plombir,Dondurma,5.0,1.0,sales_2023_12.xlsx
+2023-12-24,Düyü 1kq,Bakaleya,15.0,3.0,sales_2023_12.xlsx
+2023-12-24,Günəbaxan yağı 1L,Bakaleya,18.0,3.6,sales_2023_12.xlsx
+2023-12-24,Kefir 1L,Süd məhsulları,29.0,1.6,sales_2023_12.xlsx
+2023-12-24,Konfet,Şirniyyat,9.5,11.25,sales_2023_12.xlsx
+2023-12-24,Kərə yağı 200q,Süd məhsulları,18.0,3.5,sales_2023_12.xlsx
+2023-12-24,Lavaş,Çörək,65.0,0.5,sales_2023_12.xlsx
+2023-12-24,Limonad 1L,İçkilər,28.0,1.4,sales_2023_12.xlsx
+2023-12-24,Makaron 400q,Bakaleya,22.0,1.4,sales_2023_12.xlsx
+2023-12-24,Mal əti,Ət,2.3,15.0,sales_2023_12.xlsx
+2023-12-24,Mandarin,Meyvə-tərəvəz,28.8,3.1,sales_2023_12.xlsx
+2023-12-24,Peçenye 300q,Şirniyyat,31.0,2.25,sales_2023_12.xlsx
+2023-12-24,Pomidor,Meyvə-tərəvəz,19.9,2.5,sales_2023_12.xlsx
+2023-12-24,Qara çay 100q,Çay və qəhvə,18.0,2.75,sales_2023_12.xlsx
+2023-12-24,Qatıq 0.5kq,Süd məhsulları,16.0,1.25,sales_2023_12.xlsx
+2023-12-24,Qoyun əti,Ət,13.0,16.25,sales_2023_12.xlsx
+2023-12-24,Qəhvə 100q,Çay və qəhvə,10.0,4.4,sales_2023_12.xlsx
+2023-12-24,Su 1.5L,İçkilər,42.0,0.6,sales_2023_12.xlsx
+2023-12-24,Süd 1L,Süd məhsulları,53.0,1.5,sales_2023_12.xlsx
+2023-12-24,Tort,Şirniyyat,6.0,15.0,sales_2023_12.xlsx
+2023-12-24,Toyuq,Ət,30.4,6.9,sales_2023_12.xlsx
+2023-12-24,Yaşıl çay 100q,Çay və qəhvə,9.0,3.1,sales_2023_12.xlsx
+2023-12-24,Yumurta 10 əd,Süd məhsulları,28.0,2.4,sales_2023_12.xlsx
+2023-12-24,Şokolad,Şirniyyat,34.0,1.9,sales_2023_12.xlsx
+2023-12-24,Şəkər 1kq,Bakaleya,27.0,2.0,sales_2023_12.xlsx
+2023-12-25,Alma,Meyvə-tərəvəz,7.5,2.25,sales_2023_12.xlsx
+2023-12-25,Ağ pendir,Süd məhsulları,20.0,9.4,sales_2023_12.xlsx
+2023-12-25,Ağ çörək,Çörək,73.0,0.6,sales_2023_12.xlsx
+2023-12-25,Dondurma eskimo,Dondurma,7.0,0.9,sales_2023_12.xlsx
+2023-12-25,Dondurma plombir,Dondurma,10.0,1.0,sales_2023_12.xlsx
+2023-12-25,Düyü 1kq,Bakaleya,8.0,3.0,sales_2023_12.xlsx
+2023-12-25,Günəbaxan yağı 1L,Bakaleya,12.0,3.6,sales_2023_12.xlsx
+2023-12-25,Kefir 1L,Süd məhsulları,26.0,1.6,sales_2023_12.xlsx
+2023-12-25,Konfet,Şirniyyat,4.4,11.25,sales_2023_12.xlsx
+2023-12-25,Kərə yağı 200q,Süd məhsulları,15.0,3.5,sales_2023_12.xlsx
+2023-12-25,Lavaş,Çörək,42.0,0.5,sales_2023_12.xlsx
+2023-12-25,Limonad 1L,İçkilər,14.0,1.4,sales_2023_12.xlsx
+2023-12-25,Makaron 400q,Bakaleya,19.0,1.4,sales_2023_12.xlsx
+2023-12-25,Mal əti,Ət,5.5,15.0,sales_2023_12.xlsx
+2023-12-25,Mandarin,Meyvə-tərəvəz,42.9,3.1,sales_2023_12.xlsx
+2023-12-25,Peçenye 300q,Şirniyyat,25.0,2.25,sales_2023_12.xlsx
+2023-12-25,Pomidor,Meyvə-tərəvəz,20.8,2.5,sales_2023_12.xlsx
+2023-12-25,Qara çay 100q,Çay və qəhvə,23.0,2.75,sales_2023_12.xlsx
+2023-12-25,Qatıq 0.5kq,Süd məhsulları,12.0,1.25,sales_2023_12.xlsx
+2023-12-25,Qoyun əti,Ət,3.1,16.25,sales_2023_12.xlsx
+2023-12-25,Qəhvə 100q,Çay və qəhvə,4.0,4.4,sales_2023_12.xlsx
+2023-12-25,Su 1.5L,İçkilər,43.0,0.6,sales_2023_12.xlsx
+2023-12-25,Süd 1L,Süd məhsulları,33.0,1.5,sales_2023_12.xlsx
+2023-12-25,Tort,Şirniyyat,1.0,15.0,sales_2023_12.xlsx
+2023-12-25,Toyuq,Ət,14.8,6.9,sales_2023_12.xlsx
+2023-12-25,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-25,Yumurta 10 əd,Süd məhsulları,24.0,2.4,sales_2023_12.xlsx
+2023-12-25,Şokolad,Şirniyyat,29.0,1.9,sales_2023_12.xlsx
+2023-12-25,Şəkər 1kq,Bakaleya,24.0,2.0,sales_2023_12.xlsx
+2023-12-26,Alma,Meyvə-tərəvəz,11.0,2.25,sales_2023_12.xlsx
+2023-12-26,Ağ pendir,Süd məhsulları,9.8,9.4,sales_2023_12.xlsx
+2023-12-26,Ağ çörək,Çörək,86.0,0.6,sales_2023_12.xlsx
+2023-12-26,Dondurma eskimo,Dondurma,2.0,0.9,sales_2023_12.xlsx
+2023-12-26,Dondurma plombir,Dondurma,12.0,1.0,sales_2023_12.xlsx
+2023-12-26,Düyü 1kq,Bakaleya,13.0,3.0,sales_2023_12.xlsx
+2023-12-26,Günəbaxan yağı 1L,Bakaleya,6.0,3.6,sales_2023_12.xlsx
+2023-12-26,Kefir 1L,Süd məhsulları,15.0,1.6,sales_2023_12.xlsx
+2023-12-26,Konfet,Şirniyyat,13.6,11.25,sales_2023_12.xlsx
+2023-12-26,Kərə yağı 200q,Süd məhsulları,18.0,3.5,sales_2023_12.xlsx
+2023-12-26,Lavaş,Çörək,45.0,0.5,sales_2023_12.xlsx
+2023-12-26,Limonad 1L,İçkilər,15.0,1.4,sales_2023_12.xlsx
+2023-12-26,Makaron 400q,Bakaleya,14.0,1.4,sales_2023_12.xlsx
+2023-12-26,Mal əti,Ət,17.1,15.0,sales_2023_12.xlsx
+2023-12-26,Mandarin,Meyvə-tərəvəz,32.5,3.1,sales_2023_12.xlsx
+2023-12-26,Peçenye 300q,Şirniyyat,30.0,2.25,sales_2023_12.xlsx
+2023-12-26,Pomidor,Meyvə-tərəvəz,11.0,2.5,sales_2023_12.xlsx
+2023-12-26,Qara çay 100q,Çay və qəhvə,18.0,2.75,sales_2023_12.xlsx
+2023-12-26,Qatıq 0.5kq,Süd məhsulları,14.0,1.25,sales_2023_12.xlsx
+2023-12-26,Qoyun əti,Ət,8.1,16.25,sales_2023_12.xlsx
+2023-12-26,Qəhvə 100q,Çay və qəhvə,10.0,4.4,sales_2023_12.xlsx
+2023-12-26,Su 1.5L,İçkilər,37.0,0.6,sales_2023_12.xlsx
+2023-12-26,Süd 1L,Süd məhsulları,43.0,1.5,sales_2023_12.xlsx
+2023-12-26,Tort,Şirniyyat,7.0,15.0,sales_2023_12.xlsx
+2023-12-26,Toyuq,Ət,18.5,6.9,sales_2023_12.xlsx
+2023-12-26,Yaşıl çay 100q,Çay və qəhvə,6.0,3.1,sales_2023_12.xlsx
+2023-12-26,Yumurta 10 əd,Süd məhsulları,24.0,2.4,sales_2023_12.xlsx
+2023-12-26,Şokolad,Şirniyyat,36.0,1.9,sales_2023_12.xlsx
+2023-12-26,Şəkər 1kq,Bakaleya,17.0,2.0,sales_2023_12.xlsx
+2023-12-27,Alma,Meyvə-tərəvəz,13.6,2.25,sales_2023_12.xlsx
+2023-12-27,Ağ pendir,Süd məhsulları,12.3,9.4,sales_2023_12.xlsx
+2023-12-27,Ağ çörək,Çörək,74.0,0.6,sales_2023_12.xlsx
+2023-12-27,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-27,Dondurma plombir,Dondurma,9.0,1.0,sales_2023_12.xlsx
+2023-12-27,Düyü 1kq,Bakaleya,16.0,3.0,sales_2023_12.xlsx
+2023-12-27,Günəbaxan yağı 1L,Bakaleya,9.0,3.6,sales_2023_12.xlsx
+2023-12-27,Kefir 1L,Süd məhsulları,22.0,1.6,sales_2023_12.xlsx
+2023-12-27,Konfet,Şirniyyat,2.8,11.25,sales_2023_12.xlsx
+2023-12-27,Kərə yağı 200q,Süd məhsulları,21.0,3.5,sales_2023_12.xlsx
+2023-12-27,Lavaş,Çörək,58.0,0.5,sales_2023_12.xlsx
+2023-12-27,Limonad 1L,İçkilər,12.0,1.4,sales_2023_12.xlsx
+2023-12-27,Makaron 400q,Bakaleya,11.0,1.4,sales_2023_12.xlsx
+2023-12-27,Mal əti,Ət,22.6,15.0,sales_2023_12.xlsx
+2023-12-27,Mandarin,Meyvə-tərəvəz,39.2,3.1,sales_2023_12.xlsx
+2023-12-27,Peçenye 300q,Şirniyyat,31.0,2.25,sales_2023_12.xlsx
+2023-12-27,Pomidor,Meyvə-tərəvəz,10.7,2.5,sales_2023_12.xlsx
+2023-12-27,Qara çay 100q,Çay və qəhvə,17.0,2.75,sales_2023_12.xlsx
+2023-12-27,Qatıq 0.5kq,Süd məhsulları,19.0,1.25,sales_2023_12.xlsx
+2023-12-27,Qoyun əti,Ət,3.9,16.25,sales_2023_12.xlsx
+2023-12-27,Qəhvə 100q,Çay və qəhvə,6.0,4.4,sales_2023_12.xlsx
+2023-12-27,Su 1.5L,İçkilər,29.0,0.6,sales_2023_12.xlsx
+2023-12-27,Süd 1L,Süd məhsulları,41.0,1.5,sales_2023_12.xlsx
+2023-12-27,Tort,Şirniyyat,6.0,15.0,sales_2023_12.xlsx
+2023-12-27,Toyuq,Ət,22.1,6.9,sales_2023_12.xlsx
+2023-12-27,Yaşıl çay 100q,Çay və qəhvə,7.0,3.1,sales_2023_12.xlsx
+2023-12-27,Yumurta 10 əd,Süd məhsulları,24.0,2.4,sales_2023_12.xlsx
+2023-12-27,Şokolad,Şirniyyat,55.0,1.9,sales_2023_12.xlsx
+2023-12-27,Şəkər 1kq,Bakaleya,34.0,2.0,sales_2023_12.xlsx
+2023-12-28,Alma,Meyvə-tərəvəz,10.2,2.25,sales_2023_12.xlsx
+2023-12-28,Ağ pendir,Süd məhsulları,9.4,9.4,sales_2023_12.xlsx
+2023-12-28,Ağ çörək,Çörək,73.0,0.6,sales_2023_12.xlsx
+2023-12-28,Dondurma eskimo,Dondurma,3.0,0.9,sales_2023_12.xlsx
+2023-12-28,Dondurma plombir,Dondurma,2.0,1.0,sales_2023_12.xlsx
+2023-12-28,Düyü 1kq,Bakaleya,14.0,3.0,sales_2023_12.xlsx
+2023-12-28,Günəbaxan yağı 1L,Bakaleya,15.0,3.6,sales_2023_12.xlsx
+2023-12-28,Kefir 1L,Süd məhsulları,21.0,1.6,sales_2023_12.xlsx
+2023-12-28,Konfet,Şirniyyat,7.7,11.25,sales_2023_12.xlsx
+2023-12-28,Kərə yağı 200q,Süd məhsulları,20.0,3.5,sales_2023_12.xlsx
+2023-12-28,Lavaş,Çörək,42.0,0.5,sales_2023_12.xlsx
+2023-12-28,Limonad 1L,İçkilər,21.0,1.4,sales_2023_12.xlsx
+2023-12-28,Makaron 400q,Bakaleya,20.0,1.4,sales_2023_12.xlsx
+2023-12-28,Mal əti,Ət,16.2,15.0,sales_2023_12.xlsx
+2023-12-28,Mandarin,Meyvə-tərəvəz,30.0,3.1,sales_2023_12.xlsx
+2023-12-28,Peçenye 300q,Şirniyyat,31.0,2.25,sales_2023_12.xlsx
+2023-12-28,Pomidor,Meyvə-tərəvəz,16.3,2.5,sales_2023_12.xlsx
+2023-12-28,Qara çay 100q,Çay və qəhvə,25.0,2.75,sales_2023_12.xlsx
+2023-12-28,Qatıq 0.5kq,Süd məhsulları,9.0,1.25,sales_2023_12.xlsx
+2023-12-28,Qoyun əti,Ət,14.9,16.25,sales_2023_12.xlsx
+2023-12-28,Qəhvə 100q,Çay və qəhvə,5.0,4.4,sales_2023_12.xlsx
+2023-12-28,Su 1.5L,İçkilər,42.0,0.6,sales_2023_12.xlsx
+2023-12-28,Süd 1L,Süd məhsulları,49.0,1.5,sales_2023_12.xlsx
+2023-12-28,Tort,Şirniyyat,5.0,15.0,sales_2023_12.xlsx
+2023-12-28,Toyuq,Ət,51.5,6.9,sales_2023_12.xlsx
+2023-12-28,Yaşıl çay 100q,Çay və qəhvə,3.0,3.1,sales_2023_12.xlsx
+2023-12-28,Yumurta 10 əd,Süd məhsulları,30.0,2.4,sales_2023_12.xlsx
+2023-12-28,Şokolad,Şirniyyat,41.0,1.9,sales_2023_12.xlsx
+2023-12-28,Şəkər 1kq,Bakaleya,25.0,2.0,sales_2023_12.xlsx
+2023-12-29,Alma,Meyvə-tərəvəz,14.8,2.25,sales_2023_12.xlsx
+2023-12-29,Ağ pendir,Süd məhsulları,10.3,9.4,sales_2023_12.xlsx
+2023-12-29,Ağ çörək,Çörək,67.0,0.6,sales_2023_12.xlsx
+2023-12-29,Dondurma eskimo,Dondurma,4.0,0.9,sales_2023_12.xlsx
+2023-12-29,Dondurma plombir,Dondurma,10.0,1.0,sales_2023_12.xlsx
+2023-12-29,Düyü 1kq,Bakaleya,17.0,3.0,sales_2023_12.xlsx
+2023-12-29,Günəbaxan yağı 1L,Bakaleya,13.0,3.6,sales_2023_12.xlsx
+2023-12-29,Kefir 1L,Süd məhsulları,10.0,1.6,sales_2023_12.xlsx
+2023-12-29,Konfet,Şirniyyat,13.2,11.25,sales_2023_12.xlsx
+2023-12-29,Kərə yağı 200q,Süd məhsulları,25.0,3.5,sales_2023_12.xlsx
+2023-12-29,Lavaş,Çörək,51.0,0.5,sales_2023_12.xlsx
+2023-12-29,Limonad 1L,İçkilər,20.0,1.4,sales_2023_12.xlsx
+2023-12-29,Makaron 400q,Bakaleya,17.0,1.4,sales_2023_12.xlsx
+2023-12-29,Mal əti,Ət,7.7,15.0,sales_2023_12.xlsx
+2023-12-29,Mandarin,Meyvə-tərəvəz,51.9,3.1,sales_2023_12.xlsx
+2023-12-29,Peçenye 300q,Şirniyyat,45.0,2.25,sales_2023_12.xlsx
+2023-12-29,Pomidor,Meyvə-tərəvəz,11.7,2.5,sales_2023_12.xlsx
+2023-12-29,Qara çay 100q,Çay və qəhvə,15.0,2.75,sales_2023_12.xlsx
+2023-12-29,Qatıq 0.5kq,Süd məhsulları,19.0,1.25,sales_2023_12.xlsx
+2023-12-29,Qoyun əti,Ət,8.4,16.25,sales_2023_12.xlsx
+2023-12-29,Qəhvə 100q,Çay və qəhvə,8.0,4.4,sales_2023_12.xlsx
+2023-12-29,Su 1.5L,İçkilər,35.0,0.6,sales_2023_12.xlsx
+2023-12-29,Süd 1L,Süd məhsulları,49.0,1.5,sales_2023_12.xlsx
+2023-12-29,Tort,Şirniyyat,15.0,15.0,sales_2023_12.xlsx
+2023-12-29,Toyuq,Ət,36.9,6.9,sales_2023_12.xlsx
+2023-12-29,Yaşıl çay 100q,Çay və qəhvə,5.0,3.1,sales_2023_12.xlsx
+2023-12-29,Yumurta 10 əd,Süd məhsulları,26.0,2.4,sales_2023_12.xlsx
+2023-12-29,Şokolad,Şirniyyat,45.0,1.9,sales_2023_12.xlsx
+2023-12-29,Şəkər 1kq,Bakaleya,21.0,2.0,sales_2023_12.xlsx
+2023-12-30,Alma,Meyvə-tərəvəz,21.5,2.25,sales_2023_12.xlsx
+2023-12-30,Ağ pendir,Süd məhsulları,5.1,9.4,sales_2023_12.xlsx
+2023-12-30,Ağ çörək,Çörək,98.0,0.6,sales_2023_12.xlsx
+2023-12-30,Dondurma eskimo,Dondurma,8.0,0.9,sales_2023_12.xlsx
+2023-12-30,Dondurma plombir,Dondurma,7.0,1.0,sales_2023_12.xlsx
+2023-12-30,Düyü 1kq,Bakaleya,32.0,3.0,sales_2023_12.xlsx
+2023-12-30,Günəbaxan yağı 1L,Bakaleya,19.0,3.6,sales_2023_12.xlsx
+2023-12-30,Kefir 1L,Süd məhsulları,19.0,1.6,sales_2023_12.xlsx
+2023-12-30,Konfet,Şirniyyat,3.6,11.25,sales_2023_12.xlsx
+2023-12-30,Kərə yağı 200q,Süd məhsulları,19.0,3.5,sales_2023_12.xlsx
+2023-12-30,Lavaş,Çörək,58.0,0.5,sales_2023_12.xlsx
+2023-12-30,Limonad 1L,İçkilər,23.0,1.4,sales_2023_12.xlsx
+2023-12-30,Makaron 400q,Bakaleya,24.0,1.4,sales_2023_12.xlsx
+2023-12-30,Mal əti,Ət,23.3,15.0,sales_2023_12.xlsx
+2023-12-30,Mandarin,Meyvə-tərəvəz,65.5,3.1,sales_2023_12.xlsx
+2023-12-30,Peçenye 300q,Şirniyyat,55.0,2.25,sales_2023_12.xlsx
+2023-12-30,Pomidor,Meyvə-tərəvəz,19.3,2.5,sales_2023_12.xlsx
+2023-12-30,Qara çay 100q,Çay və qəhvə,17.0,2.75,sales_2023_12.xlsx
+2023-12-30,Qatıq 0.5kq,Süd məhsulları,21.0,1.25,sales_2023_12.xlsx
+2023-12-30,Qoyun əti,Ət,7.7,16.25,sales_2023_12.xlsx
+2023-12-30,Qəhvə 100q,Çay və qəhvə,10.0,4.4,sales_2023_12.xlsx
+2023-12-30,Su 1.5L,İçkilər,44.0,0.6,sales_2023_12.xlsx
+2023-12-30,Süd 1L,Süd məhsulları,43.0,1.5,sales_2023_12.xlsx
+2023-12-30,Tort,Şirniyyat,15.0,15.0,sales_2023_12.xlsx
+2023-12-30,Toyuq,Ət,61.4,6.9,sales_2023_12.xlsx
+2023-12-30,Yaşıl çay 100q,Çay və qəhvə,4.0,3.1,sales_2023_12.xlsx
+2023-12-30,Yumurta 10 əd,Süd məhsulları,34.0,2.4,sales_2023_12.xlsx
+2023-12-30,Şokolad,Şirniyyat,78.0,1.9,sales_2023_12.xlsx
+2023-12-30,Şəkər 1kq,Bakaleya,40.0,2.0,sales_2023_12.xlsx
+2023-12-31,Alma,Meyvə-tərəvəz,22.1,2.25,sales_2023_12.xlsx
+2023-12-31,Ağ pendir,Süd məhsulları,14.1,9.4,sales_2023_12.xlsx
+2023-12-31,Ağ çörək,Çörək,101.0,0.6,sales_2023_12.xlsx
+2023-12-31,Dondurma eskimo,Dondurma,10.0,0.9,sales_2023_12.xlsx
+2023-12-31,Dondurma plombir,Dondurma,3.0,1.0,sales_2023_12.xlsx
+2023-12-31,Düyü 1kq,Bakaleya,31.0,3.0,sales_2023_12.xlsx
+2023-12-31,Günəbaxan yağı 1L,Bakaleya,26.0,3.6,sales_2023_12.xlsx
+2023-12-31,Kefir 1L,Süd məhsulları,17.0,1.6,sales_2023_12.xlsx
+2023-12-31,Konfet,Şirniyyat,5.6,11.25,sales_2023_12.xlsx
+2023-12-31,Kərə yağı 200q,Süd məhsulları,31.0,3.5,sales_2023_12.xlsx
+2023-12-31,Lavaş,Çörək,53.0,0.5,sales_2023_12.xlsx
+2023-12-31,Limonad 1L,İçkilər,17.0,1.4,sales_2023_12.xlsx
+2023-12-31,Makaron 400q,Bakaleya,12.0,1.4,sales_2023_12.xlsx
+2023-12-31,Mal əti,Ət,15.8,15.0,sales_2023_12.xlsx
+2023-12-31,Mandarin,Meyvə-tərəvəz,50.2,3.1,sales_2023_12.xlsx
+2023-12-31,Peçenye 300q,Şirniyyat,42.0,2.25,sales_2023_12.xlsx
+2023-12-31,Pomidor,Meyvə-tərəvəz,5.3,2.5,sales_2023_12.xlsx
+2023-12-31,Qara çay 100q,Çay və qəhvə,19.0,2.75,sales_2023_12.xlsx
+2023-12-31,Qatıq 0.5kq,Süd məhsulları,21.0,1.25,sales_2023_12.xlsx
+2023-12-31,Qoyun əti,Ət,24.7,16.25,sales_2023_12.xlsx
+2023-12-31,Qəhvə 100q,Çay və qəhvə,8.0,4.4,sales_2023_12.xlsx
+2023-12-31,Su 1.5L,İçkilər,39.0,0.6,sales_2023_12.xlsx
+2023-12-31,Süd 1L,Süd məhsulları,52.0,1.5,sales_2023_12.xlsx
+2023-12-31,Tort,Şirniyyat,12.0,15.0,sales_2023_12.xlsx
+2023-12-31,Toyuq,Ət,41.6,6.9,sales_2023_12.xlsx
+2023-12-31,Yaşıl çay 100q,Çay və qəhvə,4.0,3.1,sales_2023_12.xlsx
+2023-12-31,Yumurta 10 əd,Süd məhsulları,49.0,2.4,sales_2023_12.xlsx
+2023-12-31,Şokolad,Şirniyyat,56.0,1.9,sales_2023_12.xlsx
+2023-12-31,Şəkər 1kq,Bakaleya,27.0,2.0,sales_2023_12.xlsx
+2025-01-01,Alma,Meyvə-tərəvəz,4.6,2.5,sales_2025_01.xlsx
+2025-01-01,Ağ pendir,Süd məhsulları,2.7,10.5,sales_2025_01.xlsx
+2025-01-01,Ağ çörək,Çörək,49.0,0.7,sales_2025_01.xlsx
+2025-01-01,Dondurma eskimo,Dondurma,2.0,1.0,sales_2025_01.xlsx
+2025-01-01,Dondurma plombir,Dondurma,1.0,1.1,sales_2025_01.xlsx
+2025-01-01,Düyü 1kq,Bakaleya,6.0,3.35,sales_2025_01.xlsx
+2025-01-01,Günəbaxan yağı 1L,Bakaleya,8.0,4.05,sales_2025_01.xlsx
+2025-01-01,Kefir 1L,Süd məhsulları,15.0,1.8,sales_2025_01.xlsx
+2025-01-01,Konfet,Şirniyyat,3.9,12.6,sales_2025_01.xlsx
+2025-01-01,Kərə yağı 200q,Süd məhsulları,16.0,3.9,sales_2025_01.xlsx
+2025-01-01,Lavaş,Çörək,31.0,0.55,sales_2025_01.xlsx
+2025-01-01,Limonad 1L,İçkilər,12.0,1.55,sales_2025_01.xlsx
+2025-01-01,Makaron 400q,Bakaleya,6.0,1.55,sales_2025_01.xlsx
+2025-01-01,Mal əti,Ət,8.2,16.8,sales_2025_01.xlsx
+2025-01-01,Mandarin,Meyvə-tərəvəz,9.3,3.5,sales_2025_01.xlsx
+2025-01-01,Peçenye 300q,Şirniyyat,16.0,2.5,sales_2025_01.xlsx
+2025-01-01,Pomidor,Meyvə-tərəvəz,6.4,2.8,sales_2025_01.xlsx
+2025-01-01,Qara çay 100q,Çay və qəhvə,14.0,3.1,sales_2025_01.xlsx
+2025-01-01,Qatıq 0.5kq,Süd məhsulları,12.0,1.4,sales_2025_01.xlsx
+2025-01-01,Qoyun əti,Ət,6.9,18.2,sales_2025_01.xlsx
+2025-01-01,Qəhvə 100q,Çay və qəhvə,5.0,4.9,sales_2025_01.xlsx
+2025-01-01,Su 1.5L,İçkilər,21.0,0.7,sales_2025_01.xlsx
+2025-01-01,Süd 1L,Süd məhsulları,30.0,1.7,sales_2025_01.xlsx
+2025-01-01,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-01,Toyuq,Ət,17.7,7.7,sales_2025_01.xlsx
+2025-01-01,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-01,Yumurta 10 əd,Süd məhsulları,14.0,2.65,sales_2025_01.xlsx
+2025-01-01,Şokolad,Şirniyyat,29.0,2.1,sales_2025_01.xlsx
+2025-01-01,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-02,Alma,Meyvə-tərəvəz,3.8,2.5,sales_2025_01.xlsx
+2025-01-02,Ağ pendir,Süd məhsulları,10.3,10.5,sales_2025_01.xlsx
+2025-01-02,Ağ çörək,Çörək,78.0,0.7,sales_2025_01.xlsx
+2025-01-02,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-02,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-02,Düyü 1kq,Bakaleya,18.0,3.35,sales_2025_01.xlsx
+2025-01-02,Günəbaxan yağı 1L,Bakaleya,7.0,4.05,sales_2025_01.xlsx
+2025-01-02,Kefir 1L,Süd məhsulları,13.0,1.8,sales_2025_01.xlsx
+2025-01-02,Konfet,Şirniyyat,14.8,12.6,sales_2025_01.xlsx
+2025-01-02,Kərə yağı 200q,Süd məhsulları,11.0,3.9,sales_2025_01.xlsx
+2025-01-02,Lavaş,Çörək,58.0,0.55,sales_2025_01.xlsx
+2025-01-02,Limonad 1L,İçkilər,17.0,1.55,sales_2025_01.xlsx
+2025-01-02,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-02,Mal əti,Ət,14.6,16.8,sales_2025_01.xlsx
+2025-01-02,Mandarin,Meyvə-tərəvəz,22.5,3.5,sales_2025_01.xlsx
+2025-01-02,Peçenye 300q,Şirniyyat,26.0,2.5,sales_2025_01.xlsx
+2025-01-02,Pomidor,Meyvə-tərəvəz,7.2,2.8,sales_2025_01.xlsx
+2025-01-02,Qara çay 100q,Çay və qəhvə,23.0,3.1,sales_2025_01.xlsx
+2025-01-02,Qatıq 0.5kq,Süd məhsulları,10.0,1.4,sales_2025_01.xlsx
+2025-01-02,Qoyun əti,Ət,14.8,18.2,sales_2025_01.xlsx
+2025-01-02,Qəhvə 100q,Çay və qəhvə,11.0,4.9,sales_2025_01.xlsx
+2025-01-02,Su 1.5L,İçkilər,35.0,0.7,sales_2025_01.xlsx
+2025-01-02,Süd 1L,Süd məhsulları,49.0,1.7,sales_2025_01.xlsx
+2025-01-02,Tort,Şirniyyat,5.0,16.8,sales_2025_01.xlsx
+2025-01-02,Toyuq,Ət,7.0,7.7,sales_2025_01.xlsx
+2025-01-02,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-02,Yumurta 10 əd,Süd məhsulları,26.0,2.65,sales_2025_01.xlsx
+2025-01-02,Şokolad,Şirniyyat,35.0,2.1,sales_2025_01.xlsx
+2025-01-02,Şəkər 1kq,Bakaleya,30.0,2.25,sales_2025_01.xlsx
+2025-01-03,Alma,Meyvə-tərəvəz,14.9,2.5,sales_2025_01.xlsx
+2025-01-03,Ağ pendir,Süd məhsulları,5.3,10.5,sales_2025_01.xlsx
+2025-01-03,Ağ çörək,Çörək,78.0,0.7,sales_2025_01.xlsx
+2025-01-03,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-03,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-03,Düyü 1kq,Bakaleya,13.0,3.35,sales_2025_01.xlsx
+2025-01-03,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-03,Kefir 1L,Süd məhsulları,25.0,1.8,sales_2025_01.xlsx
+2025-01-03,Konfet,Şirniyyat,3.0,12.6,sales_2025_01.xlsx
+2025-01-03,Kərə yağı 200q,Süd məhsulları,14.0,3.9,sales_2025_01.xlsx
+2025-01-03,Lavaş,Çörək,56.0,0.55,sales_2025_01.xlsx
+2025-01-03,Limonad 1L,İçkilər,18.0,1.55,sales_2025_01.xlsx
+2025-01-03,Makaron 400q,Bakaleya,12.0,1.55,sales_2025_01.xlsx
+2025-01-03,Mal əti,Ət,2.8,16.8,sales_2025_01.xlsx
+2025-01-03,Mandarin,Meyvə-tərəvəz,15.5,3.5,sales_2025_01.xlsx
+2025-01-03,Peçenye 300q,Şirniyyat,18.0,2.5,sales_2025_01.xlsx
+2025-01-03,Pomidor,Meyvə-tərəvəz,11.7,2.8,sales_2025_01.xlsx
+2025-01-03,Qara çay 100q,Çay və qəhvə,17.0,3.1,sales_2025_01.xlsx
+2025-01-03,Qatıq 0.5kq,Süd məhsulları,8.0,1.4,sales_2025_01.xlsx
+2025-01-03,Qoyun əti,Ət,5.7,18.2,sales_2025_01.xlsx
+2025-01-03,Qəhvə 100q,Çay və qəhvə,12.0,4.9,sales_2025_01.xlsx
+2025-01-03,Su 1.5L,İçkilər,27.0,0.7,sales_2025_01.xlsx
+2025-01-03,Süd 1L,Süd məhsulları,46.0,1.7,sales_2025_01.xlsx
+2025-01-03,Tort,Şirniyyat,4.0,16.8,sales_2025_01.xlsx
+2025-01-03,Toyuq,Ət,23.5,7.7,sales_2025_01.xlsx
+2025-01-03,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-03,Yumurta 10 əd,Süd məhsulları,19.0,2.65,sales_2025_01.xlsx
+2025-01-03,Şokolad,Şirniyyat,20.0,2.1,sales_2025_01.xlsx
+2025-01-03,Şəkər 1kq,Bakaleya,17.0,2.25,sales_2025_01.xlsx
+2025-01-04,Alma,Meyvə-tərəvəz,28.2,2.5,sales_2025_01.xlsx
+2025-01-04,Ağ pendir,Süd məhsulları,14.4,10.5,sales_2025_01.xlsx
+2025-01-04,Ağ çörək,Çörək,95.0,0.7,sales_2025_01.xlsx
+2025-01-04,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-04,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-04,Düyü 1kq,Bakaleya,13.0,3.35,sales_2025_01.xlsx
+2025-01-04,Günəbaxan yağı 1L,Bakaleya,10.0,4.05,sales_2025_01.xlsx
+2025-01-04,Kefir 1L,Süd məhsulları,21.0,1.8,sales_2025_01.xlsx
+2025-01-04,Konfet,Şirniyyat,4.3,12.6,sales_2025_01.xlsx
+2025-01-04,Kərə yağı 200q,Süd məhsulları,14.0,3.9,sales_2025_01.xlsx
+2025-01-04,Lavaş,Çörək,52.0,0.55,sales_2025_01.xlsx
+2025-01-04,Limonad 1L,İçkilər,22.0,1.55,sales_2025_01.xlsx
+2025-01-04,Makaron 400q,Bakaleya,18.0,1.55,sales_2025_01.xlsx
+2025-01-04,Mal əti,Ət,18.5,16.8,sales_2025_01.xlsx
+2025-01-04,Mandarin,Meyvə-tərəvəz,15.0,3.5,sales_2025_01.xlsx
+2025-01-04,Peçenye 300q,Şirniyyat,28.0,2.5,sales_2025_01.xlsx
+2025-01-04,Pomidor,Meyvə-tərəvəz,16.9,2.8,sales_2025_01.xlsx
+2025-01-04,Qara çay 100q,Çay və qəhvə,24.0,3.1,sales_2025_01.xlsx
+2025-01-04,Qatıq 0.5kq,Süd məhsulları,18.0,1.4,sales_2025_01.xlsx
+2025-01-04,Qoyun əti,Ət,7.4,18.2,sales_2025_01.xlsx
+2025-01-04,Qəhvə 100q,Çay və qəhvə,16.0,4.9,sales_2025_01.xlsx
+2025-01-04,Su 1.5L,İçkilər,44.0,0.7,sales_2025_01.xlsx
+2025-01-04,Süd 1L,Süd məhsulları,53.0,1.7,sales_2025_01.xlsx
+2025-01-04,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-04,Toyuq,Ət,19.2,7.7,sales_2025_01.xlsx
+2025-01-04,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-04,Yumurta 10 əd,Süd məhsulları,15.0,2.65,sales_2025_01.xlsx
+2025-01-04,Şokolad,Şirniyyat,33.0,2.1,sales_2025_01.xlsx
+2025-01-04,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-05,Alma,Meyvə-tərəvəz,16.7,2.5,sales_2025_01.xlsx
+2025-01-05,Ağ pendir,Süd məhsulları,6.4,10.5,sales_2025_01.xlsx
+2025-01-05,Ağ çörək,Çörək,95.0,0.7,sales_2025_01.xlsx
+2025-01-05,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-05,Dondurma plombir,Dondurma,4.0,1.1,sales_2025_01.xlsx
+2025-01-05,Düyü 1kq,Bakaleya,18.0,3.35,sales_2025_01.xlsx
+2025-01-05,Günəbaxan yağı 1L,Bakaleya,20.0,4.05,sales_2025_01.xlsx
+2025-01-05,Kefir 1L,Süd məhsulları,26.0,1.8,sales_2025_01.xlsx
+2025-01-05,Konfet,Şirniyyat,4.4,12.6,sales_2025_01.xlsx
+2025-01-05,Kərə yağı 200q,Süd məhsulları,15.0,3.9,sales_2025_01.xlsx
+2025-01-05,Lavaş,Çörək,58.0,0.55,sales_2025_01.xlsx
+2025-01-05,Limonad 1L,İçkilər,19.0,1.55,sales_2025_01.xlsx
+2025-01-05,Makaron 400q,Bakaleya,19.0,1.55,sales_2025_01.xlsx
+2025-01-05,Mal əti,Ət,15.0,16.8,sales_2025_01.xlsx
+2025-01-05,Mandarin,Meyvə-tərəvəz,12.0,3.5,sales_2025_01.xlsx
+2025-01-05,Peçenye 300q,Şirniyyat,21.0,2.5,sales_2025_01.xlsx
+2025-01-05,Pomidor,Meyvə-tərəvəz,23.6,2.8,sales_2025_01.xlsx
+2025-01-05,Qara çay 100q,Çay və qəhvə,28.0,3.1,sales_2025_01.xlsx
+2025-01-05,Qatıq 0.5kq,Süd məhsulları,17.0,1.4,sales_2025_01.xlsx
+2025-01-05,Qoyun əti,Ət,10.0,18.2,sales_2025_01.xlsx
+2025-01-05,Qəhvə 100q,Çay və qəhvə,8.0,4.9,sales_2025_01.xlsx
+2025-01-05,Su 1.5L,İçkilər,45.0,0.7,sales_2025_01.xlsx
+2025-01-05,Süd 1L,Süd məhsulları,42.0,1.7,sales_2025_01.xlsx
+2025-01-05,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-05,Toyuq,Ət,10.2,7.7,sales_2025_01.xlsx
+2025-01-05,Yaşıl çay 100q,Çay və qəhvə,9.0,3.5,sales_2025_01.xlsx
+2025-01-05,Yumurta 10 əd,Süd məhsulları,19.0,2.65,sales_2025_01.xlsx
+2025-01-05,Şokolad,Şirniyyat,29.0,2.1,sales_2025_01.xlsx
+2025-01-05,Şəkər 1kq,Bakaleya,21.0,2.25,sales_2025_01.xlsx
+2025-01-06,Alma,Meyvə-tərəvəz,17.0,2.5,sales_2025_01.xlsx
+2025-01-06,Ağ pendir,Süd məhsulları,5.6,10.5,sales_2025_01.xlsx
+2025-01-06,Ağ çörək,Çörək,78.0,0.7,sales_2025_01.xlsx
+2025-01-06,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-06,Dondurma plombir,Dondurma,3.0,1.1,sales_2025_01.xlsx
+2025-01-06,Düyü 1kq,Bakaleya,4.0,3.35,sales_2025_01.xlsx
+2025-01-06,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-06,Kefir 1L,Süd məhsulları,26.0,1.8,sales_2025_01.xlsx
+2025-01-06,Konfet,Şirniyyat,8.5,12.6,sales_2025_01.xlsx
+2025-01-06,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-06,Lavaş,Çörək,48.0,0.55,sales_2025_01.xlsx
+2025-01-06,Limonad 1L,İçkilər,12.0,1.55,sales_2025_01.xlsx
+2025-01-06,Makaron 400q,Bakaleya,10.0,1.55,sales_2025_01.xlsx
+2025-01-06,Mal əti,Ət,3.5,16.8,sales_2025_01.xlsx
+2025-01-06,Mandarin,Meyvə-tərəvəz,21.0,3.5,sales_2025_01.xlsx
+2025-01-06,Peçenye 300q,Şirniyyat,22.0,2.5,sales_2025_01.xlsx
+2025-01-06,Pomidor,Meyvə-tərəvəz,12.4,2.8,sales_2025_01.xlsx
+2025-01-06,Qara çay 100q,Çay və qəhvə,8.0,3.1,sales_2025_01.xlsx
+2025-01-06,Qatıq 0.5kq,Süd məhsulları,8.0,1.4,sales_2025_01.xlsx
+2025-01-06,Qoyun əti,Ət,6.4,18.2,sales_2025_01.xlsx
+2025-01-06,Qəhvə 100q,Çay və qəhvə,15.0,4.9,sales_2025_01.xlsx
+2025-01-06,Su 1.5L,İçkilər,24.0,0.7,sales_2025_01.xlsx
+2025-01-06,Süd 1L,Süd məhsulları,49.0,1.7,sales_2025_01.xlsx
+2025-01-06,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-06,Toyuq,Ət,7.1,7.7,sales_2025_01.xlsx
+2025-01-06,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-06,Yumurta 10 əd,Süd məhsulları,14.0,2.65,sales_2025_01.xlsx
+2025-01-06,Şokolad,Şirniyyat,15.0,2.1,sales_2025_01.xlsx
+2025-01-06,Şəkər 1kq,Bakaleya,14.0,2.25,sales_2025_01.xlsx
+2025-01-07,Alma,Meyvə-tərəvəz,3.2,2.5,sales_2025_01.xlsx
+2025-01-07,Ağ pendir,Süd məhsulları,6.0,10.5,sales_2025_01.xlsx
+2025-01-07,Ağ çörək,Çörək,76.0,0.7,sales_2025_01.xlsx
+2025-01-07,Dondurma eskimo,Dondurma,2.0,1.0,sales_2025_01.xlsx
+2025-01-07,Dondurma plombir,Dondurma,2.0,1.1,sales_2025_01.xlsx
+2025-01-07,Düyü 1kq,Bakaleya,13.0,3.35,sales_2025_01.xlsx
+2025-01-07,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-07,Kefir 1L,Süd məhsulları,14.0,1.8,sales_2025_01.xlsx
+2025-01-07,Konfet,Şirniyyat,7.8,12.6,sales_2025_01.xlsx
+2025-01-07,Kərə yağı 200q,Süd məhsulları,22.0,3.9,sales_2025_01.xlsx
+2025-01-07,Lavaş,Çörək,47.0,0.55,sales_2025_01.xlsx
+2025-01-07,Limonad 1L,İçkilər,13.0,1.55,sales_2025_01.xlsx
+2025-01-07,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-07,Mal əti,Ət,5.1,16.8,sales_2025_01.xlsx
+2025-01-07,Mandarin,Meyvə-tərəvəz,17.4,3.5,sales_2025_01.xlsx
+2025-01-07,Peçenye 300q,Şirniyyat,26.0,2.5,sales_2025_01.xlsx
+2025-01-07,Pomidor,Meyvə-tərəvəz,24.3,2.8,sales_2025_01.xlsx
+2025-01-07,Qara çay 100q,Çay və qəhvə,21.0,3.1,sales_2025_01.xlsx
+2025-01-07,Qatıq 0.5kq,Süd məhsulları,14.0,1.4,sales_2025_01.xlsx
+2025-01-07,Qoyun əti,Ət,2.1,18.2,sales_2025_01.xlsx
+2025-01-07,Qəhvə 100q,Çay və qəhvə,10.0,4.9,sales_2025_01.xlsx
+2025-01-07,Su 1.5L,İçkilər,30.0,0.7,sales_2025_01.xlsx
+2025-01-07,Süd 1L,Süd məhsulları,47.0,1.7,sales_2025_01.xlsx
+2025-01-07,Tort,Şirniyyat,5.0,16.8,sales_2025_01.xlsx
+2025-01-07,Toyuq,Ət,12.3,7.7,sales_2025_01.xlsx
+2025-01-07,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-07,Yumurta 10 əd,Süd məhsulları,21.0,2.65,sales_2025_01.xlsx
+2025-01-07,Şokolad,Şirniyyat,12.0,2.1,sales_2025_01.xlsx
+2025-01-07,Şəkər 1kq,Bakaleya,12.0,2.25,sales_2025_01.xlsx
+2025-01-08,Alma,Meyvə-tərəvəz,11.9,2.5,sales_2025_01.xlsx
+2025-01-08,Ağ pendir,Süd məhsulları,5.3,10.5,sales_2025_01.xlsx
+2025-01-08,Ağ çörək,Çörək,80.0,0.7,sales_2025_01.xlsx
+2025-01-08,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-08,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-08,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-08,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-08,Kefir 1L,Süd məhsulları,22.0,1.8,sales_2025_01.xlsx
+2025-01-08,Konfet,Şirniyyat,3.1,12.6,sales_2025_01.xlsx
+2025-01-08,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-08,Lavaş,Çörək,48.0,0.55,sales_2025_01.xlsx
+2025-01-08,Limonad 1L,İçkilər,14.0,1.55,sales_2025_01.xlsx
+2025-01-08,Makaron 400q,Bakaleya,14.0,1.55,sales_2025_01.xlsx
+2025-01-08,Mal əti,Ət,16.7,16.8,sales_2025_01.xlsx
+2025-01-08,Mandarin,Meyvə-tərəvəz,13.7,3.5,sales_2025_01.xlsx
+2025-01-08,Peçenye 300q,Şirniyyat,15.0,2.5,sales_2025_01.xlsx
+2025-01-08,Pomidor,Meyvə-tərəvəz,12.5,2.8,sales_2025_01.xlsx
+2025-01-08,Qara çay 100q,Çay və qəhvə,18.0,3.1,sales_2025_01.xlsx
+2025-01-08,Qatıq 0.5kq,Süd məhsulları,15.0,1.4,sales_2025_01.xlsx
+2025-01-08,Qoyun əti,Ət,3.8,18.2,sales_2025_01.xlsx
+2025-01-08,Qəhvə 100q,Çay və qəhvə,10.0,4.9,sales_2025_01.xlsx
+2025-01-08,Su 1.5L,İçkilər,34.0,0.7,sales_2025_01.xlsx
+2025-01-08,Süd 1L,Süd məhsulları,40.0,1.7,sales_2025_01.xlsx
+2025-01-08,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-08,Toyuq,Ət,12.3,7.7,sales_2025_01.xlsx
+2025-01-08,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-08,Yumurta 10 əd,Süd məhsulları,10.0,2.65,sales_2025_01.xlsx
+2025-01-08,Şokolad,Şirniyyat,13.0,2.1,sales_2025_01.xlsx
+2025-01-08,Şəkər 1kq,Bakaleya,16.0,2.25,sales_2025_01.xlsx
+2025-01-09,Alma,Meyvə-tərəvəz,8.6,2.5,sales_2025_01.xlsx
+2025-01-09,Ağ pendir,Süd məhsulları,8.7,10.5,sales_2025_01.xlsx
+2025-01-09,Ağ çörək,Çörək,88.0,0.7,sales_2025_01.xlsx
+2025-01-09,Dondurma eskimo,Dondurma,6.0,1.0,sales_2025_01.xlsx
+2025-01-09,Dondurma plombir,Dondurma,10.0,1.1,sales_2025_01.xlsx
+2025-01-09,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-09,Günəbaxan yağı 1L,Bakaleya,10.0,4.05,sales_2025_01.xlsx
+2025-01-09,Kefir 1L,Süd məhsulları,8.0,1.8,sales_2025_01.xlsx
+2025-01-09,Konfet,Şirniyyat,5.6,12.6,sales_2025_01.xlsx
+2025-01-09,Kərə yağı 200q,Süd məhsulları,9.0,3.9,sales_2025_01.xlsx
+2025-01-09,Lavaş,Çörək,48.0,0.55,sales_2025_01.xlsx
+2025-01-09,Limonad 1L,İçkilər,14.0,1.55,sales_2025_01.xlsx
+2025-01-09,Makaron 400q,Bakaleya,13.0,1.55,sales_2025_01.xlsx
+2025-01-09,Mal əti,Ət,3.9,16.8,sales_2025_01.xlsx
+2025-01-09,Mandarin,Meyvə-tərəvəz,4.0,3.5,sales_2025_01.xlsx
+2025-01-09,Peçenye 300q,Şirniyyat,11.0,2.5,sales_2025_01.xlsx
+2025-01-09,Pomidor,Meyvə-tərəvəz,10.4,2.8,sales_2025_01.xlsx
+2025-01-09,Qara çay 100q,Çay və qəhvə,20.0,3.1,sales_2025_01.xlsx
+2025-01-09,Qatıq 0.5kq,Süd məhsulları,12.0,1.4,sales_2025_01.xlsx
+2025-01-09,Qoyun əti,Ət,3.7,18.2,sales_2025_01.xlsx
+2025-01-09,Qəhvə 100q,Çay və qəhvə,10.0,4.9,sales_2025_01.xlsx
+2025-01-09,Su 1.5L,İçkilər,27.0,0.7,sales_2025_01.xlsx
+2025-01-09,Süd 1L,Süd məhsulları,29.0,1.7,sales_2025_01.xlsx
+2025-01-09,Tort,Şirniyyat,5.0,16.8,sales_2025_01.xlsx
+2025-01-09,Toyuq,Ət,16.6,7.7,sales_2025_01.xlsx
+2025-01-09,Yaşıl çay 100q,Çay və qəhvə,6.0,3.5,sales_2025_01.xlsx
+2025-01-09,Yumurta 10 əd,Süd məhsulları,18.0,2.65,sales_2025_01.xlsx
+2025-01-09,Şokolad,Şirniyyat,24.0,2.1,sales_2025_01.xlsx
+2025-01-09,Şəkər 1kq,Bakaleya,17.0,2.25,sales_2025_01.xlsx
+2025-01-10,Alma,Meyvə-tərəvəz,24.6,2.5,sales_2025_01.xlsx
+2025-01-10,Ağ pendir,Süd məhsulları,9.8,10.5,sales_2025_01.xlsx
+2025-01-10,Ağ çörək,Çörək,84.0,0.7,sales_2025_01.xlsx
+2025-01-10,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-10,Dondurma plombir,Dondurma,4.0,1.1,sales_2025_01.xlsx
+2025-01-10,Düyü 1kq,Bakaleya,7.0,3.35,sales_2025_01.xlsx
+2025-01-10,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-10,Kefir 1L,Süd məhsulları,21.0,1.8,sales_2025_01.xlsx
+2025-01-10,Konfet,Şirniyyat,3.4,12.6,sales_2025_01.xlsx
+2025-01-10,Kərə yağı 200q,Süd məhsulları,10.0,3.9,sales_2025_01.xlsx
+2025-01-10,Lavaş,Çörək,45.0,0.55,sales_2025_01.xlsx
+2025-01-10,Limonad 1L,İçkilər,9.0,1.55,sales_2025_01.xlsx
+2025-01-10,Makaron 400q,Bakaleya,17.0,1.55,sales_2025_01.xlsx
+2025-01-10,Mal əti,Ət,7.5,16.8,sales_2025_01.xlsx
+2025-01-10,Mandarin,Meyvə-tərəvəz,8.2,3.5,sales_2025_01.xlsx
+2025-01-10,Peçenye 300q,Şirniyyat,20.0,2.5,sales_2025_01.xlsx
+2025-01-10,Pomidor,Meyvə-tərəvəz,12.0,2.8,sales_2025_01.xlsx
+2025-01-10,Qara çay 100q,Çay və qəhvə,20.0,3.1,sales_2025_01.xlsx
+2025-01-10,Qatıq 0.5kq,Süd məhsulları,18.0,1.4,sales_2025_01.xlsx
+2025-01-10,Qoyun əti,Ət,4.4,18.2,sales_2025_01.xlsx
+2025-01-10,Qəhvə 100q,Çay və qəhvə,11.0,4.9,sales_2025_01.xlsx
+2025-01-10,Su 1.5L,İçkilər,37.0,0.7,sales_2025_01.xlsx
+2025-01-10,Süd 1L,Süd məhsulları,39.0,1.7,sales_2025_01.xlsx
+2025-01-10,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-10,Toyuq,Ət,13.7,7.7,sales_2025_01.xlsx
+2025-01-10,Yaşıl çay 100q,Çay və qəhvə,2.0,3.5,sales_2025_01.xlsx
+2025-01-10,Yumurta 10 əd,Süd məhsulları,12.0,2.65,sales_2025_01.xlsx
+2025-01-10,Şokolad,Şirniyyat,17.0,2.1,sales_2025_01.xlsx
+2025-01-10,Şəkər 1kq,Bakaleya,11.0,2.25,sales_2025_01.xlsx
+2025-01-11,Alma,Meyvə-tərəvəz,16.8,2.5,sales_2025_01.xlsx
+2025-01-11,Ağ pendir,Süd məhsulları,10.6,10.5,sales_2025_01.xlsx
+2025-01-11,Ağ çörək,Çörək,108.0,0.7,sales_2025_01.xlsx
+2025-01-11,Dondurma eskimo,Dondurma,7.0,1.0,sales_2025_01.xlsx
+2025-01-11,Dondurma plombir,Dondurma,4.0,1.1,sales_2025_01.xlsx
+2025-01-11,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-11,Günəbaxan yağı 1L,Bakaleya,14.0,4.05,sales_2025_01.xlsx
+2025-01-11,Kefir 1L,Süd məhsulları,28.0,1.8,sales_2025_01.xlsx
+2025-01-11,Konfet,Şirniyyat,11.1,12.6,sales_2025_01.xlsx
+2025-01-11,Kərə yağı 200q,Süd məhsulları,17.0,3.9,sales_2025_01.xlsx
+2025-01-11,Lavaş,Çörək,70.0,0.55,sales_2025_01.xlsx
+2025-01-11,Limonad 1L,İçkilər,14.0,1.55,sales_2025_01.xlsx
+2025-01-11,Makaron 400q,Bakaleya,24.0,1.55,sales_2025_01.xlsx
+2025-01-11,Mal əti,Ət,12.0,16.8,sales_2025_01.xlsx
+2025-01-11,Mandarin,Meyvə-tərəvəz,7.4,3.5,sales_2025_01.xlsx
+2025-01-11,Peçenye 300q,Şirniyyat,12.0,2.5,sales_2025_01.xlsx
+2025-01-11,Pomidor,Meyvə-tərəvəz,11.5,2.8,sales_2025_01.xlsx
+2025-01-11,Qara çay 100q,Çay və qəhvə,20.0,3.1,sales_2025_01.xlsx
+2025-01-11,Qatıq 0.5kq,Süd məhsulları,18.0,1.4,sales_2025_01.xlsx
+2025-01-11,Qoyun əti,Ət,6.6,18.2,sales_2025_01.xlsx
+2025-01-11,Qəhvə 100q,Çay və qəhvə,17.0,4.9,sales_2025_01.xlsx
+2025-01-11,Su 1.5L,İçkilər,23.0,0.7,sales_2025_01.xlsx
+2025-01-11,Süd 1L,Süd məhsulları,43.0,1.7,sales_2025_01.xlsx
+2025-01-11,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-11,Toyuq,Ət,7.5,7.7,sales_2025_01.xlsx
+2025-01-11,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-11,Yumurta 10 əd,Süd məhsulları,15.0,2.65,sales_2025_01.xlsx
+2025-01-11,Şokolad,Şirniyyat,17.0,2.1,sales_2025_01.xlsx
+2025-01-11,Şəkər 1kq,Bakaleya,17.0,2.25,sales_2025_01.xlsx
+2025-01-12,Alma,Meyvə-tərəvəz,34.8,2.5,sales_2025_01.xlsx
+2025-01-12,Ağ pendir,Süd məhsulları,7.1,10.5,sales_2025_01.xlsx
+2025-01-12,Ağ çörək,Çörək,103.0,0.7,sales_2025_01.xlsx
+2025-01-12,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-12,Dondurma plombir,Dondurma,5.0,1.1,sales_2025_01.xlsx
+2025-01-12,Düyü 1kq,Bakaleya,16.0,3.35,sales_2025_01.xlsx
+2025-01-12,Günəbaxan yağı 1L,Bakaleya,10.0,4.05,sales_2025_01.xlsx
+2025-01-12,Kefir 1L,Süd məhsulları,17.0,1.8,sales_2025_01.xlsx
+2025-01-12,Konfet,Şirniyyat,6.5,12.6,sales_2025_01.xlsx
+2025-01-12,Kərə yağı 200q,Süd məhsulları,21.0,3.9,sales_2025_01.xlsx
+2025-01-12,Lavaş,Çörək,70.0,0.55,sales_2025_01.xlsx
+2025-01-12,Limonad 1L,İçkilər,17.0,1.55,sales_2025_01.xlsx
+2025-01-12,Makaron 400q,Bakaleya,14.0,1.55,sales_2025_01.xlsx
+2025-01-12,Mal əti,Ət,15.8,16.8,sales_2025_01.xlsx
+2025-01-12,Mandarin,Meyvə-tərəvəz,19.5,3.5,sales_2025_01.xlsx
+2025-01-12,Peçenye 300q,Şirniyyat,20.0,2.5,sales_2025_01.xlsx
+2025-01-12,Pomidor,Meyvə-tərəvəz,10.8,2.8,sales_2025_01.xlsx
+2025-01-12,Qara çay 100q,Çay və qəhvə,33.0,3.1,sales_2025_01.xlsx
+2025-01-12,Qatıq 0.5kq,Süd məhsulları,15.0,1.4,sales_2025_01.xlsx
+2025-01-12,Qoyun əti,Ət,4.9,18.2,sales_2025_01.xlsx
+2025-01-12,Qəhvə 100q,Çay və qəhvə,15.0,4.9,sales_2025_01.xlsx
+2025-01-12,Su 1.5L,İçkilər,42.0,0.7,sales_2025_01.xlsx
+2025-01-12,Süd 1L,Süd məhsulları,47.0,1.7,sales_2025_01.xlsx
+2025-01-12,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-12,Toyuq,Ət,7.9,7.7,sales_2025_01.xlsx
+2025-01-12,Yaşıl çay 100q,Çay və qəhvə,16.0,3.5,sales_2025_01.xlsx
+2025-01-12,Yumurta 10 əd,Süd məhsulları,15.0,2.65,sales_2025_01.xlsx
+2025-01-12,Şokolad,Şirniyyat,18.0,2.1,sales_2025_01.xlsx
+2025-01-12,Şəkər 1kq,Bakaleya,18.0,2.25,sales_2025_01.xlsx
+2025-01-13,Alma,Meyvə-tərəvəz,5.7,2.5,sales_2025_01.xlsx
+2025-01-13,Ağ pendir,Süd məhsulları,4.7,10.5,sales_2025_01.xlsx
+2025-01-13,Ağ çörək,Çörək,68.0,0.7,sales_2025_01.xlsx
+2025-01-13,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-13,Dondurma plombir,Dondurma,2.0,1.1,sales_2025_01.xlsx
+2025-01-13,Düyü 1kq,Bakaleya,14.0,3.35,sales_2025_01.xlsx
+2025-01-13,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-13,Kefir 1L,Süd məhsulları,22.0,1.8,sales_2025_01.xlsx
+2025-01-13,Konfet,Şirniyyat,4.4,12.6,sales_2025_01.xlsx
+2025-01-13,Kərə yağı 200q,Süd məhsulları,17.0,3.9,sales_2025_01.xlsx
+2025-01-13,Lavaş,Çörək,57.0,0.55,sales_2025_01.xlsx
+2025-01-13,Limonad 1L,İçkilər,11.0,1.55,sales_2025_01.xlsx
+2025-01-13,Makaron 400q,Bakaleya,12.0,1.55,sales_2025_01.xlsx
+2025-01-13,Mal əti,Ət,3.1,16.8,sales_2025_01.xlsx
+2025-01-13,Mandarin,Meyvə-tərəvəz,9.7,3.5,sales_2025_01.xlsx
+2025-01-13,Peçenye 300q,Şirniyyat,18.0,2.5,sales_2025_01.xlsx
+2025-01-13,Pomidor,Meyvə-tərəvəz,5.8,2.8,sales_2025_01.xlsx
+2025-01-13,Qara çay 100q,Çay və qəhvə,17.0,3.1,sales_2025_01.xlsx
+2025-01-13,Qatıq 0.5kq,Süd məhsulları,9.0,1.4,sales_2025_01.xlsx
+2025-01-13,Qoyun əti,Ət,5.1,18.2,sales_2025_01.xlsx
+2025-01-13,Qəhvə 100q,Çay və qəhvə,14.0,4.9,sales_2025_01.xlsx
+2025-01-13,Su 1.5L,İçkilər,35.0,0.7,sales_2025_01.xlsx
+2025-01-13,Süd 1L,Süd məhsulları,46.0,1.7,sales_2025_01.xlsx
+2025-01-13,Toyuq,Ət,6.7,7.7,sales_2025_01.xlsx
+2025-01-13,Yaşıl çay 100q,Çay və qəhvə,11.0,3.5,sales_2025_01.xlsx
+2025-01-13,Yumurta 10 əd,Süd məhsulları,19.0,2.65,sales_2025_01.xlsx
+2025-01-13,Şokolad,Şirniyyat,18.0,2.1,sales_2025_01.xlsx
+2025-01-13,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-14,Alma,Meyvə-tərəvəz,39.3,2.5,sales_2025_01.xlsx
+2025-01-14,Ağ pendir,Süd məhsulları,5.4,10.5,sales_2025_01.xlsx
+2025-01-14,Ağ çörək,Çörək,78.0,0.7,sales_2025_01.xlsx
+2025-01-14,Dondurma eskimo,Dondurma,6.0,1.0,sales_2025_01.xlsx
+2025-01-14,Dondurma plombir,Dondurma,3.0,1.1,sales_2025_01.xlsx
+2025-01-14,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-14,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-14,Kefir 1L,Süd məhsulları,15.0,1.8,sales_2025_01.xlsx
+2025-01-14,Konfet,Şirniyyat,0.7,12.6,sales_2025_01.xlsx
+2025-01-14,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-14,Lavaş,Çörək,48.0,0.55,sales_2025_01.xlsx
+2025-01-14,Limonad 1L,İçkilər,18.0,1.55,sales_2025_01.xlsx
+2025-01-14,Makaron 400q,Bakaleya,13.0,1.55,sales_2025_01.xlsx
+2025-01-14,Mal əti,Ət,11.3,16.8,sales_2025_01.xlsx
+2025-01-14,Mandarin,Meyvə-tərəvəz,14.2,3.5,sales_2025_01.xlsx
+2025-01-14,Peçenye 300q,Şirniyyat,13.0,2.5,sales_2025_01.xlsx
+2025-01-14,Pomidor,Meyvə-tərəvəz,7.8,2.8,sales_2025_01.xlsx
+2025-01-14,Qara çay 100q,Çay və qəhvə,21.0,3.1,sales_2025_01.xlsx
+2025-01-14,Qatıq 0.5kq,Süd məhsulları,10.0,1.4,sales_2025_01.xlsx
+2025-01-14,Qoyun əti,Ət,6.5,18.2,sales_2025_01.xlsx
+2025-01-14,Qəhvə 100q,Çay və qəhvə,5.0,4.9,sales_2025_01.xlsx
+2025-01-14,Su 1.5L,İçkilər,32.0,0.7,sales_2025_01.xlsx
+2025-01-14,Süd 1L,Süd məhsulları,42.0,1.7,sales_2025_01.xlsx
+2025-01-14,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-14,Toyuq,Ət,15.1,7.7,sales_2025_01.xlsx
+2025-01-14,Yaşıl çay 100q,Çay və qəhvə,4.0,3.5,sales_2025_01.xlsx
+2025-01-14,Yumurta 10 əd,Süd məhsulları,14.0,2.65,sales_2025_01.xlsx
+2025-01-14,Şokolad,Şirniyyat,18.0,2.1,sales_2025_01.xlsx
+2025-01-14,Şəkər 1kq,Bakaleya,16.0,2.25,sales_2025_01.xlsx
+2025-01-15,Alma,Meyvə-tərəvəz,8.8,2.5,sales_2025_01.xlsx
+2025-01-15,Ağ pendir,Süd məhsulları,5.7,10.5,sales_2025_01.xlsx
+2025-01-15,Ağ çörək,Çörək,88.0,0.7,sales_2025_01.xlsx
+2025-01-15,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-15,Dondurma plombir,Dondurma,3.0,1.1,sales_2025_01.xlsx
+2025-01-15,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-15,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-15,Kefir 1L,Süd məhsulları,15.0,1.8,sales_2025_01.xlsx
+2025-01-15,Konfet,Şirniyyat,4.6,12.6,sales_2025_01.xlsx
+2025-01-15,Kərə yağı 200q,Süd məhsulları,15.0,3.9,sales_2025_01.xlsx
+2025-01-15,Lavaş,Çörək,45.0,0.55,sales_2025_01.xlsx
+2025-01-15,Limonad 1L,İçkilər,16.0,1.55,sales_2025_01.xlsx
+2025-01-15,Makaron 400q,Bakaleya,10.0,1.55,sales_2025_01.xlsx
+2025-01-15,Mal əti,Ət,2.9,16.8,sales_2025_01.xlsx
+2025-01-15,Mandarin,Meyvə-tərəvəz,6.1,3.5,sales_2025_01.xlsx
+2025-01-15,Peçenye 300q,Şirniyyat,9.0,2.5,sales_2025_01.xlsx
+2025-01-15,Pomidor,Meyvə-tərəvəz,5.3,2.8,sales_2025_01.xlsx
+2025-01-15,Qara çay 100q,Çay və qəhvə,28.0,3.1,sales_2025_01.xlsx
+2025-01-15,Qatıq 0.5kq,Süd məhsulları,14.0,1.4,sales_2025_01.xlsx
+2025-01-15,Qoyun əti,Ət,1.6,18.2,sales_2025_01.xlsx
+2025-01-15,Qəhvə 100q,Çay və qəhvə,14.0,4.9,sales_2025_01.xlsx
+2025-01-15,Su 1.5L,İçkilər,32.0,0.7,sales_2025_01.xlsx
+2025-01-15,Süd 1L,Süd məhsulları,34.0,1.7,sales_2025_01.xlsx
+2025-01-15,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-15,Toyuq,Ət,8.9,7.7,sales_2025_01.xlsx
+2025-01-15,Yaşıl çay 100q,Çay və qəhvə,3.0,3.5,sales_2025_01.xlsx
+2025-01-15,Yumurta 10 əd,Süd məhsulları,23.0,2.65,sales_2025_01.xlsx
+2025-01-15,Şokolad,Şirniyyat,16.0,2.1,sales_2025_01.xlsx
+2025-01-15,Şəkər 1kq,Bakaleya,18.0,2.25,sales_2025_01.xlsx
+2025-01-16,Alma,Meyvə-tərəvəz,10.5,2.5,sales_2025_01.xlsx
+2025-01-16,Ağ pendir,Süd məhsulları,4.3,10.5,sales_2025_01.xlsx
+2025-01-16,Ağ çörək,Çörək,62.0,0.7,sales_2025_01.xlsx
+2025-01-16,Dondurma eskimo,Dondurma,8.0,1.0,sales_2025_01.xlsx
+2025-01-16,Dondurma plombir,Dondurma,4.0,1.1,sales_2025_01.xlsx
+2025-01-16,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-16,Günəbaxan yağı 1L,Bakaleya,12.0,4.05,sales_2025_01.xlsx
+2025-01-16,Kefir 1L,Süd məhsulları,19.0,1.8,sales_2025_01.xlsx
+2025-01-16,Konfet,Şirniyyat,2.6,12.6,sales_2025_01.xlsx
+2025-01-16,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-16,Lavaş,Çörək,42.0,0.55,sales_2025_01.xlsx
+2025-01-16,Limonad 1L,İçkilər,15.0,1.55,sales_2025_01.xlsx
+2025-01-16,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-16,Mal əti,Ət,7.0,16.8,sales_2025_01.xlsx
+2025-01-16,Mandarin,Meyvə-tərəvəz,4.2,3.5,sales_2025_01.xlsx
+2025-01-16,Peçenye 300q,Şirniyyat,14.0,2.5,sales_2025_01.xlsx
+2025-01-16,Pomidor,Meyvə-tərəvəz,9.6,2.8,sales_2025_01.xlsx
+2025-01-16,Qara çay 100q,Çay və qəhvə,23.0,3.1,sales_2025_01.xlsx
+2025-01-16,Qatıq 0.5kq,Süd məhsulları,19.0,1.4,sales_2025_01.xlsx
+2025-01-16,Qoyun əti,Ət,4.5,18.2,sales_2025_01.xlsx
+2025-01-16,Qəhvə 100q,Çay və qəhvə,9.0,4.9,sales_2025_01.xlsx
+2025-01-16,Su 1.5L,İçkilər,30.0,0.7,sales_2025_01.xlsx
+2025-01-16,Süd 1L,Süd məhsulları,43.0,1.7,sales_2025_01.xlsx
+2025-01-16,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-16,Toyuq,Ət,22.6,7.7,sales_2025_01.xlsx
+2025-01-16,Yaşıl çay 100q,Çay və qəhvə,11.0,3.5,sales_2025_01.xlsx
+2025-01-16,Yumurta 10 əd,Süd məhsulları,16.0,2.65,sales_2025_01.xlsx
+2025-01-16,Şokolad,Şirniyyat,18.0,2.1,sales_2025_01.xlsx
+2025-01-16,Şəkər 1kq,Bakaleya,12.0,2.25,sales_2025_01.xlsx
+2025-01-17,Alma,Meyvə-tərəvəz,13.8,2.5,sales_2025_01.xlsx
+2025-01-17,Ağ pendir,Süd məhsulları,5.6,10.5,sales_2025_01.xlsx
+2025-01-17,Ağ çörək,Çörək,73.0,0.7,sales_2025_01.xlsx
+2025-01-17,Dondurma plombir,Dondurma,12.0,1.1,sales_2025_01.xlsx
+2025-01-17,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-17,Günəbaxan yağı 1L,Bakaleya,4.0,4.05,sales_2025_01.xlsx
+2025-01-17,Kefir 1L,Süd məhsulları,32.0,1.8,sales_2025_01.xlsx
+2025-01-17,Konfet,Şirniyyat,1.5,12.6,sales_2025_01.xlsx
+2025-01-17,Kərə yağı 200q,Süd məhsulları,5.0,3.9,sales_2025_01.xlsx
+2025-01-17,Lavaş,Çörək,50.0,0.55,sales_2025_01.xlsx
+2025-01-17,Limonad 1L,İçkilər,12.0,1.55,sales_2025_01.xlsx
+2025-01-17,Makaron 400q,Bakaleya,14.0,1.55,sales_2025_01.xlsx
+2025-01-17,Mal əti,Ət,15.6,16.8,sales_2025_01.xlsx
+2025-01-17,Mandarin,Meyvə-tərəvəz,16.2,3.5,sales_2025_01.xlsx
+2025-01-17,Peçenye 300q,Şirniyyat,8.0,2.5,sales_2025_01.xlsx
+2025-01-17,Pomidor,Meyvə-tərəvəz,4.0,2.8,sales_2025_01.xlsx
+2025-01-17,Qara çay 100q,Çay və qəhvə,20.0,3.1,sales_2025_01.xlsx
+2025-01-17,Qatıq 0.5kq,Süd məhsulları,16.0,1.4,sales_2025_01.xlsx
+2025-01-17,Qoyun əti,Ət,2.1,18.2,sales_2025_01.xlsx
+2025-01-17,Qəhvə 100q,Çay və qəhvə,19.0,4.9,sales_2025_01.xlsx
+2025-01-17,Su 1.5L,İçkilər,32.0,0.7,sales_2025_01.xlsx
+2025-01-17,Süd 1L,Süd məhsulları,54.0,1.7,sales_2025_01.xlsx
+2025-01-17,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-17,Toyuq,Ət,14.0,7.7,sales_2025_01.xlsx
+2025-01-17,Yaşıl çay 100q,Çay və qəhvə,3.0,3.5,sales_2025_01.xlsx
+2025-01-17,Yumurta 10 əd,Süd məhsulları,7.0,2.65,sales_2025_01.xlsx
+2025-01-17,Şokolad,Şirniyyat,20.0,2.1,sales_2025_01.xlsx
+2025-01-17,Şəkər 1kq,Bakaleya,3.0,2.25,sales_2025_01.xlsx
+2025-01-18,Alma,Meyvə-tərəvəz,14.8,2.5,sales_2025_01.xlsx
+2025-01-18,Ağ pendir,Süd məhsulları,3.6,10.5,sales_2025_01.xlsx
+2025-01-18,Ağ çörək,Çörək,90.0,0.7,sales_2025_01.xlsx
+2025-01-18,Dondurma eskimo,Dondurma,5.0,1.0,sales_2025_01.xlsx
+2025-01-18,Dondurma plombir,Dondurma,8.0,1.1,sales_2025_01.xlsx
+2025-01-18,Düyü 1kq,Bakaleya,9.0,3.35,sales_2025_01.xlsx
+2025-01-18,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-18,Kefir 1L,Süd məhsulları,20.0,1.8,sales_2025_01.xlsx
+2025-01-18,Konfet,Şirniyyat,5.3,12.6,sales_2025_01.xlsx
+2025-01-18,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-18,Lavaş,Çörək,67.0,0.55,sales_2025_01.xlsx
+2025-01-18,Limonad 1L,İçkilər,14.0,1.55,sales_2025_01.xlsx
+2025-01-18,Makaron 400q,Bakaleya,19.0,1.55,sales_2025_01.xlsx
+2025-01-18,Mal əti,Ət,9.7,16.8,sales_2025_01.xlsx
+2025-01-18,Mandarin,Meyvə-tərəvəz,8.8,3.5,sales_2025_01.xlsx
+2025-01-18,Peçenye 300q,Şirniyyat,13.0,2.5,sales_2025_01.xlsx
+2025-01-18,Pomidor,Meyvə-tərəvəz,11.6,2.8,sales_2025_01.xlsx
+2025-01-18,Qara çay 100q,Çay və qəhvə,24.0,3.1,sales_2025_01.xlsx
+2025-01-18,Qatıq 0.5kq,Süd məhsulları,14.0,1.4,sales_2025_01.xlsx
+2025-01-18,Qoyun əti,Ət,4.1,18.2,sales_2025_01.xlsx
+2025-01-18,Qəhvə 100q,Çay və qəhvə,11.0,4.9,sales_2025_01.xlsx
+2025-01-18,Su 1.5L,İçkilər,37.0,0.7,sales_2025_01.xlsx
+2025-01-18,Süd 1L,Süd məhsulları,40.0,1.7,sales_2025_01.xlsx
+2025-01-18,Tort,Şirniyyat,4.0,16.8,sales_2025_01.xlsx
+2025-01-18,Toyuq,Ət,10.4,7.7,sales_2025_01.xlsx
+2025-01-18,Yaşıl çay 100q,Çay və qəhvə,6.0,3.5,sales_2025_01.xlsx
+2025-01-18,Yumurta 10 əd,Süd məhsulları,20.0,2.65,sales_2025_01.xlsx
+2025-01-18,Şokolad,Şirniyyat,20.0,2.1,sales_2025_01.xlsx
+2025-01-18,Şəkər 1kq,Bakaleya,19.0,2.25,sales_2025_01.xlsx
+2025-01-19,Alma,Meyvə-tərəvəz,12.8,2.5,sales_2025_01.xlsx
+2025-01-19,Ağ pendir,Süd məhsulları,7.3,10.5,sales_2025_01.xlsx
+2025-01-19,Ağ çörək,Çörək,103.0,0.7,sales_2025_01.xlsx
+2025-01-19,Dondurma eskimo,Dondurma,2.0,1.0,sales_2025_01.xlsx
+2025-01-19,Dondurma plombir,Dondurma,8.0,1.1,sales_2025_01.xlsx
+2025-01-19,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-19,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-19,Kefir 1L,Süd məhsulları,18.0,1.8,sales_2025_01.xlsx
+2025-01-19,Konfet,Şirniyyat,1.8,12.6,sales_2025_01.xlsx
+2025-01-19,Kərə yağı 200q,Süd məhsulları,15.0,3.9,sales_2025_01.xlsx
+2025-01-19,Lavaş,Çörək,78.0,0.55,sales_2025_01.xlsx
+2025-01-19,Limonad 1L,İçkilər,17.0,1.55,sales_2025_01.xlsx
+2025-01-19,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-19,Mal əti,Ət,7.1,16.8,sales_2025_01.xlsx
+2025-01-19,Mandarin,Meyvə-tərəvəz,22.3,3.5,sales_2025_01.xlsx
+2025-01-19,Peçenye 300q,Şirniyyat,19.0,2.5,sales_2025_01.xlsx
+2025-01-19,Pomidor,Meyvə-tərəvəz,18.3,2.8,sales_2025_01.xlsx
+2025-01-19,Qara çay 100q,Çay və qəhvə,24.0,3.1,sales_2025_01.xlsx
+2025-01-19,Qatıq 0.5kq,Süd məhsulları,18.0,1.4,sales_2025_01.xlsx
+2025-01-19,Qoyun əti,Ət,10.9,18.2,sales_2025_01.xlsx
+2025-01-19,Qəhvə 100q,Çay və qəhvə,10.0,4.9,sales_2025_01.xlsx
+2025-01-19,Su 1.5L,İçkilər,31.0,0.7,sales_2025_01.xlsx
+2025-01-19,Süd 1L,Süd məhsulları,42.0,1.7,sales_2025_01.xlsx
+2025-01-19,Tort,Şirniyyat,4.0,16.8,sales_2025_01.xlsx
+2025-01-19,Toyuq,Ət,14.3,7.7,sales_2025_01.xlsx
+2025-01-19,Yaşıl çay 100q,Çay və qəhvə,3.0,3.5,sales_2025_01.xlsx
+2025-01-19,Yumurta 10 əd,Süd məhsulları,19.0,2.65,sales_2025_01.xlsx
+2025-01-19,Şokolad,Şirniyyat,33.0,2.1,sales_2025_01.xlsx
+2025-01-19,Şəkər 1kq,Bakaleya,17.0,2.25,sales_2025_01.xlsx
+2025-01-20,Alma,Meyvə-tərəvəz,11.4,2.5,sales_2025_01.xlsx
+2025-01-20,Ağ pendir,Süd məhsulları,7.3,10.5,sales_2025_01.xlsx
+2025-01-20,Ağ çörək,Çörək,83.0,0.7,sales_2025_01.xlsx
+2025-01-20,Dondurma eskimo,Dondurma,7.0,1.0,sales_2025_01.xlsx
+2025-01-20,Dondurma plombir,Dondurma,9.0,1.1,sales_2025_01.xlsx
+2025-01-20,Düyü 1kq,Bakaleya,15.0,3.35,sales_2025_01.xlsx
+2025-01-20,Günəbaxan yağı 1L,Bakaleya,10.0,4.05,sales_2025_01.xlsx
+2025-01-20,Kefir 1L,Süd məhsulları,16.0,1.8,sales_2025_01.xlsx
+2025-01-20,Konfet,Şirniyyat,4.4,12.6,sales_2025_01.xlsx
+2025-01-20,Kərə yağı 200q,Süd məhsulları,10.0,3.9,sales_2025_01.xlsx
+2025-01-20,Lavaş,Çörək,47.0,0.55,sales_2025_01.xlsx
+2025-01-20,Limonad 1L,İçkilər,13.0,1.55,sales_2025_01.xlsx
+2025-01-20,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-20,Mal əti,Ət,9.7,16.8,sales_2025_01.xlsx
+2025-01-20,Mandarin,Meyvə-tərəvəz,4.8,3.5,sales_2025_01.xlsx
+2025-01-20,Peçenye 300q,Şirniyyat,16.0,2.5,sales_2025_01.xlsx
+2025-01-20,Pomidor,Meyvə-tərəvəz,7.5,2.8,sales_2025_01.xlsx
+2025-01-20,Qara çay 100q,Çay və qəhvə,19.0,3.1,sales_2025_01.xlsx
+2025-01-20,Qatıq 0.5kq,Süd məhsulları,13.0,1.4,sales_2025_01.xlsx
+2025-01-20,Qoyun əti,Ət,5.0,18.2,sales_2025_01.xlsx
+2025-01-20,Qəhvə 100q,Çay və qəhvə,11.0,4.9,sales_2025_01.xlsx
+2025-01-20,Su 1.5L,İçkilər,24.0,0.7,sales_2025_01.xlsx
+2025-01-20,Süd 1L,Süd məhsulları,36.0,1.7,sales_2025_01.xlsx
+2025-01-20,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-20,Toyuq,Ət,17.7,7.7,sales_2025_01.xlsx
+2025-01-20,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-20,Yumurta 10 əd,Süd məhsulları,11.0,2.65,sales_2025_01.xlsx
+2025-01-20,Şokolad,Şirniyyat,13.0,2.1,sales_2025_01.xlsx
+2025-01-20,Şəkər 1kq,Bakaleya,13.0,2.25,sales_2025_01.xlsx
+2025-01-21,Alma,Meyvə-tərəvəz,8.8,2.5,sales_2025_01.xlsx
+2025-01-21,Ağ pendir,Süd məhsulları,8.8,10.5,sales_2025_01.xlsx
+2025-01-21,Ağ çörək,Çörək,77.0,0.7,sales_2025_01.xlsx
+2025-01-21,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-21,Dondurma plombir,Dondurma,5.0,1.1,sales_2025_01.xlsx
+2025-01-21,Düyü 1kq,Bakaleya,7.0,3.35,sales_2025_01.xlsx
+2025-01-21,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-21,Kefir 1L,Süd məhsulları,18.0,1.8,sales_2025_01.xlsx
+2025-01-21,Konfet,Şirniyyat,2.1,12.6,sales_2025_01.xlsx
+2025-01-21,Kərə yağı 200q,Süd məhsulları,9.0,3.9,sales_2025_01.xlsx
+2025-01-21,Lavaş,Çörək,53.0,0.55,sales_2025_01.xlsx
+2025-01-21,Limonad 1L,İçkilər,12.0,1.55,sales_2025_01.xlsx
+2025-01-21,Makaron 400q,Bakaleya,10.0,1.55,sales_2025_01.xlsx
+2025-01-21,Mal əti,Ət,9.6,16.8,sales_2025_01.xlsx
+2025-01-21,Mandarin,Meyvə-tərəvəz,6.4,3.5,sales_2025_01.xlsx
+2025-01-21,Peçenye 300q,Şirniyyat,11.0,2.5,sales_2025_01.xlsx
+2025-01-21,Pomidor,Meyvə-tərəvəz,5.5,2.8,sales_2025_01.xlsx
+2025-01-21,Qara çay 100q,Çay və qəhvə,14.0,3.1,sales_2025_01.xlsx
+2025-01-21,Qatıq 0.5kq,Süd məhsulları,15.0,1.4,sales_2025_01.xlsx
+2025-01-21,Qoyun əti,Ət,8.4,18.2,sales_2025_01.xlsx
+2025-01-21,Qəhvə 100q,Çay və qəhvə,8.0,4.9,sales_2025_01.xlsx
+2025-01-21,Su 1.5L,İçkilər,32.0,0.7,sales_2025_01.xlsx
+2025-01-21,Süd 1L,Süd məhsulları,25.0,1.7,sales_2025_01.xlsx
+2025-01-21,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-21,Toyuq,Ət,8.3,7.7,sales_2025_01.xlsx
+2025-01-21,Yaşıl çay 100q,Çay və qəhvə,6.0,3.5,sales_2025_01.xlsx
+2025-01-21,Yumurta 10 əd,Süd məhsulları,13.0,2.65,sales_2025_01.xlsx
+2025-01-21,Şokolad,Şirniyyat,19.0,2.1,sales_2025_01.xlsx
+2025-01-21,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-22,Alma,Meyvə-tərəvəz,13.4,2.5,sales_2025_01.xlsx
+2025-01-22,Ağ pendir,Süd məhsulları,11.8,10.5,sales_2025_01.xlsx
+2025-01-22,Ağ çörək,Çörək,74.0,0.7,sales_2025_01.xlsx
+2025-01-22,Dondurma plombir,Dondurma,7.0,1.1,sales_2025_01.xlsx
+2025-01-22,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-22,Günəbaxan yağı 1L,Bakaleya,12.0,4.05,sales_2025_01.xlsx
+2025-01-22,Kefir 1L,Süd məhsulları,13.0,1.8,sales_2025_01.xlsx
+2025-01-22,Konfet,Şirniyyat,2.3,12.6,sales_2025_01.xlsx
+2025-01-22,Kərə yağı 200q,Süd məhsulları,12.0,3.9,sales_2025_01.xlsx
+2025-01-22,Lavaş,Çörək,55.0,0.55,sales_2025_01.xlsx
+2025-01-22,Limonad 1L,İçkilər,18.0,1.55,sales_2025_01.xlsx
+2025-01-22,Makaron 400q,Bakaleya,12.0,1.55,sales_2025_01.xlsx
+2025-01-22,Mal əti,Ət,2.8,16.8,sales_2025_01.xlsx
+2025-01-22,Mandarin,Meyvə-tərəvəz,7.3,3.5,sales_2025_01.xlsx
+2025-01-22,Peçenye 300q,Şirniyyat,13.0,2.5,sales_2025_01.xlsx
+2025-01-22,Pomidor,Meyvə-tərəvəz,13.6,2.8,sales_2025_01.xlsx
+2025-01-22,Qara çay 100q,Çay və qəhvə,19.0,3.1,sales_2025_01.xlsx
+2025-01-22,Qatıq 0.5kq,Süd məhsulları,14.0,1.4,sales_2025_01.xlsx
+2025-01-22,Qoyun əti,Ət,3.3,18.2,sales_2025_01.xlsx
+2025-01-22,Qəhvə 100q,Çay və qəhvə,12.0,4.9,sales_2025_01.xlsx
+2025-01-22,Su 1.5L,İçkilər,36.0,0.7,sales_2025_01.xlsx
+2025-01-22,Süd 1L,Süd məhsulları,45.0,1.7,sales_2025_01.xlsx
+2025-01-22,Tort,Şirniyyat,4.0,16.8,sales_2025_01.xlsx
+2025-01-22,Toyuq,Ət,8.9,7.7,sales_2025_01.xlsx
+2025-01-22,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-22,Yumurta 10 əd,Süd məhsulları,9.0,2.65,sales_2025_01.xlsx
+2025-01-22,Şokolad,Şirniyyat,16.0,2.1,sales_2025_01.xlsx
+2025-01-22,Şəkər 1kq,Bakaleya,13.0,2.25,sales_2025_01.xlsx
+2025-01-23,Alma,Meyvə-tərəvəz,14.3,2.5,sales_2025_01.xlsx
+2025-01-23,Ağ pendir,Süd məhsulları,3.2,10.5,sales_2025_01.xlsx
+2025-01-23,Ağ çörək,Çörək,81.0,0.7,sales_2025_01.xlsx
+2025-01-23,Dondurma eskimo,Dondurma,2.0,1.0,sales_2025_01.xlsx
+2025-01-23,Dondurma plombir,Dondurma,4.0,1.1,sales_2025_01.xlsx
+2025-01-23,Düyü 1kq,Bakaleya,18.0,3.35,sales_2025_01.xlsx
+2025-01-23,Günəbaxan yağı 1L,Bakaleya,9.0,4.05,sales_2025_01.xlsx
+2025-01-23,Kefir 1L,Süd məhsulları,20.0,1.8,sales_2025_01.xlsx
+2025-01-23,Konfet,Şirniyyat,3.3,12.6,sales_2025_01.xlsx
+2025-01-23,Kərə yağı 200q,Süd məhsulları,16.0,3.9,sales_2025_01.xlsx
+2025-01-23,Lavaş,Çörək,54.0,0.55,sales_2025_01.xlsx
+2025-01-23,Limonad 1L,İçkilər,19.0,1.55,sales_2025_01.xlsx
+2025-01-23,Makaron 400q,Bakaleya,18.0,1.55,sales_2025_01.xlsx
+2025-01-23,Mal əti,Ət,7.2,16.8,sales_2025_01.xlsx
+2025-01-23,Mandarin,Meyvə-tərəvəz,15.5,3.5,sales_2025_01.xlsx
+2025-01-23,Peçenye 300q,Şirniyyat,12.0,2.5,sales_2025_01.xlsx
+2025-01-23,Pomidor,Meyvə-tərəvəz,19.5,2.8,sales_2025_01.xlsx
+2025-01-23,Qara çay 100q,Çay və qəhvə,14.0,3.1,sales_2025_01.xlsx
+2025-01-23,Qatıq 0.5kq,Süd məhsulları,15.0,1.4,sales_2025_01.xlsx
+2025-01-23,Qoyun əti,Ət,8.6,18.2,sales_2025_01.xlsx
+2025-01-23,Qəhvə 100q,Çay və qəhvə,5.0,4.9,sales_2025_01.xlsx
+2025-01-23,Su 1.5L,İçkilər,30.0,0.7,sales_2025_01.xlsx
+2025-01-23,Süd 1L,Süd məhsulları,45.0,1.7,sales_2025_01.xlsx
+2025-01-23,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-23,Toyuq,Ət,8.7,7.7,sales_2025_01.xlsx
+2025-01-23,Yaşıl çay 100q,Çay və qəhvə,5.0,3.5,sales_2025_01.xlsx
+2025-01-23,Yumurta 10 əd,Süd məhsulları,16.0,2.65,sales_2025_01.xlsx
+2025-01-23,Şokolad,Şirniyyat,25.0,2.1,sales_2025_01.xlsx
+2025-01-23,Şəkər 1kq,Bakaleya,6.0,2.25,sales_2025_01.xlsx
+2025-01-24,Alma,Meyvə-tərəvəz,9.7,2.5,sales_2025_01.xlsx
+2025-01-24,Ağ pendir,Süd məhsulları,1.0,10.5,sales_2025_01.xlsx
+2025-01-24,Ağ çörək,Çörək,78.0,0.7,sales_2025_01.xlsx
+2025-01-24,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-24,Dondurma plombir,Dondurma,10.0,1.1,sales_2025_01.xlsx
+2025-01-24,Düyü 1kq,Bakaleya,10.0,3.35,sales_2025_01.xlsx
+2025-01-24,Günəbaxan yağı 1L,Bakaleya,4.0,4.05,sales_2025_01.xlsx
+2025-01-24,Kefir 1L,Süd məhsulları,6.0,1.8,sales_2025_01.xlsx
+2025-01-24,Konfet,Şirniyyat,2.3,12.6,sales_2025_01.xlsx
+2025-01-24,Kərə yağı 200q,Süd məhsulları,15.0,3.9,sales_2025_01.xlsx
+2025-01-24,Lavaş,Çörək,61.0,0.55,sales_2025_01.xlsx
+2025-01-24,Limonad 1L,İçkilər,17.0,1.55,sales_2025_01.xlsx
+2025-01-24,Makaron 400q,Bakaleya,19.0,1.55,sales_2025_01.xlsx
+2025-01-24,Mal əti,Ət,2.9,16.8,sales_2025_01.xlsx
+2025-01-24,Mandarin,Meyvə-tərəvəz,6.1,3.5,sales_2025_01.xlsx
+2025-01-24,Peçenye 300q,Şirniyyat,13.0,2.5,sales_2025_01.xlsx
+2025-01-24,Pomidor,Meyvə-tərəvəz,20.6,2.8,sales_2025_01.xlsx
+2025-01-24,Qara çay 100q,Çay və qəhvə,26.0,3.1,sales_2025_01.xlsx
+2025-01-24,Qatıq 0.5kq,Süd məhsulları,11.0,1.4,sales_2025_01.xlsx
+2025-01-24,Qoyun əti,Ət,3.3,18.2,sales_2025_01.xlsx
+2025-01-24,Qəhvə 100q,Çay və qəhvə,6.0,4.9,sales_2025_01.xlsx
+2025-01-24,Su 1.5L,İçkilər,17.0,0.7,sales_2025_01.xlsx
+2025-01-24,Süd 1L,Süd məhsulları,37.0,1.7,sales_2025_01.xlsx
+2025-01-24,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-24,Toyuq,Ət,13.1,7.7,sales_2025_01.xlsx
+2025-01-24,Yaşıl çay 100q,Çay və qəhvə,10.0,3.5,sales_2025_01.xlsx
+2025-01-24,Yumurta 10 əd,Süd məhsulları,13.0,2.65,sales_2025_01.xlsx
+2025-01-24,Şokolad,Şirniyyat,15.0,2.1,sales_2025_01.xlsx
+2025-01-24,Şəkər 1kq,Bakaleya,14.0,2.25,sales_2025_01.xlsx
+2025-01-25,Alma,Meyvə-tərəvəz,20.1,2.5,sales_2025_01.xlsx
+2025-01-25,Ağ pendir,Süd məhsulları,5.9,10.5,sales_2025_01.xlsx
+2025-01-25,Ağ çörək,Çörək,107.0,0.7,sales_2025_01.xlsx
+2025-01-25,Dondurma eskimo,Dondurma,5.0,1.0,sales_2025_01.xlsx
+2025-01-25,Dondurma plombir,Dondurma,3.0,1.1,sales_2025_01.xlsx
+2025-01-25,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-25,Günəbaxan yağı 1L,Bakaleya,10.0,4.05,sales_2025_01.xlsx
+2025-01-25,Kefir 1L,Süd məhsulları,22.0,1.8,sales_2025_01.xlsx
+2025-01-25,Konfet,Şirniyyat,5.6,12.6,sales_2025_01.xlsx
+2025-01-25,Kərə yağı 200q,Süd məhsulları,16.0,3.9,sales_2025_01.xlsx
+2025-01-25,Lavaş,Çörək,64.0,0.55,sales_2025_01.xlsx
+2025-01-25,Limonad 1L,İçkilər,18.0,1.55,sales_2025_01.xlsx
+2025-01-25,Makaron 400q,Bakaleya,22.0,1.55,sales_2025_01.xlsx
+2025-01-25,Mal əti,Ət,10.4,16.8,sales_2025_01.xlsx
+2025-01-25,Mandarin,Meyvə-tərəvəz,10.9,3.5,sales_2025_01.xlsx
+2025-01-25,Peçenye 300q,Şirniyyat,15.0,2.5,sales_2025_01.xlsx
+2025-01-25,Pomidor,Meyvə-tərəvəz,9.9,2.8,sales_2025_01.xlsx
+2025-01-25,Qara çay 100q,Çay və qəhvə,24.0,3.1,sales_2025_01.xlsx
+2025-01-25,Qatıq 0.5kq,Süd məhsulları,14.0,1.4,sales_2025_01.xlsx
+2025-01-25,Qoyun əti,Ət,4.4,18.2,sales_2025_01.xlsx
+2025-01-25,Qəhvə 100q,Çay və qəhvə,16.0,4.9,sales_2025_01.xlsx
+2025-01-25,Su 1.5L,İçkilər,48.0,0.7,sales_2025_01.xlsx
+2025-01-25,Süd 1L,Süd məhsulları,47.0,1.7,sales_2025_01.xlsx
+2025-01-25,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-25,Toyuq,Ət,11.9,7.7,sales_2025_01.xlsx
+2025-01-25,Yaşıl çay 100q,Çay və qəhvə,9.0,3.5,sales_2025_01.xlsx
+2025-01-25,Yumurta 10 əd,Süd məhsulları,23.0,2.65,sales_2025_01.xlsx
+2025-01-25,Şokolad,Şirniyyat,21.0,2.1,sales_2025_01.xlsx
+2025-01-25,Şəkər 1kq,Bakaleya,14.0,2.25,sales_2025_01.xlsx
+2025-01-26,Alma,Meyvə-tərəvəz,3.9,2.5,sales_2025_01.xlsx
+2025-01-26,Ağ pendir,Süd məhsulları,8.3,10.5,sales_2025_01.xlsx
+2025-01-26,Ağ çörək,Çörək,80.0,0.7,sales_2025_01.xlsx
+2025-01-26,Dondurma eskimo,Dondurma,7.0,1.0,sales_2025_01.xlsx
+2025-01-26,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-26,Düyü 1kq,Bakaleya,9.0,3.35,sales_2025_01.xlsx
+2025-01-26,Günəbaxan yağı 1L,Bakaleya,18.0,4.05,sales_2025_01.xlsx
+2025-01-26,Kefir 1L,Süd məhsulları,32.0,1.8,sales_2025_01.xlsx
+2025-01-26,Konfet,Şirniyyat,7.0,12.6,sales_2025_01.xlsx
+2025-01-26,Kərə yağı 200q,Süd məhsulları,12.0,3.9,sales_2025_01.xlsx
+2025-01-26,Lavaş,Çörək,78.0,0.55,sales_2025_01.xlsx
+2025-01-26,Limonad 1L,İçkilər,10.0,1.55,sales_2025_01.xlsx
+2025-01-26,Makaron 400q,Bakaleya,20.0,1.55,sales_2025_01.xlsx
+2025-01-26,Mal əti,Ət,8.1,16.8,sales_2025_01.xlsx
+2025-01-26,Mandarin,Meyvə-tərəvəz,1.4,3.5,sales_2025_01.xlsx
+2025-01-26,Peçenye 300q,Şirniyyat,19.0,2.5,sales_2025_01.xlsx
+2025-01-26,Pomidor,Meyvə-tərəvəz,12.9,2.8,sales_2025_01.xlsx
+2025-01-26,Qara çay 100q,Çay və qəhvə,27.0,3.1,sales_2025_01.xlsx
+2025-01-26,Qatıq 0.5kq,Süd məhsulları,16.0,1.4,sales_2025_01.xlsx
+2025-01-26,Qoyun əti,Ət,6.4,18.2,sales_2025_01.xlsx
+2025-01-26,Qəhvə 100q,Çay və qəhvə,9.0,4.9,sales_2025_01.xlsx
+2025-01-26,Su 1.5L,İçkilər,44.0,0.7,sales_2025_01.xlsx
+2025-01-26,Süd 1L,Süd məhsulları,56.0,1.7,sales_2025_01.xlsx
+2025-01-26,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-26,Toyuq,Ət,8.3,7.7,sales_2025_01.xlsx
+2025-01-26,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-26,Yumurta 10 əd,Süd məhsulları,20.0,2.65,sales_2025_01.xlsx
+2025-01-26,Şokolad,Şirniyyat,22.0,2.1,sales_2025_01.xlsx
+2025-01-26,Şəkər 1kq,Bakaleya,16.0,2.25,sales_2025_01.xlsx
+2025-01-27,Alma,Meyvə-tərəvəz,19.0,2.5,sales_2025_01.xlsx
+2025-01-27,Ağ pendir,Süd məhsulları,5.6,10.5,sales_2025_01.xlsx
+2025-01-27,Ağ çörək,Çörək,82.0,0.7,sales_2025_01.xlsx
+2025-01-27,Dondurma eskimo,Dondurma,4.0,1.0,sales_2025_01.xlsx
+2025-01-27,Dondurma plombir,Dondurma,5.0,1.1,sales_2025_01.xlsx
+2025-01-27,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-27,Günəbaxan yağı 1L,Bakaleya,8.0,4.05,sales_2025_01.xlsx
+2025-01-27,Kefir 1L,Süd məhsulları,12.0,1.8,sales_2025_01.xlsx
+2025-01-27,Konfet,Şirniyyat,6.3,12.6,sales_2025_01.xlsx
+2025-01-27,Kərə yağı 200q,Süd məhsulları,9.0,3.9,sales_2025_01.xlsx
+2025-01-27,Lavaş,Çörək,45.0,0.55,sales_2025_01.xlsx
+2025-01-27,Limonad 1L,İçkilər,19.0,1.55,sales_2025_01.xlsx
+2025-01-27,Makaron 400q,Bakaleya,11.0,1.55,sales_2025_01.xlsx
+2025-01-27,Mal əti,Ət,6.5,16.8,sales_2025_01.xlsx
+2025-01-27,Mandarin,Meyvə-tərəvəz,6.4,3.5,sales_2025_01.xlsx
+2025-01-27,Peçenye 300q,Şirniyyat,10.0,2.5,sales_2025_01.xlsx
+2025-01-27,Pomidor,Meyvə-tərəvəz,9.9,2.8,sales_2025_01.xlsx
+2025-01-27,Qara çay 100q,Çay və qəhvə,15.0,3.1,sales_2025_01.xlsx
+2025-01-27,Qatıq 0.5kq,Süd məhsulları,7.0,1.4,sales_2025_01.xlsx
+2025-01-27,Qoyun əti,Ət,3.7,18.2,sales_2025_01.xlsx
+2025-01-27,Qəhvə 100q,Çay və qəhvə,8.0,4.9,sales_2025_01.xlsx
+2025-01-27,Su 1.5L,İçkilər,30.0,0.7,sales_2025_01.xlsx
+2025-01-27,Süd 1L,Süd məhsulları,48.0,1.7,sales_2025_01.xlsx
+2025-01-27,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-27,Toyuq,Ət,9.4,7.7,sales_2025_01.xlsx
+2025-01-27,Yaşıl çay 100q,Çay və qəhvə,2.0,3.5,sales_2025_01.xlsx
+2025-01-27,Yumurta 10 əd,Süd məhsulları,15.0,2.65,sales_2025_01.xlsx
+2025-01-27,Şokolad,Şirniyyat,15.0,2.1,sales_2025_01.xlsx
+2025-01-27,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-28,Alma,Meyvə-tərəvəz,9.7,2.5,sales_2025_01.xlsx
+2025-01-28,Ağ pendir,Süd məhsulları,1.5,10.5,sales_2025_01.xlsx
+2025-01-28,Ağ çörək,Çörək,72.0,0.7,sales_2025_01.xlsx
+2025-01-28,Dondurma eskimo,Dondurma,5.0,1.0,sales_2025_01.xlsx
+2025-01-28,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-28,Düyü 1kq,Bakaleya,5.0,3.35,sales_2025_01.xlsx
+2025-01-28,Günəbaxan yağı 1L,Bakaleya,13.0,4.05,sales_2025_01.xlsx
+2025-01-28,Kefir 1L,Süd məhsulları,15.0,1.8,sales_2025_01.xlsx
+2025-01-28,Konfet,Şirniyyat,1.6,12.6,sales_2025_01.xlsx
+2025-01-28,Kərə yağı 200q,Süd məhsulları,13.0,3.9,sales_2025_01.xlsx
+2025-01-28,Lavaş,Çörək,42.0,0.55,sales_2025_01.xlsx
+2025-01-28,Limonad 1L,İçkilər,14.0,1.55,sales_2025_01.xlsx
+2025-01-28,Makaron 400q,Bakaleya,16.0,1.55,sales_2025_01.xlsx
+2025-01-28,Mal əti,Ət,12.8,16.8,sales_2025_01.xlsx
+2025-01-28,Mandarin,Meyvə-tərəvəz,13.9,3.5,sales_2025_01.xlsx
+2025-01-28,Peçenye 300q,Şirniyyat,9.0,2.5,sales_2025_01.xlsx
+2025-01-28,Pomidor,Meyvə-tərəvəz,15.9,2.8,sales_2025_01.xlsx
+2025-01-28,Qara çay 100q,Çay və qəhvə,22.0,3.1,sales_2025_01.xlsx
+2025-01-28,Qatıq 0.5kq,Süd məhsulları,10.0,1.4,sales_2025_01.xlsx
+2025-01-28,Qoyun əti,Ət,6.2,18.2,sales_2025_01.xlsx
+2025-01-28,Qəhvə 100q,Çay və qəhvə,12.0,4.9,sales_2025_01.xlsx
+2025-01-28,Su 1.5L,İçkilər,36.0,0.7,sales_2025_01.xlsx
+2025-01-28,Süd 1L,Süd məhsulları,47.0,1.7,sales_2025_01.xlsx
+2025-01-28,Tort,Şirniyyat,3.0,16.8,sales_2025_01.xlsx
+2025-01-28,Toyuq,Ət,8.0,7.7,sales_2025_01.xlsx
+2025-01-28,Yaşıl çay 100q,Çay və qəhvə,4.0,3.5,sales_2025_01.xlsx
+2025-01-28,Yumurta 10 əd,Süd məhsulları,11.0,2.65,sales_2025_01.xlsx
+2025-01-28,Şokolad,Şirniyyat,9.0,2.1,sales_2025_01.xlsx
+2025-01-28,Şəkər 1kq,Bakaleya,15.0,2.25,sales_2025_01.xlsx
+2025-01-29,Alma,Meyvə-tərəvəz,34.2,2.5,sales_2025_01.xlsx
+2025-01-29,Ağ pendir,Süd məhsulları,9.5,10.5,sales_2025_01.xlsx
+2025-01-29,Ağ çörək,Çörək,82.0,0.7,sales_2025_01.xlsx
+2025-01-29,Dondurma eskimo,Dondurma,3.0,1.0,sales_2025_01.xlsx
+2025-01-29,Düyü 1kq,Bakaleya,11.0,3.35,sales_2025_01.xlsx
+2025-01-29,Günəbaxan yağı 1L,Bakaleya,8.0,4.05,sales_2025_01.xlsx
+2025-01-29,Kefir 1L,Süd məhsulları,18.0,1.8,sales_2025_01.xlsx
+2025-01-29,Konfet,Şirniyyat,2.8,12.6,sales_2025_01.xlsx
+2025-01-29,Kərə yağı 200q,Süd məhsulları,9.0,3.9,sales_2025_01.xlsx
+2025-01-29,Lavaş,Çörək,51.0,0.55,sales_2025_01.xlsx
+2025-01-29,Limonad 1L,İçkilər,7.0,1.55,sales_2025_01.xlsx
+2025-01-29,Makaron 400q,Bakaleya,14.0,1.55,sales_2025_01.xlsx
+2025-01-29,Mal əti,Ət,10.6,16.8,sales_2025_01.xlsx
+2025-01-29,Mandarin,Meyvə-tərəvəz,8.3,3.5,sales_2025_01.xlsx
+2025-01-29,Peçenye 300q,Şirniyyat,15.0,2.5,sales_2025_01.xlsx
+2025-01-29,Pomidor,Meyvə-tərəvəz,17.4,2.8,sales_2025_01.xlsx
+2025-01-29,Qara çay 100q,Çay və qəhvə,25.0,3.1,sales_2025_01.xlsx
+2025-01-29,Qatıq 0.5kq,Süd məhsulları,9.0,1.4,sales_2025_01.xlsx
+2025-01-29,Qoyun əti,Ət,9.3,18.2,sales_2025_01.xlsx
+2025-01-29,Qəhvə 100q,Çay və qəhvə,17.0,4.9,sales_2025_01.xlsx
+2025-01-29,Su 1.5L,İçkilər,23.0,0.7,sales_2025_01.xlsx
+2025-01-29,Süd 1L,Süd məhsulları,45.0,1.7,sales_2025_01.xlsx
+2025-01-29,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-29,Toyuq,Ət,16.7,7.7,sales_2025_01.xlsx
+2025-01-29,Yaşıl çay 100q,Çay və qəhvə,10.0,3.5,sales_2025_01.xlsx
+2025-01-29,Yumurta 10 əd,Süd məhsulları,14.0,2.65,sales_2025_01.xlsx
+2025-01-29,Şokolad,Şirniyyat,19.0,2.1,sales_2025_01.xlsx
+2025-01-29,Şəkər 1kq,Bakaleya,16.0,2.25,sales_2025_01.xlsx
+2025-01-30,Alma,Meyvə-tərəvəz,14.8,2.5,sales_2025_01.xlsx
+2025-01-30,Ağ pendir,Süd məhsulları,4.8,10.5,sales_2025_01.xlsx
+2025-01-30,Ağ çörək,Çörək,86.0,0.7,sales_2025_01.xlsx
+2025-01-30,Dondurma eskimo,Dondurma,6.0,1.0,sales_2025_01.xlsx
+2025-01-30,Dondurma plombir,Dondurma,6.0,1.1,sales_2025_01.xlsx
+2025-01-30,Düyü 1kq,Bakaleya,8.0,3.35,sales_2025_01.xlsx
+2025-01-30,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-30,Kefir 1L,Süd məhsulları,15.0,1.8,sales_2025_01.xlsx
+2025-01-30,Konfet,Şirniyyat,8.1,12.6,sales_2025_01.xlsx
+2025-01-30,Kərə yağı 200q,Süd məhsulları,16.0,3.9,sales_2025_01.xlsx
+2025-01-30,Lavaş,Çörək,64.0,0.55,sales_2025_01.xlsx
+2025-01-30,Limonad 1L,İçkilər,15.0,1.55,sales_2025_01.xlsx
+2025-01-30,Makaron 400q,Bakaleya,15.0,1.55,sales_2025_01.xlsx
+2025-01-30,Mal əti,Ət,14.3,16.8,sales_2025_01.xlsx
+2025-01-30,Mandarin,Meyvə-tərəvəz,9.0,3.5,sales_2025_01.xlsx
+2025-01-30,Peçenye 300q,Şirniyyat,10.0,2.5,sales_2025_01.xlsx
+2025-01-30,Pomidor,Meyvə-tərəvəz,11.1,2.8,sales_2025_01.xlsx
+2025-01-30,Qara çay 100q,Çay və qəhvə,26.0,3.1,sales_2025_01.xlsx
+2025-01-30,Qatıq 0.5kq,Süd məhsulları,15.0,1.4,sales_2025_01.xlsx
+2025-01-30,Qoyun əti,Ət,2.9,18.2,sales_2025_01.xlsx
+2025-01-30,Qəhvə 100q,Çay və qəhvə,13.0,4.9,sales_2025_01.xlsx
+2025-01-30,Su 1.5L,İçkilər,40.0,0.7,sales_2025_01.xlsx
+2025-01-30,Süd 1L,Süd məhsulları,52.0,1.7,sales_2025_01.xlsx
+2025-01-30,Tort,Şirniyyat,2.0,16.8,sales_2025_01.xlsx
+2025-01-30,Toyuq,Ət,10.0,7.7,sales_2025_01.xlsx
+2025-01-30,Yaşıl çay 100q,Çay və qəhvə,4.0,3.5,sales_2025_01.xlsx
+2025-01-30,Yumurta 10 əd,Süd məhsulları,16.0,2.65,sales_2025_01.xlsx
+2025-01-30,Şokolad,Şirniyyat,16.0,2.1,sales_2025_01.xlsx
+2025-01-30,Şəkər 1kq,Bakaleya,12.0,2.25,sales_2025_01.xlsx
+2025-01-31,Alma,Meyvə-tərəvəz,6.0,2.5,sales_2025_01.xlsx
+2025-01-31,Ağ pendir,Süd məhsulları,13.7,10.5,sales_2025_01.xlsx
+2025-01-31,Ağ çörək,Çörək,71.0,0.7,sales_2025_01.xlsx
+2025-01-31,Dondurma eskimo,Dondurma,1.0,1.0,sales_2025_01.xlsx
+2025-01-31,Dondurma plombir,Dondurma,8.0,1.1,sales_2025_01.xlsx
+2025-01-31,Düyü 1kq,Bakaleya,7.0,3.35,sales_2025_01.xlsx
+2025-01-31,Günəbaxan yağı 1L,Bakaleya,11.0,4.05,sales_2025_01.xlsx
+2025-01-31,Kefir 1L,Süd məhsulları,19.0,1.8,sales_2025_01.xlsx
+2025-01-31,Konfet,Şirniyyat,4.0,12.6,sales_2025_01.xlsx
+2025-01-31,Kərə yağı 200q,Süd məhsulları,12.0,3.9,sales_2025_01.xlsx
+2025-01-31,Lavaş,Çörək,52.0,0.55,sales_2025_01.xlsx
+2025-01-31,Limonad 1L,İçkilər,17.0,1.55,sales_2025_01.xlsx
+2025-01-31,Makaron 400q,Bakaleya,21.0,1.55,sales_2025_01.xlsx
+2025-01-31,Mal əti,Ət,8.9,16.8,sales_2025_01.xlsx
+2025-01-31,Mandarin,Meyvə-tərəvəz,10.7,3.5,sales_2025_01.xlsx
+2025-01-31,Peçenye 300q,Şirniyyat,17.0,2.5,sales_2025_01.xlsx
+2025-01-31,Pomidor,Meyvə-tərəvəz,29.9,2.8,sales_2025_01.xlsx
+2025-01-31,Qara çay 100q,Çay və qəhvə,25.0,3.1,sales_2025_01.xlsx
+2025-01-31,Qatıq 0.5kq,Süd məhsulları,16.0,1.4,sales_2025_01.xlsx
+2025-01-31,Qoyun əti,Ət,3.9,18.2,sales_2025_01.xlsx
+2025-01-31,Qəhvə 100q,Çay və qəhvə,12.0,4.9,sales_2025_01.xlsx
+2025-01-31,Su 1.5L,İçkilər,42.0,0.7,sales_2025_01.xlsx
+2025-01-31,Süd 1L,Süd məhsulları,52.0,1.7,sales_2025_01.xlsx
+2025-01-31,Tort,Şirniyyat,1.0,16.8,sales_2025_01.xlsx
+2025-01-31,Toyuq,Ət,12.3,7.7,sales_2025_01.xlsx
+2025-01-31,Yaşıl çay 100q,Çay və qəhvə,7.0,3.5,sales_2025_01.xlsx
+2025-01-31,Yumurta 10 əd,Süd məhsulları,11.0,2.65,sales_2025_01.xlsx
+2025-01-31,Şokolad,Şirniyyat,20.0,2.1,sales_2025_01.xlsx
+2025-01-31,Şəkər 1kq,Bakaleya,23.0,2.25,sales_2025_01.xlsx
