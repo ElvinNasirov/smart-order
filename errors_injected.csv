@@ -1,0 +1,26 @@
+file,sheet,excel_row,column,type,details
+sales_2021_06.xlsx,Satış,247,Qiymət,empty_cell,true value 15.25
+sales_2021_06.xlsx,Satış,292,Kateqoriya,empty_cell,true value Ət məhsulları
+sales_2021_06.xlsx,Satış,332,Miqdar,negative_quantity,true value 112 -> -112
+sales_2021_06.xlsx,Satış,395,(вся строка),duplicate_row,точная копия предыдущей строки
+sales_2021_06.xlsx,Satış,409,Miqdar,empty_cell,true value 56
+sales_2021_06.xlsx,Satış,478,Məhsul,typo_name,Süd 1L -> Молоко
+sales_2021_06.xlsx,Satış,535,Məhsul,typo_name,Təndir çörəyi -> Təndr çörəyi
+sales_2021_06.xlsx,Satış,572,Miqdar,text_instead_of_number,true value 5.1 -> 'beş'
+sales_2021_06.xlsx,Satış,752,Tarix,invalid_date,true 2021-06-30 -> '31.06.2021'
+sales_2022_03.xlsx,Продажи март,205,Наименование,typo_name,Молоко 1л -> Moloko
+sales_2022_03.xlsx,Продажи март,233,Кол-во,negative_quantity,true value 16 -> -16
+sales_2022_03.xlsx,Продажи март,292,Цена за ед.,empty_cell,true value 2.4
+sales_2022_03.xlsx,Продажи март,414,Кол-во,text_instead_of_number,true value 16 -> 'пять'
+sales_2022_03.xlsx,Продажи март,423,Наименование,typo_name,Конфеты -> Кофеты
+sales_2022_03.xlsx,Продажи март,530,Кол-во,empty_cell,true value 51
+sales_2022_03.xlsx,Продажи март,602,(вся строка),duplicate_row,точная копия предыдущей строки
+sales_2022_03.xlsx,Продажи март,755,Дата,invalid_date,true 2022-03-30 -> '30 фев 2022'
+sales_2024_10.xlsx,Sales Oct 2024,4,A,typo_name,Milk 1L -> Moloko 1L
+sales_2024_10.xlsx,Sales Oct 2024,5,W,text_instead_of_number,day 21: true value 16 -> 'n/a'
+sales_2024_10.xlsx,Sales Oct 2024,9,H,empty_cell,day 6: true value 191
+sales_2024_10.xlsx,Sales Oct 2024,11,(вся строка),duplicate_row,точная копия предыдущей строки товара
+sales_2024_10.xlsx,Sales Oct 2024,12,A,typo_name,Tandoor bread -> Tandoor bred
+sales_2024_10.xlsx,Sales Oct 2024,14,T,empty_cell,day 18: true value 26
+sales_2024_10.xlsx,Sales Oct 2024,24,D,negative_quantity,day 2: true value 5.9 -> -5.9
+sales_2024_10.xlsx,Sales Oct 2024,27,AD,text_instead_of_number,day 28: true value 47.4 -> 'five'

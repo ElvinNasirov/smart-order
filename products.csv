@@ -1,0 +1,30 @@
+product_name,product_name_ru,category,unit
+Süd 1L,Молоко 1л,Süd məhsulları,ədəd
+Kefir 1L,Кефир 1л,Süd məhsulları,ədəd
+Qatıq 0.5kq,"Катык 0,5кг",Süd məhsulları,ədəd
+Ağ pendir,Сыр белый,Süd məhsulları,kq
+Kərə yağı 200q,Масло сливочное 200г,Süd məhsulları,ədəd
+Yumurta 10 əd,Яйца 10 шт,Süd məhsulları,ədəd
+Ağ çörək,Хлеб белый,Çörək,ədəd
+Lavaş,Лаваш,Çörək,ədəd
+Dondurma plombir,Мороженое пломбир,Dondurma,ədəd
+Dondurma eskimo,Мороженое эскимо,Dondurma,ədəd
+Qara çay 100q,Чай черный 100г,Çay və qəhvə,ədəd
+Yaşıl çay 100q,Чай зеленый 100г,Çay və qəhvə,ədəd
+Qəhvə 100q,Кофе растворимый 100г,Çay və qəhvə,ədəd
+Şəkər 1kq,Сахар 1кг,Bakaleya,ədəd
+Düyü 1kq,Рис 1кг,Bakaleya,ədəd
+Makaron 400q,Макароны 400г,Bakaleya,ədəd
+Günəbaxan yağı 1L,Масло подсолнечное 1л,Bakaleya,ədəd
+Mal əti,Говядина,Ət,kq
+Toyuq,Курица,Ət,kq
+Qoyun əti,Баранина,Ət,kq
+Şokolad,Шоколад плиточный,Şirniyyat,ədəd
+Peçenye 300q,Печенье 300г,Şirniyyat,ədəd
+Konfet,Конфеты,Şirniyyat,kq
+Tort,Торт,Şirniyyat,ədəd
+Su 1.5L,"Вода 1,5л",İçkilər,ədəd
+Limonad 1L,Лимонад 1л,İçkilər,ədəd
+Alma,Яблоки,Meyvə-tərəvəz,kq
+Pomidor,Помидоры,Meyvə-tərəvəz,kq
+Mandarin,Мандарины,Meyvə-tərəvəz,kq
