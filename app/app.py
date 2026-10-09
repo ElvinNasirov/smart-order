@@ -38,12 +38,25 @@ with tab2:
         upload_key = f"{today_file.name}_{today_file.size}"
         if st.session_state.get("processed_upload") != upload_key:
             st.session_state["processed_upload"] = upload_key
-            (DATA / today_file.name).write_bytes(today_file.getbuffer())
-            with st.spinner("Normalizing data..."):
+            with st.status("Processing today's report...", expanded=True) as s:
+                s.write("1/3 Saving file...")
+                (DATA / today_file.name).write_bytes(today_file.getbuffer())
+
+                s.write("2/3 Local AI is checking and adding the report to the database (may take 1-2 min)...")
                 ok = run("normalize/normalize.py")
-            if ok:
-                with st.spinner("Building forecast..."):
-                    run("ml/forecast.py")
+                if not ok:
+                    s.update(label="Failed at step 2", state="error")
+                    st.stop()
+
+                s.write("3/3 Forecasting tomorrow's order...")
+                ok = run("ml/forecast.py")
+                if not ok:
+                    s.update(label="Failed at step 3", state="error")
+                    st.stop()
+
+                _fc = OUT / "forecast_tomorrow.csv"
+                _date = pd.read_csv(_fc)["date"].iloc[0] if _fc.exists() else ""
+                s.update(label=f"Done: order for {_date} is ready", state="complete")
 
     if st.button("Build Forecast"):
         with st.spinner("Model is calculating..."):
@@ -53,8 +66,7 @@ with tab2:
     if f.exists():
         fc = pd.read_csv(f)
         forecast_date = fc["date"].iloc[0] if "date" in fc.columns and len(fc) else ""
-        if forecast_date:
-            st.subheader(f"Order for {forecast_date}")
+        st.success(f"Order for {forecast_date} is ready")
         st.dataframe(fc)
 
         buf = io.BytesIO()
