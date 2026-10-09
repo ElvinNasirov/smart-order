@@ -1,375 +1,382 @@
 """
-Sintetik satış hesabatları generatoru (hakaton üçün).
+generate_data.py — 3 синтетических Excel-отчёта одного маркета в Баку, каждый в своём формате.
 
-Yaradılan fayllar:
-  sales_2021_08.xlsx   Avqust 2021  - AZ sütunlar, DD.MM.YYYY, uzun format
-  sales_2023_12.xlsx   Dekabr 2023  - RU sütunlar, "5 Dec 2023", 3 başlıq sətri, qiymətlər "1,20 AZN"
-  sales_2025_01.xlsx   Yanvar 2025  - geniş format (mal x gün), qiymətlər ayrı vərəqdə
-  ground_truth.csv     təmiz data (date, product_name, category, quantity, unit_price, source_file)
-  errors_injected.csv  qəsdən əlavə olunan səhvlər (file, sheet, row, column, error_type, ...)
-  products.csv         məhsul kataloqu (AZ adı, RU adı, kateqoriya, vahid)
+  sales_2021_06.xlsx  июнь 2021, колонки на азербайджанском, дата ДД.ММ.ГГГГ, строка = товар за день
+  sales_2022_03.xlsx  март 2022, колонки на русском, дата "5 мар 2022", 3 строки шапки, цена с "AZN"
+  sales_2024_10.xlsx  октябрь 2024, широкий формат (товары x дни 1..31), цены на отдельном листе
 
-Qeyd: quantity = 0 olan günlər ground_truth-a daxil edilmir.
-Market adı uydurmadır.
+  ground_truth.csv     чистые данные всех 3 файлов: date, product_name, category, quantity, unit_price
+                       (product_name и category — канонические, на английском)
+  errors_injected.csv  список внесённых ошибок: file, sheet, excel_row, column, type, details
+
+Запуск: python generate_data.py
 """
 import calendar
+import copy
+import csv
+import random
 from datetime import date
 
-import numpy as np
-import pandas as pd
 from openpyxl import Workbook
-from openpyxl.styles import Font
+from openpyxl.styles import Alignment, Font, PatternFill
 from openpyxl.utils import get_column_letter
 
-SEED = 42
-rng = np.random.default_rng(SEED)
+random.seed(42)
 
-STORE_RU = "ООО «Ясамал Маркет», г. Баку"
-
-# (AZ adı, RU adı, kateqoriya, 2021 qiyməti AZN, orta gündəlik satış, vahid, mövsüm etiketi)
-PRODUCTS = [
-    ("Süd 1L", "Молоко 1л", "Süd məhsulları", 1.20, 40, "ədəd", None),
-    ("Kefir 1L", "Кефир 1л", "Süd məhsulları", 1.30, 20, "ədəd", None),
-    ("Qatıq 0.5kq", "Катык 0,5кг", "Süd məhsulları", 1.00, 18, "ədəd", "summer"),
-    ("Ağ pendir", "Сыр белый", "Süd məhsulları", 7.50, 6, "kq", "festive"),
-    ("Kərə yağı 200q", "Масло сливочное 200г", "Süd məhsulları", 2.80, 12, "ədəd", "festive"),
-    ("Yumurta 10 əd", "Яйца 10 шт", "Süd məhsulları", 1.90, 15, "ədəd", "festive"),
-    ("Ağ çörək", "Хлеб белый", "Çörək", 0.50, 80, "ədəd", None),
-    ("Lavaş", "Лаваш", "Çörək", 0.40, 50, "ədəd", None),
-    ("Dondurma plombir", "Мороженое пломбир", "Dondurma", 0.80, 25, "ədəd", "ice"),
-    ("Dondurma eskimo", "Мороженое эскимо", "Dondurma", 0.70, 20, "ədəd", "ice"),
-    ("Qara çay 100q", "Чай черный 100г", "Çay və qəhvə", 2.20, 15, "ədəd", "winter"),
-    ("Yaşıl çay 100q", "Чай зеленый 100г", "Çay və qəhvə", 2.50, 6, "ədəd", None),
-    ("Qəhvə 100q", "Кофе растворимый 100г", "Çay və qəhvə", 3.50, 8, "ədəd", "winter"),
-    ("Şəkər 1kq", "Сахар 1кг", "Bakaleya", 1.60, 15, "ədəd", "festive"),
-    ("Düyü 1kq", "Рис 1кг", "Bakaleya", 2.40, 10, "ədəd", "festive"),
-    ("Makaron 400q", "Макароны 400г", "Bakaleya", 1.10, 14, "ədəd", None),
-    ("Günəbaxan yağı 1L", "Масло подсолнечное 1л", "Bakaleya", 2.90, 9, "ədəd", "festive"),
-    ("Mal əti", "Говядина", "Ət", 12.00, 8, "kq", "meat"),
-    ("Toyuq", "Курица", "Ət", 5.50, 12, "kq", "meat"),
-    ("Qoyun əti", "Баранина", "Ət", 13.00, 5, "kq", "meat"),
-    ("Şokolad", "Шоколад плиточный", "Şirniyyat", 1.50, 18, "ədəd", "sweet"),
-    ("Peçenye 300q", "Печенье 300г", "Şirniyyat", 1.80, 14, "ədəd", "sweet"),
-    ("Konfet", "Конфеты", "Şirniyyat", 9.00, 4, "kq", "sweet"),
-    ("Tort", "Торт", "Şirniyyat", 12.00, 2, "ədəd", "cake"),
-    ("Su 1.5L", "Вода 1,5л", "İçkilər", 0.50, 45, "ədəd", "summer"),
-    ("Limonad 1L", "Лимонад 1л", "İçkilər", 1.10, 20, "ədəd", "summer"),
-    ("Alma", "Яблоки", "Meyvə-tərəvəz", 1.80, 15, "kq", None),
-    ("Pomidor", "Помидоры", "Meyvə-tərəvəz", 2.00, 18, "kq", "summer"),
-    ("Mandarin", "Мандарины", "Meyvə-tərəvəz", 2.50, 6, "kq", "mandarin"),
+# ----------------------------------------------------------------------------
+# Каталог товаров: английское (каноническое) имя, az, ru, категории, единица, цена AZN, базовый спрос/день
+# ----------------------------------------------------------------------------
+_RAW = [
+    ("Milk 1L",          "Süd 1L",            "Молоко 1л",               "Dairy",     "Süd məhsulları", "pcs", 1.60, 45, []),
+    ("Kefir",            "Kefir",             "Кефир",                   "Dairy",     "Süd məhsulları", "pcs", 1.40, 25, []),
+    ("Cheese",           "Pendir",            "Сыр",                     "Dairy",     "Süd məhsulları", "kg",  12.0,  8, []),
+    ("Butter",           "Kərə yağı",         "Сливочное масло",         "Dairy",     "Süd məhsulları", "pcs", 4.50, 12, []),
+    ("Eggs (10 pcs)",    "Yumurta (10 əd.)",  "Яйца (10 шт.)",           "Dairy",     "Süd məhsulları", "pcs", 3.20, 30, []),
+    ("Bread",            "Çörək",             "Хлеб",                    "Bakery",    "Çörək məmulatları", "pcs", 0.80, 140, []),
+    ("Lavash",           "Lavaş",             "Лаваш",                   "Bakery",    "Çörək məmulatları", "pcs", 0.70, 60, []),
+    ("Tandoor bread",    "Təndir çörəyi",     "Тандырный хлеб",          "Bakery",    "Çörək məmulatları", "pcs", 0.90, 70, []),
+    ("Black tea",        "Qara çay",          "Чёрный чай",              "Beverages", "İçkilər",        "pcs", 4.80, 18, ["tea"]),
+    ("Ice cream",        "Dondurma",          "Мороженое",               "Frozen",    "Dondurulmuş",    "pcs", 1.20, 40, ["cold"]),
+    ("Mineral water",    "Mineral su",        "Минеральная вода",        "Beverages", "İçkilər",        "pcs", 0.70, 80, ["cold_mild"]),
+    ("Cola",             "Kola",              "Кола",                    "Beverages", "İçkilər",        "pcs", 1.50, 50, ["cold_mild"]),
+    ("Juice",            "Meyvə şirəsi",      "Сок",                     "Beverages", "İçkilər",        "pcs", 2.20, 35, ["cold_mild"]),
+    ("Beef",             "Mal əti",           "Говядина",                "Meat",      "Ət məhsulları",  "kg",  14.0, 18, ["meat"]),
+    ("Chicken",          "Toyuq əti",         "Курица",                  "Meat",      "Ət məhsulları",  "kg",  6.50, 30, ["meat"]),
+    ("Lamb",             "Quzu əti",          "Баранина",                "Meat",      "Ət məhsulları",  "kg",  16.0,  8, ["meat"]),
+    ("Sausage",          "Kolbasa",           "Колбаса",                 "Meat",      "Ət məhsulları",  "kg",  9.00, 12, ["meat"]),
+    ("Chocolate",        "Şokolad",           "Шоколад",                 "Sweets",    "Şirniyyat",      "pcs", 2.50, 30, ["sweet"]),
+    ("Candy",            "Konfet",            "Конфеты",                 "Sweets",    "Şirniyyat",      "kg",  8.00, 12, ["sweet"]),
+    ("Baklava",          "Paxlava",           "Пахлава",                 "Sweets",    "Şirniyyat",      "kg",  18.0,  6, ["sweet"]),
+    ("Shakarbura",       "Şəkərbura",         "Шекербура",               "Sweets",    "Şirniyyat",      "kg",  15.0,  3, ["sweet"]),
+    ("Rice",             "Düyü",              "Рис",                     "Grocery",   "Ərzaq",          "kg",  3.20, 30, []),
+    ("Sugar",            "Şəkər",             "Сахар",                   "Grocery",   "Ərzaq",          "kg",  1.60, 40, []),
+    ("Sunflower oil 1L", "Günəbaxan yağı 1L", "Подсолнечное масло 1л",  "Grocery",   "Ərzaq",          "pcs", 4.20, 22, []),
+    ("Flour",            "Un",                "Мука",                    "Grocery",   "Ərzaq",          "kg",  1.10, 35, []),
 ]
-AZ_TO_RU = {p[0]: p[1] for p in PRODUCTS}
-MONTHS_EN = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "Jul", "Aug", "Sep", "Oct", "Nov", "Dec"]
+KEYS = ["en", "az", "ru", "cat_en", "cat_az", "unit", "price", "base", "tags"]
+PRODUCTS = [dict(zip(KEYS, r)) for r in _RAW]
 
-GROUND_TRUTH = []
-ERRORS = []
-
-
-# ---------------------------------------------------------------- simulyasiya
-def season_factor(tag, d):
-    m, day = d.month, d.day
-    # Yeni il təsiri: 20 dekabrdan artır, 31-də pik, yanvarın ilk həftəsi azalır
-    if m == 12 and day >= 20:
-        ny = 1 + (day - 19) / 12 * 2.0
-    elif m == 1 and day <= 2:
-        ny = 2.0
-    elif m == 1 and day <= 7:
-        ny = 1.3
-    else:
-        ny = 1.0
-
-    f = {
-        "ice": {8: 3.0, 12: 0.3, 1: 0.2},
-        "summer": {8: 1.7, 12: 0.8, 1: 0.7},
-        "winter": {8: 0.8, 12: 1.2, 1: 1.3},
-        "mandarin": {8: 0.1, 12: 3.0, 1: 2.0},
-    }.get(tag, {}).get(m, 1.0)
-
-    if tag in ("sweet", "mandarin"):
-        f *= ny
-    elif tag == "cake":
-        f *= ny ** 1.5
-    elif tag == "meat":
-        f *= 1 + (ny - 1) * 0.8
-    elif tag == "festive":
-        f *= 1 + (ny - 1) * 0.5
-
-    if d.weekday() >= 5:  # həftəsonu
-        f *= 1.2
-    if m == 1 and day == 1:  # 1 yanvar mağaza sakit olur
-        f *= 0.6
-    return f
+# сезонность (множитель по месяцам)
+COLD = {1: .25, 2: .25, 3: .4, 4: .6, 5: .9, 6: 1.6, 7: 2.0, 8: 2.1, 9: 1.3, 10: .7, 11: .4, 12: .3}
+COLD_MILD = {m: 1 + (v - 1) * 0.4 for m, v in COLD.items()}
+TEA = {1: 1.4, 2: 1.35, 3: 1.2, 4: 1.0, 5: .9, 6: .8, 7: .75, 8: .75, 9: .9, 10: 1.1, 11: 1.25, 12: 1.4}
+# Новруз (14–24 марта, пик 19-го): прирост спроса
+NOVRUZ = {"Shakarbura": 3.0, "Baklava": 2.0, "Flour": 1.0, "Eggs (10 pcs)": 0.8, "Candy": 0.8,
+          "Sugar": 0.6, "Rice": 0.5, "Chocolate": 0.5}
 
 
-def sample_qty(base, unit, factor):
-    lam = base * factor
-    if unit == "kq":
-        return round(float(rng.gamma(4.0, lam / 4.0)), 1) if lam > 0 else 0.0
-    return int(rng.poisson(lam))
+def mult(p, d):
+    """Множитель спроса для товара p в день d: сезон, праздники, выходные."""
+    m = 1.0
+    tags = p["tags"]
+    if "cold" in tags:
+        m *= COLD[d.month]
+    if "cold_mild" in tags:
+        m *= COLD_MILD[d.month]
+    if "tea" in tags:
+        m *= TEA[d.month]
+    # Новый год: рост сладостей и мяса
+    ny = (d.month == 12 and d.day >= 24) or (d.month == 1 and d.day <= 2)
+    pre_ny = d.month == 12 and 15 <= d.day < 24
+    if "sweet" in tags or "meat" in tags:
+        if ny:
+            m *= 2.2
+        elif pre_ny:
+            m *= 1.4
+    # Novruz
+    if d.month == 3 and 14 <= d.day <= 24 and p["en"] in NOVRUZ:
+        m *= 1 + NOVRUZ[p["en"]] * max(0, 1 - abs(d.day - 19) / 6)
+    # День восстановления независимости (17–18 окт): небольшой рост
+    if d.month == 10 and d.day in (17, 18) and ("sweet" in tags or "meat" in tags):
+        m *= 1.3
+    # выходные
+    if d.weekday() >= 5:
+        m *= 1.2
+    return m
 
 
-def price_for(p2021, year):
-    k = {2021: 1.00, 2023: 1.25, 2025: 1.40}[year]
-    return round(round(p2021 * k / 0.05) * 0.05, 2)
+def month_data(year, month):
+    """qty[en][day], price[en] за месяц."""
+    last = calendar.monthrange(year, month)[1]
+    infl = 1 + 0.06 * (year - 2021)
+    qty, price = {}, {}
+    for p in PRODUCTS:
+        price[p["en"]] = round(round(p["price"] * infl * random.uniform(0.97, 1.03) * 20) / 20, 2)
+        qty[p["en"]] = {}
+        for day in range(1, last + 1):
+            d = date(year, month, day)
+            x = p["base"] * mult(p, d) * random.lognormvariate(0, 0.15)
+            qty[p["en"]][day] = max(0.5, round(x, 1)) if p["unit"] == "kg" else max(1, int(round(x)))
+    return qty, price
 
 
-def simulate(year, month):
-    n = calendar.monthrange(year, month)[1]
-    out = []
-    for day in range(1, n + 1):
+def typo(s):
+    """Опечатка: пропускаем одну букву в середине."""
+    i = random.randint(1, len(s) - 2)
+    return s[:i] + s[i + 1:]
+
+
+# ----------------------------------------------------------------------------
+# стили Excel
+# ----------------------------------------------------------------------------
+HDR_FONT = Font(bold=True, color="FFFFFF")
+HDR_FILL = PatternFill("solid", fgColor="305496")
+
+
+def style_header(ws, row, ncols):
+    for c in range(1, ncols + 1):
+        cell = ws.cell(row=row, column=c)
+        cell.font = HDR_FONT
+        cell.fill = HDR_FILL
+        cell.alignment = Alignment(horizontal="center")
+
+
+def set_widths(ws, widths):
+    for i, w in enumerate(widths, 1):
+        ws.column_dimensions[get_column_letter(i)].width = w
+
+
+# ----------------------------------------------------------------------------
+# длинные форматы (файлы 1 и 2): общая сборка и внесение ошибок
+# ----------------------------------------------------------------------------
+def build_long(year, month, lang, date_fmt):
+    qty, price = month_data(year, month)
+    rows = []
+    for day in range(1, calendar.monthrange(year, month)[1] + 1):
         d = date(year, month, day)
-        for az, ru, cat, p, base, unit, tag in PRODUCTS:
-            q = sample_qty(base, unit, season_factor(tag, d))
-            out.append(dict(date=d, az=az, ru=ru, category=cat, unit=unit,
-                            quantity=q, unit_price=price_for(p, year)))
+        for p in PRODUCTS:
+            rows.append({
+                "d": d, "p": p, "q": qty[p["en"]][day], "pr": price[p["en"]],
+                "date_out": date_fmt(d), "name_out": p[lang],
+                "cat_out": p["cat_az"] if lang == "az" else p["cat_en"],
+                "qty_out": qty[p["en"]][day], "price_out": price[p["en"]],
+                "truth": True, "errs": [],
+            })
+    return rows
+
+
+def inject_long(rows, cols, milk_typo, text_value, invalid_date, has_cat):
+    """cols: заголовки колонок для записи в журнал ошибок."""
+    used = set()
+
+    def pick(cond=lambda r: True):
+        r = random.choice([x for x in rows if id(x) not in used and cond(x)])
+        used.add(id(r))
+        return r
+
+    # 1) опечатка/другой язык в названии молока
+    r = pick(lambda r: r["p"]["en"] == "Milk 1L")
+    old = r["name_out"]
+    r["name_out"] = milk_typo
+    r["errs"].append((cols["name"], "typo_name", f"{old} -> {milk_typo}"))
+    # 2) обычная опечатка
+    r = pick(lambda r: len(r["name_out"]) >= 6 and r["p"]["en"] != "Milk 1L")
+    old = r["name_out"]
+    r["name_out"] = typo(old)
+    r["errs"].append((cols["name"], "typo_name", f"{old} -> {r['name_out']}"))
+    # 3) пустое количество
+    r = pick()
+    r["errs"].append((cols["qty"], "empty_cell", f"true value {r['q']}"))
+    r["qty_out"] = None
+    # 4) пустая цена
+    r = pick()
+    r["errs"].append((cols["price"], "empty_cell", f"true value {r['pr']}"))
+    r["price_out"] = None
+    # 5) текст вместо числа
+    r = pick()
+    r["errs"].append((cols["qty"], "text_instead_of_number", f"true value {r['q']} -> '{text_value}'"))
+    r["qty_out"] = text_value
+    # 6) отрицательное количество
+    r = pick()
+    r["errs"].append((cols["qty"], "negative_quantity", f"true value {r['q']} -> {-r['q']}"))
+    r["qty_out"] = -r["q"]
+    # 7) невозможная дата
+    r = pick(lambda r: r["d"].day == 30)
+    new = invalid_date(r["d"])
+    r["errs"].append((cols["date"], "invalid_date", f"true {r['d'].isoformat()} -> '{new}'"))
+    r["date_out"] = new
+    # 8) пустая категория
+    if has_cat:
+        r = pick()
+        r["errs"].append((cols["cat"], "empty_cell", f"true value {r['cat_out']}"))
+        r["cat_out"] = None
+    # 9) дубль строки (вставляется сразу после оригинала)
+    r = pick()
+    idx = next(i for i, x in enumerate(rows) if x is r)
+    dup = copy.deepcopy(r)
+    dup["truth"] = False
+    dup["errs"] = [("(вся строка)", "duplicate_row", "точная копия предыдущей строки")]
+    rows.insert(idx + 1, dup)
+    return rows
+
+
+def truth_from_long(rows):
+    return [(r["d"].isoformat(), r["p"]["en"], r["p"]["cat_en"], r["q"], r["pr"]) for r in rows if r["truth"]]
+
+
+def errors_from_long(rows, fname, sheet, first_data_row):
+    out = []
+    for i, r in enumerate(rows):
+        for col, typ, det in r["errs"]:
+            out.append((fname, sheet, first_data_row + i, col, typ, det))
     return out
 
 
-def add_ground_truth(sim, source_file):
-    for r in sim:
-        if r["quantity"] > 0:
-            GROUND_TRUTH.append(dict(date=r["date"].isoformat(), product_name=r["az"],
-                                     category=r["category"], quantity=float(r["quantity"]),
-                                     unit_price=r["unit_price"], source_file=source_file))
-
-
-# ---------------------------------------------------------------- səhvlər
-def log(file, sheet, row, column, etype, orig, new):
-    ERRORS.append(dict(file=file, sheet=sheet, row=row, column=column, error_type=etype,
-                       original_value=orig, injected_value=new))
-
-
-def col_label(header, idx):
-    return f"{get_column_letter(idx + 1)} ({header[idx]})"
-
-
-def inject_long(rows, file, sheet, first_row, header, c, typo_map, text_fn, bad_date):
-    """Uzun format üçün 8 səhv. c = {'date','name','qty','price'} sütun indeksləri."""
-    # 1) təkrarlanan sətir
-    k = int(rng.integers(0, len(rows) - 1))
-    rows.insert(k + 1, list(rows[k]))
-    log(file, sheet, first_row + k + 1, "(bütün sətir)", "duplicate_row",
-        f"{first_row + k}-ci sətrin surəti", "")
-    used = {k, k + 1}
-
-    def pick(cond=lambda r: True):
-        while True:
-            i = int(rng.integers(0, len(rows)))
-            if i not in used and cond(rows[i]):
-                used.add(i)
-                return i
-
-    def is_pos(r):
-        return isinstance(r[c["qty"]], (int, float)) and r[c["qty"]] > 0
-
-    # 2-3) boş xanalar
-    for col in (c["qty"], c["price"]):
-        i = pick()
-        log(file, sheet, first_row + i, col_label(header, col), "empty_cell", rows[i][col], "")
-        rows[i][col] = None
-
-    # 4-5) adda yazı səhvi
-    for good, bad in list(typo_map.items())[:2]:
-        i = pick(lambda r, g=good: r[c["name"]] == g)
-        log(file, sheet, first_row + i, col_label(header, c["name"]), "typo", good, bad)
-        rows[i][c["name"]] = bad
-
-    # 6) mənfi miqdar
-    i = pick(is_pos)
-    q = rows[i][c["qty"]]
-    log(file, sheet, first_row + i, col_label(header, c["qty"]), "negative_quantity", q, -q)
-    rows[i][c["qty"]] = -q
-
-    # 7) yanlış tarix
-    i = pick()
-    log(file, sheet, first_row + i, col_label(header, c["date"]), "invalid_date",
-        rows[i][c["date"]], bad_date)
-    rows[i][c["date"]] = bad_date
-
-    # 8) rəqəm əvəzinə mətn
-    i = pick(is_pos)
-    q = rows[i][c["qty"]]
-    log(file, sheet, first_row + i, col_label(header, c["qty"]), "text_instead_of_number",
-        q, text_fn(q))
-    rows[i][c["qty"]] = text_fn(q)
-
-
-# ---------------------------------------------------------------- Excel
-def write_table(ws, header, rows, start_row=1):
-    for j, h in enumerate(header, 1):
-        ws.cell(start_row, j, h).font = Font(bold=True)
-    for i, r in enumerate(rows, start_row + 1):
-        for j, v in enumerate(r, 1):
-            if v is not None:
-                ws.cell(i, j, v)
-    for j in range(1, len(header) + 1):
-        ws.column_dimensions[get_column_letter(j)].width = 22 if j <= 2 else 12
-
-
-def az_num(v):
-    return f"{v}".replace(".", ",")
-
-
-# ---------------------------------------------------------------- 1) Avqust 2021
-def file_2021_08():
-    fname, sheet = "sales_2021_08.xlsx", "Satış"
-    sim = simulate(2021, 8)
-    add_ground_truth(sim, fname)
-
-    header = ["Tarix", "Məhsul", "Kateqoriya", "Miqdar", "Qiymət"]
-    rows = [[r["date"].strftime("%d.%m.%Y"), r["az"], r["category"], r["quantity"], r["unit_price"]]
-            for r in sim if r["quantity"] > 0]
-
-    inject_long(rows, fname, sheet, first_row=2, header=header,
-                c=dict(date=0, name=1, qty=3, price=4),
-                typo_map={"Süd 1L": "Sud 1L", "Ağ çörək": "Ag corek"},
-                text_fn=lambda q: f"{az_num(q)} ədəd" if isinstance(q, int) else f"{az_num(q)} kq",
-                bad_date="32.08.2021")
-
+# ----------------------------------------------------------------------------
+# Файл 1: sales_2021_06.xlsx (азербайджанский)
+# ----------------------------------------------------------------------------
+def make_file1():
+    fname = "sales_2021_06.xlsx"
+    rows = build_long(2021, 6, "az", lambda d: d.strftime("%d.%m.%Y"))
+    cols = {"date": "Tarix", "name": "Məhsul", "cat": "Kateqoriya", "qty": "Miqdar", "price": "Qiymət"}
+    rows = inject_long(rows, cols, milk_typo="Молоко", text_value="beş",
+                       invalid_date=lambda d: f"31.{d.month:02d}.{d.year}", has_cat=True)
     wb = Workbook()
     ws = wb.active
-    ws.title = sheet
-    write_table(ws, header, rows)
-    wb.save(fname)
-
-
-# ---------------------------------------------------------------- 2) Dekabr 2023
-def file_2023_12():
-    fname, sheet = "sales_2023_12.xlsx", "Продажи"
-    sim = simulate(2023, 12)
-    add_ground_truth(sim, fname)
-
-    def azn(v):
-        return f"{v:.2f}".replace(".", ",") + " AZN"
-
-    header = ["Дата", "Наименование", "Кол-во", "Цена за ед.", "Сумма"]
-    clean = [r for r in sim if r["quantity"] > 0]
-    rows = [[f"{r['date'].day} {MONTHS_EN[r['date'].month - 1]} {r['date'].year}",
-             r["ru"], r["quantity"], azn(r["unit_price"]), azn(r["quantity"] * r["unit_price"])]
-            for r in clean]
-    total_sum = sum(r["quantity"] * r["unit_price"] for r in clean)
-
-    inject_long(rows, fname, sheet, first_row=5, header=header,
-                c=dict(date=0, name=1, qty=2, price=3),
-                typo_map={"Молоко 1л": "Moloko 1л", "Хлеб белый": "Хлеб белыи"},
-                text_fn=lambda q: f"{q} шт" if isinstance(q, int) else f"{az_num(q)} кг",
-                bad_date="31 Nov 2023")
-
-    # 1C üslubunda sonda "Итого" sətri
-    rows.append(["Итого", None, None, None, azn(total_sum)])
-    log(fname, sheet, 5 + len(rows) - 1, "(bütün sətir)", "total_row", "", "Итого")
-
-    wb = Workbook()
-    ws = wb.active
-    ws.title = sheet
-    ws["A1"] = STORE_RU
-    ws["A1"].font = Font(bold=True, size=13)
-    ws.merge_cells("A1:E1")
-    ws["A2"] = "Отчет о продажах за декабрь 2023 г."
-    ws.merge_cells("A2:E2")
-    ws["A3"] = "Валюта: AZN"
-    write_table(ws, header, rows, start_row=4)
-    wb.save(fname)
-
-
-# ---------------------------------------------------------------- 3) Yanvar 2025 (geniş)
-def file_2025_01():
-    fname, s_sales, s_price = "sales_2025_01.xlsx", "Satış", "Qiymətlər"
-    sim = simulate(2025, 1)
-    add_ground_truth(sim, fname)
-
-    days = 31
-    grid = {}
-    for r in sim:
-        grid.setdefault(r["az"], {})[r["date"].day] = r["quantity"]
-
-    header = ["Məhsul"] + list(range(1, days + 1)) + ["Cəmi"]
-    rows = []
-    for az, *_ in PRODUCTS:
-        vals = [grid[az][d] for d in range(1, days + 1)]
-        rows.append([az] + vals + [round(sum(vals), 1)])
-
-    # 1) təkrarlanan məhsul sətri
-    k = int(rng.integers(0, len(rows) - 1))
-    rows.insert(k + 1, list(rows[k]))
-    log(fname, s_sales, 2 + k + 1, "(bütün sətir)", "duplicate_row", f"{2 + k}-ci sətrin surəti", "")
-    used_rows = {k, k + 1}
-
-    # 2) yanlış tarix: mövcud olmayan "32" günü sütunu
-    header.insert(days + 1, 32)
+    ws.title = "Satış"
+    ws.append(["Tarix", "Məhsul", "Kateqoriya", "Miqdar", "Qiymət"])
+    style_header(ws, 1, 5)
     for r in rows:
-        r.insert(days + 1, int(rng.integers(1, 20)))
-    log(fname, s_sales, 1, col_label(header, days + 1), "invalid_date", "", "32 yanvar sütunu")
+        ws.append([r["date_out"], r["name_out"], r["cat_out"], r["qty_out"], r["price_out"]])
+    set_widths(ws, [13, 22, 20, 10, 10])
+    ws.freeze_panes = "A2"
+    wb.save(fname)
+    return truth_from_long(rows), errors_from_long(rows, fname, "Satış", 2), len(rows)
 
-    used_cells = set()
 
-    def pick_cell(cond=lambda v: True):
-        while True:
-            i = int(rng.integers(0, len(rows)))
-            d = int(rng.integers(1, days + 1))
-            if i not in used_rows and (i, d) not in used_cells and cond(rows[i][d]):
-                used_cells.add((i, d))
-                return i, d
+# ----------------------------------------------------------------------------
+# Файл 2: sales_2022_03.xlsx (русский, 3 строки шапки, "5 мар 2022", цена с AZN)
+# ----------------------------------------------------------------------------
+RU_MON = {1: "янв", 2: "фев", 3: "мар", 4: "апр", 5: "мая", 6: "июн",
+          7: "июл", 8: "авг", 9: "сен", 10: "окт", 11: "нояб", 12: "дек"}
 
-    def is_pos(v):
-        return isinstance(v, (int, float)) and v > 0
 
-    # 3) adda yazı səhvi
-    i = next(j for j, r in enumerate(rows) if r[0] == "Dondurma plombir" and j not in used_rows)
-    used_rows.add(i)
-    log(fname, s_sales, 2 + i, col_label(header, 0), "typo", "Dondurma plombir", "Dondurma plombr")
-    rows[i][0] = "Dondurma plombr"
+def make_file2():
+    fname = "sales_2022_03.xlsx"
+    rows = build_long(2022, 3, "ru", lambda d: f"{d.day} {RU_MON[d.month]} {d.year}")
+    cols = {"date": "Дата", "name": "Наименование", "cat": None, "qty": "Кол-во", "price": "Цена за ед."}
+    rows = inject_long(rows, cols, milk_typo="Moloko", text_value="пять",
+                       invalid_date=lambda d: f"30 фев {d.year}", has_cat=False)
+    wb = Workbook()
+    ws = wb.active
+    ws.title = "Продажи март"
+    ws.append(["Магазин «Баку Маркет», филиал Насими, г. Баку, ул. Рашид Бейбутов 12"])
+    ws.append(["Отчёт о продажах за март 2022 г."])
+    ws.append(["Ответственный: Алиев Р.   |   Валюта: AZN"])
+    for r_ in (1, 2, 3):
+        ws.merge_cells(start_row=r_, start_column=1, end_row=r_, end_column=5)
+    ws["A1"].font = Font(bold=True, size=14)
+    ws["A2"].font = Font(bold=True)
+    ws.append(["Дата", "Наименование", "Кол-во", "Цена за ед.", "Сумма"])
+    style_header(ws, 4, 5)
+    for r in rows:
+        price_txt = None if r["price_out"] is None else f"{r['price_out']:.2f} AZN"
+        total = round(r["q"] * r["pr"], 2)  # сумма считается по истинным значениям
+        ws.append([r["date_out"], r["name_out"], r["qty_out"], price_txt, total])
+    set_widths(ws, [14, 26, 10, 14, 12])
+    wb.save(fname)
+    return truth_from_long(rows), errors_from_long(rows, fname, "Продажи март", 5), len(rows)
 
-    # 4-5) boş xanalar
-    for _ in range(2):
-        i, d = pick_cell()
-        log(fname, s_sales, 2 + i, col_label(header, d), "empty_cell", rows[i][d], "")
-        rows[i][d] = None
 
-    # 6) mənfi miqdar
-    i, d = pick_cell(is_pos)
-    log(fname, s_sales, 2 + i, col_label(header, d), "negative_quantity", rows[i][d], -rows[i][d])
-    rows[i][d] = -rows[i][d]
+# ----------------------------------------------------------------------------
+# Файл 3: sales_2024_10.xlsx (широкий формат, цены на отдельном листе)
+# ----------------------------------------------------------------------------
+def make_file3():
+    fname = "sales_2024_10.xlsx"
+    year, month = 2024, 10
+    last = calendar.monthrange(year, month)[1]
+    qty, price = month_data(year, month)
+    rows = [{"p": p, "name": p["en"], "true": qty[p["en"]], "cells": dict(qty[p["en"]]),
+             "truth": True, "errs": []} for p in PRODUCTS]
 
-    # 7-8) rəqəm əvəzinə mətn
-    for _ in range(2):
-        i, d = pick_cell(is_pos)
-        v = rows[i][d]
-        txt = f"{v} əd" if isinstance(v, int) else f"{az_num(v)} kq"
-        log(fname, s_sales, 2 + i, col_label(header, d), "text_instead_of_number", v, txt)
-        rows[i][d] = txt
+    milk = next(r for r in rows if r["p"]["en"] == "Milk 1L")
+    others = [r for r in rows if r is not milk]
+    sel = random.sample(others, 7)
 
-    # Qiymətlər vərəqi
-    p_header = ["Məhsul", "Qiymət (AZN)", "Vahid"]
-    p_rows = [[az, price_for(p, 2025), unit] for az, ru, cat, p, base, unit, tag in PRODUCTS]
-    j = int(rng.integers(0, len(p_rows)))
-    txt = f"{p_rows[j][1]:.2f}".replace(".", ",") + " AZN"
-    log(fname, s_price, 2 + j, col_label(p_header, 1), "text_instead_of_number", p_rows[j][1], txt)
-    p_rows[j][1] = txt
+    old = milk["name"]
+    milk["name"] = "Moloko 1L"
+    milk["errs"].append(("A", "typo_name", f"{old} -> {milk['name']}"))
+
+    r = sel[0]
+    old = r["name"]
+    r["name"] = typo(old)
+    r["errs"].append(("A", "typo_name", f"{old} -> {r['name']}"))
+
+    def cell_error(r, kind, new, det_fmt):
+        day = random.randint(1, last)
+        col = get_column_letter(2 + day)  # A=Product, B=Category, C=день 1
+        r["errs"].append((col, kind, det_fmt.format(day=day, true=r["true"][day], new=new)))
+        r["cells"][day] = new
+
+    cell_error(sel[2], "empty_cell", None, "day {day}: true value {true}")
+    cell_error(sel[3], "empty_cell", None, "day {day}: true value {true}")
+    cell_error(sel[4], "text_instead_of_number", "n/a", "day {day}: true value {true} -> '{new}'")
+    cell_error(sel[5], "text_instead_of_number", "five", "day {day}: true value {true} -> '{new}'")
+    # отрицательное
+    r = sel[6]
+    day = random.randint(1, last)
+    r["errs"].append((get_column_letter(2 + day), "negative_quantity",
+                      f"day {day}: true value {r['true'][day]} -> {-r['true'][day]}"))
+    r["cells"][day] = -r["true"][day]
+
+    # дубль всей строки товара
+    r = sel[1]
+    idx = next(i for i, x in enumerate(rows) if x is r)
+    dup = copy.deepcopy(r)
+    dup["truth"] = False
+    dup["errs"] = [("(вся строка)", "duplicate_row", "точная копия предыдущей строки товара")]
+    rows.insert(idx + 1, dup)
 
     wb = Workbook()
     ws = wb.active
-    ws.title = s_sales
-    write_table(ws, header, rows)
-    for col in range(2, len(header) + 1):
-        ws.column_dimensions[get_column_letter(col)].width = 6
-    ws.column_dimensions["A"].width = 22
-    ws2 = wb.create_sheet(s_price)
-    write_table(ws2, p_header, p_rows)
+    ws.title = "Sales Oct 2024"
+    ws.append(["Daily sales report — October 2024 (quantity sold per day)"])
+    ws["A1"].font = Font(bold=True, size=13)
+    ws.append([])
+    ws.append(["Product", "Category"] + list(range(1, last + 1)))
+    style_header(ws, 3, 2 + last)
+    for r in rows:
+        ws.append([r["name"], r["p"]["cat_en"]] + [r["cells"][d] for d in range(1, last + 1)])
+    set_widths(ws, [22, 12] + [5] * last)
+    ws.freeze_panes = "C4"
+
+    wp = wb.create_sheet("Prices")
+    wp.append(["Product", "Unit price (AZN)"])
+    style_header(wp, 1, 2)
+    for p in PRODUCTS:
+        wp.append([p["en"], price[p["en"]]])
+    set_widths(wp, [22, 16])
     wb.save(fname)
 
+    truth = []
+    for r in rows:
+        if r["truth"]:
+            for day in range(1, last + 1):
+                truth.append((date(year, month, day).isoformat(), r["p"]["en"], r["p"]["cat_en"],
+                              r["true"][day], price[r["p"]["en"]]))
+    errs = []
+    for i, r in enumerate(rows):
+        for col, typ, det in r["errs"]:
+            errs.append((fname, "Sales Oct 2024", 4 + i, col, typ, det))
+    return truth, errs, len(rows)
 
-# ---------------------------------------------------------------- main
+
+# ----------------------------------------------------------------------------
 if __name__ == "__main__":
-    file_2021_08()
-    file_2023_12()
-    file_2025_01()
+    truth, errs = [], []
+    for fn in (make_file1, make_file2, make_file3):
+        t, e, n = fn()
+        truth += t
+        errs += e
+        print(f"{fn.__name__}: {n} строк в Excel, {len(t)} чистых записей, {len(e)} ошибок")
 
-    gt = pd.DataFrame(GROUND_TRUTH).sort_values(["source_file", "date", "product_name"])
-    gt.to_csv("ground_truth.csv", index=False)
-    pd.DataFrame(ERRORS).to_csv("errors_injected.csv", index=False)
-    pd.DataFrame([dict(product_name=p[0], product_name_ru=p[1], category=p[2], unit=p[5])
-                  for p in PRODUCTS]).to_csv("products.csv", index=False)
-
-    print(f"ground_truth.csv: {len(gt)} sətir")
-    print(pd.DataFrame(ERRORS).groupby("file").size().rename("səhv sayı"))
+    truth.sort(key=lambda x: (x[0], x[1]))
+    with open("ground_truth.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["date", "product_name", "category", "quantity", "unit_price"])
+        w.writerows(truth)
+    with open("errors_injected.csv", "w", newline="", encoding="utf-8") as f:
+        w = csv.writer(f)
+        w.writerow(["file", "sheet", "excel_row", "column", "type", "details"])
+        w.writerows(errs)
+    print(f"ground_truth.csv: {len(truth)} строк; errors_injected.csv: {len(errs)} строк")
