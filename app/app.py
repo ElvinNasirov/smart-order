@@ -5,7 +5,7 @@ import streamlit as st
 
 st.set_page_config(page_title="Smart Order", layout="wide")
 st.title("Smart Order: Tomorrow's Order")
-DATA, OUT = Path("data"), Path("output")
+DATA, OUT, ORDERS = Path("data"), Path("output"), Path("orders")
 
 def run(script):
     env = {**os.environ, "PYTHONIOENCODING": "utf-8", "PYTHONUTF8": "1"}
@@ -32,20 +32,49 @@ with tab1:
             st.dataframe(pd.read_excel(OUT / "normalized.xlsx"))
 
 with tab2:
+    today_file = st.file_uploader("Upload today's sales report", type=["xlsx", "xls"],
+                                  key="today_upload")
+    if today_file is not None:
+        upload_key = f"{today_file.name}_{today_file.size}"
+        if st.session_state.get("processed_upload") != upload_key:
+            st.session_state["processed_upload"] = upload_key
+            (DATA / today_file.name).write_bytes(today_file.getbuffer())
+            with st.spinner("Normalizing data..."):
+                ok = run("normalize/normalize.py")
+            if ok:
+                with st.spinner("Building forecast..."):
+                    run("ml/forecast.py")
+
     if st.button("Build Forecast"):
         with st.spinner("Model is calculating..."):
             run("ml/forecast.py")
+
     f = OUT / "forecast_tomorrow.csv"
     if f.exists():
         fc = pd.read_csv(f)
-        if "date" in fc.columns and len(fc):
-            st.subheader(f"Order for {fc['date'].iloc[0]}")
+        forecast_date = fc["date"].iloc[0] if "date" in fc.columns and len(fc) else ""
+        if forecast_date:
+            st.subheader(f"Order for {forecast_date}")
         st.dataframe(fc)
+
         buf = io.BytesIO()
         fc.to_excel(buf, index=False, engine="openpyxl")
         st.download_button("Download Order", buf.getvalue(),
                            "order_tomorrow.xlsx",
                            "application/vnd.openxmlformats-officedocument.spreadsheetml.sheet")
+
+        if st.button("Add to order history workbook"):
+            ORDERS.mkdir(exist_ok=True)
+            hist_path = ORDERS / "order_history.xlsx"
+            sheet = (forecast_date or "forecast")[:31]
+            if hist_path.exists():
+                with pd.ExcelWriter(hist_path, engine="openpyxl", mode="a",
+                                    if_sheet_exists="replace") as w:
+                    fc.to_excel(w, sheet_name=sheet, index=False)
+            else:
+                with pd.ExcelWriter(hist_path, engine="openpyxl") as w:
+                    fc.to_excel(w, sheet_name=sheet, index=False)
+            st.success(f"Saved to {hist_path.resolve()}")
     else:
         st.info("Click 'Build Forecast'")
 
