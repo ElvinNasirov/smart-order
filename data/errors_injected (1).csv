@@ -1,0 +1,26 @@
+﻿file,sheet,excel_row,column,error_type,original_value,injected_value,true_date,true_product
+sales_2022_02.xlsx,Qiymətlər,7,B (Qiymət),empty_cell,0.80,(empty),(price list),Хлеб
+sales_2022_02.xlsx,Satış,2,AA (gün 26),empty_cell,50,(empty),2022-02-26,Молоко
+sales_2022_02.xlsx,Satış,4,AF (gün 31),value_on_nonexistent_day,(empty),9,(day does not exist in February),Сыр
+sales_2022_02.xlsx,Satış,5,A (Məhsul),typo_product_name,Yoqurt,Yourt,(whole row),Йогурт
+sales_2022_02.xlsx,Satış,10,AB (gün 27),negative_quantity,9,-9,2022-02-27,Пельмени
+sales_2022_02.xlsx,Satış,10,F (gün 5),text_instead_of_number,8,yoxdur,2022-02-05,Пельмени
+sales_2022_02.xlsx,Satış,12,C (gün 2),empty_cell,8,(empty),2022-02-02,Кофе
+sales_2022_02.xlsx,Satış,23,(entire row),duplicate_row,-,exact copy of previous row,(whole row),Халва
+sales_2022_11.xlsx,Ноябрь,80,Кол-во,negative_quantity,30,-30,2022-11-04,Молоко
+sales_2022_11.xlsx,Ноябрь,88,(entire row),duplicate_row,-,exact copy of previous row,2022-11-04,Кефир
+sales_2022_11.xlsx,Ноябрь,157,Цена за ед.,decimal_comma_in_price,1.95 AZN,"1,95 AZN",2022-11-07,Молоко
+sales_2022_11.xlsx,Ноябрь,335,Дата,invalid_date,2022-11-14,2022-11-31,2022-11-14,Макароны
+sales_2022_11.xlsx,Ноябрь,460,Наименование,typo_product_name,Конфеты,Коонфеты,2022-11-19,Конфеты
+sales_2022_11.xlsx,Ноябрь,508,Кол-во,empty_cell,50,(empty),2022-11-21,Лаваш
+sales_2022_11.xlsx,Ноябрь,628,Кол-во,text_instead_of_number,44,нет,2022-11-25,Молоко
+sales_2022_11.xlsx,Ноябрь,735,Наименование,typo_product_name,Хлеб,Khleb,2022-11-30,Хлеб
+sales_2022_12.xlsx,Satış,33,Tarix,invalid_date,02.12.2022,31.11.2022,2022-12-02,Лаваш
+sales_2022_12.xlsx,Satış,217,Qiymət,empty_cell,9.90,(empty),2022-12-09,Колбаса
+sales_2022_12.xlsx,Satış,428,Məhsul,typo_product_name,Kefir,Kefir ,2022-12-18,Кефир
+sales_2022_12.xlsx,Satış,511,Miqdar,text_instead_of_number,7,beş,2022-12-21,Чай
+sales_2022_12.xlsx,Satış,587,Məhsul,typo_product_name,Qəhvə,Qəhvə ,2022-12-24,Кофе
+sales_2022_12.xlsx,Satış,634,Miqdar,negative_quantity,7,-7,2022-12-26,Мороженое
+sales_2022_12.xlsx,Satış,644,Tarix,inconsistent_date_format,26.12.2022,2022/12/26,2022-12-26,Шоколад
+sales_2022_12.xlsx,Satış,657,(entire row),duplicate_row,-,exact copy of previous row,2022-12-27,Яйца
+sales_2022_12.xlsx,Satış,669,Miqdar,empty_cell,19,(empty),2022-12-27,Баранина
